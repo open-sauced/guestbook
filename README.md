@@ -6,17 +6,24 @@ While there's an automated bot that will help you add yourself to the contributo
 
 ## How to add yourself to the guestbook
 
+First, you'll want to have Node.js installed. You can do this by going to [nodejs.org](https://nodejs.org) and downloading the latest version. Then, follow these steps:
+
 1. Fork this repository
-2. Edit the `.all-contributors` file and add yourself to the list of contributors following the same object structure as the one that's already there. You can find the emoji key [here](https://allcontributors.org/docs/en/emoji-key).
-3. Commit your changes and open a pull request
-4. Once your pull request is merged, you'll be able to see yourself in the contributors list, and you'll have made a valid open source contribution!
+2. Clone your forked repository to your computer
+3. Run `npm install` to install the dependencies
+4. Run `npm run contributors:add` to add yourself to the contributors list
+5. Run `npm run contributors:generate` to generate the contributors list
+6. Commit your changes and push them to your forked repository
+7. Open a pull request to this repository
 
 You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as outlined in the course!
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
