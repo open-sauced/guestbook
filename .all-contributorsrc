@@ -73,9 +73,9 @@
         "review",
         "userTesting"
       ]
-    },
-    {
-      "login": "shirenekboyd",
+        },
+        {
+          "login": "shirenekboyd",
       "name": "Shirene Kadkhodai Boyd",
       "avatar_url": "https://avatars.githubusercontent.com/u/89878197?v=4",
       "profile": "https://github.com/shirenekboyd",
@@ -99,6 +99,21 @@
         "test",
         "tool",
         "userTesting"
+      ]
+    },
+    {
+      "login": "shelleymcq",
+      "name": "Shelley McHardy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81432121?v=4",
+      "profile": "https://www.shelleymcq.dev/",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "eventOrganizing",
+        "mentoring",
+        "review",
+        "tutorial"
       ]
     },
     {
