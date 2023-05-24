@@ -31,7 +31,32 @@
         "research",
         "translation",
         "tutorial",
-        "bug"
+        "bug"]
+    },
+      { "login": "BekahHW",
+      "name": "BekahHW",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34313413?v=4",
+      "profile": "https://bekahhw.github.io/",
+      "contributions": [
+        "question",
+        "audio",
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "mentoring",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "talk",
+        "test",
+        "tutorial",
+        "userTesting",
+        "video"
       ]
     }
   ],
