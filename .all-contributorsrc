@@ -73,9 +73,9 @@
         "review",
         "userTesting"
       ]
-    },
-    {
-      "login": "shirenekboyd",
+        },
+        {
+          "login": "shirenekboyd",
       "name": "Shirene Kadkhodai Boyd",
       "avatar_url": "https://avatars.githubusercontent.com/u/89878197?v=4",
       "profile": "https://github.com/shirenekboyd",
@@ -114,6 +114,16 @@
         "mentoring",
         "review",
         "tutorial"
+      ]
+    },
+    {
+      "login": "jmslynn",
+      "name": "jmslynn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72352820?v=4",
+      "profile": "https://github.com/jmslynn",
+      "contributions": [
+        "a11y",
+        "code"
       ]
     }
   ],
