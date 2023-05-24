@@ -30,7 +30,8 @@
         "example",
         "research",
         "translation",
-        "tutorial"
+        "tutorial",
+        "bug"
       ]
     }
   ],
