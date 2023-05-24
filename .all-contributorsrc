@@ -31,9 +31,11 @@
         "research",
         "translation",
         "tutorial",
-        "bug"]
+        "bug"
+      ]
     },
-      { "login": "BekahHW",
+    {
+      "login": "BekahHW",
       "name": "BekahHW",
       "avatar_url": "https://avatars.githubusercontent.com/u/34313413?v=4",
       "profile": "https://bekahhw.github.io/",
@@ -57,6 +59,19 @@
         "tutorial",
         "userTesting",
         "video"
+      ]
+    },
+    {
+      "login": "ValarieOyieke",
+      "name": "ValarieOyieke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99278182?v=4",
+      "profile": "https://github.com/ValarieOyieke",
+      "contributions": [
+        "bug",
+        "code",
+        "example",
+        "review",
+        "userTesting"
       ]
     }
   ],
