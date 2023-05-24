@@ -16,6 +16,31 @@
       "avatar_url": "https://github.com/tejasq.png",
       "profile": "https://tej.as/",
       "contributions": []
+    },
+    {
+      "login": "shirenekboyd",
+      "name": "Shirene Kadkhodai Boyd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89878197?v=4",
+      "profile": "https://github.com/shirenekboyd",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "research",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
