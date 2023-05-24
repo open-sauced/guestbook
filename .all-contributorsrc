@@ -16,6 +16,22 @@
       "avatar_url": "https://github.com/tejasq.png",
       "profile": "https://tej.as/",
       "contributions": []
+    },
+    {
+      "login": "pszymaniec",
+      "name": "pszymaniec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102276661?v=4",
+      "profile": "https://github.com/pszymaniec",
+      "contributions": [
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "research",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,

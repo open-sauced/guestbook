@@ -21,9 +21,7 @@ You can then add this to your [OpenSauced](https://opensauced.pizza) resume and 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -37,6 +35,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://tej.as/"><img src="https://github.com/tejasq.png?s=100" width="100px;" alt="Tejas Kumar"/><br /><sub><b>Tejas Kumar</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pszymaniec"><img src="https://avatars.githubusercontent.com/u/102276661?v=4?s=100" width="100px;" alt="pszymaniec"/><br /><sub><b>pszymaniec</b></sub></a><br /><a href="#blog-pszymaniec" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pszymaniec" title="Code">💻</a> <a href="#content-pszymaniec" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pszymaniec" title="Documentation">📖</a> <a href="#example-pszymaniec" title="Examples">💡</a> <a href="#research-pszymaniec" title="Research">🔬</a> <a href="#translation-pszymaniec" title="Translation">🌍</a> <a href="#tutorial-pszymaniec" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
