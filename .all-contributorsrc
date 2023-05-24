@@ -31,9 +31,11 @@
         "research",
         "translation",
         "tutorial",
-        "bug"]
+        "bug"
+      ]
     },
-      { "login": "BekahHW",
+    {
+      "login": "BekahHW",
       "name": "BekahHW",
       "avatar_url": "https://avatars.githubusercontent.com/u/34313413?v=4",
       "profile": "https://bekahhw.github.io/",
@@ -60,7 +62,20 @@
       ]
     },
     {
-      "login": "shirenekboyd",
+      "login": "ValarieOyieke",
+      "name": "ValarieOyieke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99278182?v=4",
+      "profile": "https://github.com/ValarieOyieke",
+      "contributions": [
+        "bug",
+        "code",
+        "example",
+        "review",
+        "userTesting"
+      ]
+},
+{
+  "login": "shirenekboyd",
       "name": "Shirene Kadkhodai Boyd",
       "avatar_url": "https://avatars.githubusercontent.com/u/89878197?v=4",
       "profile": "https://github.com/shirenekboyd",
