@@ -18,7 +18,22 @@
       "contributions": []
     },
     {
-      "login": "BekahHW",
+      "login": "pszymaniec",
+      "name": "pszymaniec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102276661?v=4",
+      "profile": "https://github.com/pszymaniec",
+      "contributions": [
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "research",
+        "translation",
+        "tutorial",
+        "bug"]
+    },
+      { "login": "BekahHW",
       "name": "BekahHW",
       "avatar_url": "https://avatars.githubusercontent.com/u/34313413?v=4",
       "profile": "https://bekahhw.github.io/",
