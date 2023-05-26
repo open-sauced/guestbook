@@ -22,6 +22,7 @@ You can then add this to your [OpenSauced](https://opensauced.pizza) resume and 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -43,7 +44,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jmslynn"><img src="https://avatars.githubusercontent.com/u/72352820?v=4?s=100" width="100px;" alt="jmslynn"/><br /><sub><b>jmslynn</b></sub></a><br /><a href="#a11y-jmslynn" title="Accessibility">️️️️♿️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=jmslynn" title="Code">💻</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://adiati.com/"><img src="https://avatars.githubusercontent.com/u/45172775?v=4?s=100" width="100px;" alt="Ayu Adiati"/><br /><sub><b>Ayu Adiati</b></sub></a><br /><a href="#question-adiati98" title="Answering Questions">💬</a> <a href="#blog-adiati98" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=adiati98" title="Code">💻</a> <a href="#content-adiati98" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=adiati98" title="Documentation">📖</a> <a href="#example-adiati98" title="Examples">💡</a> <a href="#mentoring-adiati98" title="Mentoring">🧑‍🏫</a> <a href="#talk-adiati98" title="Talks">📢</a> <a href="#translation-adiati98" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/droffilc1"><img src="https://avatars.githubusercontent.com/u/97587370?v=4?s=100" width="100px;" alt="Clifford Mapesa"/><br /><sub><b>Clifford Mapesa</b></sub></a><br /><a href="#a11y-droffilc1" title="Accessibility">️️️️♿️</a> <a href="#tutorial-droffilc1" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/edgarefigueroa"><img src="https://avatars.githubusercontent.com/u/55363462?v=4?s=100" width="100px;" alt="Edgar Figueroa"/><br /><sub><b>Edgar Figueroa</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=edgarefigueroa" title="Code">💻</a> <a href="#data-edgarefigueroa" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=edgarefigueroa" title="Documentation">📖</a> <a href="#research-edgarefigueroa" title="Research">🔬</a> <a href="#security-edgarefigueroa" title="Security">🛡️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=edgarefigueroa" title="Tests">⚠️</a> <a href="#translation-edgarefigueroa" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>
