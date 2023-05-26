@@ -142,6 +142,21 @@
         "talk",
         "translation"
       ]
+    },
+    {
+      "login": "edgarefigueroa",
+      "name": "Edgar Figueroa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55363462?v=4",
+      "profile": "https://github.com/edgarefigueroa",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "research",
+        "security",
+        "test",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
