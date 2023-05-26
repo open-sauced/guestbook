@@ -73,9 +73,9 @@
         "review",
         "userTesting"
       ]
-        },
-        {
-          "login": "shirenekboyd",
+    },
+    {
+      "login": "shirenekboyd",
       "name": "Shirene Kadkhodai Boyd",
       "avatar_url": "https://avatars.githubusercontent.com/u/89878197?v=4",
       "profile": "https://github.com/shirenekboyd",
@@ -124,6 +124,23 @@
       "contributions": [
         "a11y",
         "code"
+      ]
+    },
+    {
+      "login": "adiati98",
+      "name": "Ayu Adiati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45172775?v=4",
+      "profile": "https://adiati.com/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "mentoring",
+        "talk",
+        "translation"
       ]
     }
   ],
