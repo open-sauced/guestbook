@@ -73,9 +73,9 @@
         "review",
         "userTesting"
       ]
-        },
-        {
-          "login": "shirenekboyd",
+    },
+    {
+      "login": "shirenekboyd",
       "name": "Shirene Kadkhodai Boyd",
       "avatar_url": "https://avatars.githubusercontent.com/u/89878197?v=4",
       "profile": "https://github.com/shirenekboyd",
@@ -124,6 +124,16 @@
       "contributions": [
         "a11y",
         "code"
+      ]
+    },
+    {
+      "login": "droffilc1",
+      "name": "Clifford Mapesa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97587370?v=4",
+      "profile": "https://github.com/droffilc1",
+      "contributions": [
+        "a11y",
+        "tutorial"
       ]
     }
   ],
