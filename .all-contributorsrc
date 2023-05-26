@@ -127,6 +127,23 @@
       ]
     },
     {
+      "login": "adiati98",
+      "name": "Ayu Adiati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45172775?v=4",
+      "profile": "https://adiati.com/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "mentoring",
+        "talk",
+        "translation"
+      ]
+    },
+    {
       "login": "edgarefigueroa",
       "name": "Edgar Figueroa",
       "avatar_url": "https://avatars.githubusercontent.com/u/55363462?v=4",
