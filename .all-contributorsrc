@@ -135,6 +135,22 @@
         "a11y",
         "tutorial"
       ]
+    },
+    {
+      "login": "macabonilas827",
+      "name": "Mark Anel Cabonilas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134240236?v=4",
+      "profile": "https://github.com/macabonilas827",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
