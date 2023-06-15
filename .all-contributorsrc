@@ -151,6 +151,15 @@
         "ideas",
         "tool"
       ]
+    },
+    {
+      "login": "deisenhut",
+      "name": "Dan Eisenhut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11063252?v=4",
+      "profile": "https://github.com/deisenhut",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
