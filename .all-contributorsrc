@@ -160,6 +160,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "biroue10",
+      "name": "BIROUE ISAAC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27910604?v=4",
+      "profile": "https://biroue.tech/",
+      "contributions": [
+        "code",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
