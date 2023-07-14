@@ -202,7 +202,10 @@
         "a11y",
         "audio",
         "mentoring",
-        "userTesting"
+        "userTesting",
+        "question",
+        "tutorial",
+        "video"
       ]
     }
   ],
