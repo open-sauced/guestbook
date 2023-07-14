@@ -206,7 +206,8 @@
         "question",
         "test",
         "translation",
-        "video"
+        "video",
+        "talk"
       ]
     }
   ],
