@@ -192,6 +192,18 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Muyixone",
+      "name": "Alarezomo Osamuyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66142660?v=4",
+      "profile": "https://github.com/Muyixone",
+      "contributions": [
+        "a11y",
+        "audio",
+        "mentoring",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
