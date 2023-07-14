@@ -205,7 +205,9 @@
         "userTesting",
         "question",
         "tutorial",
-        "video"
+        "video",
+        "test",
+        "translation"
       ]
     }
   ],
