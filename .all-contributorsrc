@@ -208,6 +208,28 @@
         "translation",
         "talk"
       ]
+    },
+    {
+      "login": "alishata128",
+      "name": "Ali Shata",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22107238?v=4",
+      "profile": "https://www.linkedin.com/in/alishata/",
+      "contributions": [
+        "blog",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "promotion",
+        "research",
+        "review",
+        "talk",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
