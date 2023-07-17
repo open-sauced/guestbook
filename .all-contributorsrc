@@ -208,6 +208,15 @@
         "translation",
         "talk"
       ]
+    },
+    {
+      "login": "SushiJ",
+      "name": "Sushant Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74211783?v=4",
+      "profile": "https://github.com/SushiJ",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
