@@ -208,6 +208,21 @@
         "translation",
         "talk"
       ]
+    },
+    {
+      "login": "k1nho",
+      "name": "Kin NG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59541661?v=4",
+      "profile": "https://kinhong.vercel.app/",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "infra",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
