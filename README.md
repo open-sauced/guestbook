@@ -21,7 +21,7 @@ You can then add this to your [OpenSauced](https://opensauced.pizza) resume and 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -50,6 +50,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/deisenhut"><img src="https://avatars.githubusercontent.com/u/11063252?v=4?s=100" width="100px;" alt="Dan Eisenhut"/><br /><sub><b>Dan Eisenhut</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=deisenhut" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Muyixone"><img src="https://avatars.githubusercontent.com/u/66142660?v=4?s=100" width="100px;" alt="Alarezomo Osamuyi"/><br /><sub><b>Alarezomo Osamuyi</b></sub></a><br /><a href="#a11y-Muyixone" title="Accessibility">️️️️♿️</a> <a href="#audio-Muyixone" title="Audio">🔊</a> <a href="#mentoring-Muyixone" title="Mentoring">🧑‍🏫</a> <a href="#userTesting-Muyixone" title="User Testing">📓</a> <a href="#question-Muyixone" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Muyixone" title="Tests">⚠️</a> <a href="#translation-Muyixone" title="Translation">🌍</a> <a href="#talk-Muyixone" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://kinhong.vercel.app/"><img src="https://avatars.githubusercontent.com/u/59541661?v=4?s=100" width="100px;" alt="Kin NG"/><br /><sub><b>Kin NG</b></sub></a><br /><a href="#blog-k1nho" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ak1nho" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Code">💻</a> <a href="#design-k1nho" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Documentation">📖</a> <a href="#infra-k1nho" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Ak1nho" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ATREAY"><img src="https://avatars.githubusercontent.com/u/66585295?v=4?s=100" width="100px;" alt="Atreay  Kukanur"/><br /><sub><b>Atreay  Kukanur</b></sub></a><br /><a href="#question-ATREAY" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ATREAY" title="Code">💻</a> <a href="#content-ATREAY" title="Content">🖋</a> <a href="#design-ATREAY" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ATREAY" title="Documentation">📖</a> <a href="#eventOrganizing-ATREAY" title="Event Organizing">📋</a> <a href="#ideas-ATREAY" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-ATREAY" title="Promotion">📣</a> <a href="#research-ATREAY" title="Research">🔬</a> <a href="#userTesting-ATREAY" title="User Testing">📓</a></td>
     </tr>
   </tbody>
   <tfoot>
