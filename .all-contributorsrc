@@ -215,7 +215,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -230,6 +231,19 @@
         "doc",
         "infra",
         "review"
+      ]
+    },
+    {
+      "login": "Axfez",
+      "name": "Santiago Montoya Rendón",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92069466?v=4",
+      "profile": "https://github.com/Axfez",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "doc",
+        "maintenance"
       ]
     }
   ],
