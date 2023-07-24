@@ -215,7 +215,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -230,6 +231,45 @@
         "doc",
         "infra",
         "review"
+      ]
+    },
+    {
+      "login": "zh-hadi",
+      "name": "zh-hadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108709174?v=4",
+      "profile": "https://github.com/zh-hadi",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "financial",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
       ]
     }
   ],
