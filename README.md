@@ -21,7 +21,7 @@ You can then add this to your [OpenSauced](https://opensauced.pizza) resume and 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -50,7 +50,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/deisenhut"><img src="https://avatars.githubusercontent.com/u/11063252?v=4?s=100" width="100px;" alt="Dan Eisenhut"/><br /><sub><b>Dan Eisenhut</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=deisenhut" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Muyixone"><img src="https://avatars.githubusercontent.com/u/66142660?v=4?s=100" width="100px;" alt="Alarezomo Osamuyi"/><br /><sub><b>Alarezomo Osamuyi</b></sub></a><br /><a href="#a11y-Muyixone" title="Accessibility">️️️️♿️</a> <a href="#audio-Muyixone" title="Audio">🔊</a> <a href="#mentoring-Muyixone" title="Mentoring">🧑‍🏫</a> <a href="#userTesting-Muyixone" title="User Testing">📓</a> <a href="#question-Muyixone" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Muyixone" title="Tests">⚠️</a> <a href="#translation-Muyixone" title="Translation">🌍</a> <a href="#talk-Muyixone" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://ananfito.hashnode.dev/"><img src="https://avatars.githubusercontent.com/u/81890820?v=4?s=100" width="100px;" alt="Anthony Nanfito"/><br /><sub><b>Anthony Nanfito</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ananfito" title="Code">💻</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://kinhong.vercel.app/"><img src="https://avatars.githubusercontent.com/u/59541661?v=4?s=100" width="100px;" alt="Kin NG"/><br /><sub><b>Kin NG</b></sub></a><br /><a href="#blog-k1nho" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ak1nho" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Code">💻</a> <a href="#design-k1nho" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Documentation">📖</a> <a href="#infra-k1nho" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Ak1nho" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/beckyrich"><img src="https://avatars.githubusercontent.com/u/63355222?v=4?s=100" width="100px;" alt="Becky Richardson"/><br /><sub><b>Becky Richardson</b></sub></a><br /><a href="#blog-beckyrich" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Abeckyrich" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=beckyrich" title="Code">💻</a> <a href="#content-beckyrich" title="Content">🖋</a> <a href="#design-beckyrich" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=beckyrich" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
