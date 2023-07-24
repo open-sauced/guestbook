@@ -215,7 +215,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -230,6 +231,17 @@
         "doc",
         "infra",
         "review"
+      ]
+    },
+    {
+      "login": "chris-nowicki",
+      "name": "Chris Nowicki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102450568?v=4",
+      "profile": "https://www.chrisnowicki.io/",
+      "contributions": [
+        "blog",
+        "doc",
+        "tutorial"
       ]
     }
   ],
