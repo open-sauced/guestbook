@@ -237,7 +237,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -270,6 +271,15 @@
         "promotion",
         "research",
         "userTesting"
+      ]
+    },
+    {
+      "login": "luqman-salad",
+      "name": "Luqman Salad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111832964?v=4",
+      "profile": "https://github.com/luqman-salad",
+      "contributions": [
+        "tutorial"
       ]
     }
   ],
