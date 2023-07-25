@@ -231,6 +231,24 @@
         "infra",
         "review"
       ]
+    },
+    {
+      "login": "ATREAY",
+      "name": "Atreay  Kukanur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66585295?v=4",
+      "profile": "https://github.com/ATREAY",
+      "contributions": [
+        "question",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "promotion",
+        "research",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
