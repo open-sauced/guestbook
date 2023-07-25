@@ -215,7 +215,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -248,6 +249,47 @@
         "promotion",
         "research",
         "userTesting"
+      ]
+    },
+    {
+      "login": "Muniir1",
+      "name": "Muniir1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121073318?v=4",
+      "profile": "https://github.com/Muniir1",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
       ]
     }
   ],
