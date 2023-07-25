@@ -229,6 +229,27 @@
         "review",
         "talk",
         "tutorial"
+=======
+      "login": "ananfito",
+      "name": "Anthony Nanfito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
+      "profile": "http://ananfito.hashnode.dev/",
+      "contributions": [
+        "code"]
+    },
+    {
+      "login": "k1nho",
+      "name": "Kin NG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59541661?v=4",
+      "profile": "https://kinhong.vercel.app/",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "infra",
+        "review"
       ]
     }
   ],
