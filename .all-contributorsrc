@@ -271,6 +271,28 @@
         "research",
         "userTesting"
       ]
+    },
+    {
+      "login": "Muniir1",
+      "name": "Muniir1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121073318?v=4",
+      "profile": "https://github.com/Muniir1",
+      "contributions": [
+        "blog",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "promotion",
+        "research",
+        "review",
+        "talk",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
