@@ -229,7 +229,7 @@
         "review",
         "talk",
         "tutorial"
-]
+      ]
     },
     {
       "login": "ananfito",
@@ -237,7 +237,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -270,6 +271,15 @@
         "promotion",
         "research",
         "userTesting"
+      ]
+    },
+    {
+      "login": "Ali-Ahmed-Mohammed",
+      "name": "Ali Ahmed Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134586233?v=4",
+      "profile": "https://github.com/Ali-Ahmed-Mohammed",
+      "contributions": [
+        "tutorial"
       ]
     }
   ],
