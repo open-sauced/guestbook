@@ -210,6 +210,28 @@
       ]
     },
     {
+      "login": "alishata128",
+      "name": "Ali Shata",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22107238?v=4",
+      "profile": "https://www.linkedin.com/in/alishata/",
+      "contributions": [
+        "blog",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "promotion",
+        "research",
+        "review",
+        "talk",
+        "tutorial"
+]
+    },
+    {
       "login": "ananfito",
       "name": "Anthony Nanfito",
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
