@@ -1,278 +1,57 @@
 {
-  "projectName": "opensauced-guestbook",
-  "projectOwner": "TejasQ",
+  "projectName": "https://github.com/open-sauced/guestbook",
+  "projectOwner": "https://github.com/open-sauced",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
-    "README.md"
+    ".aributorsrc"
   ],
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "tejasq",
-      "name": "Tejas Kumar",
-      "avatar_url": "https://github.com/tejasq.png",
-      "profile": "https://tej.as/",
-      "contributions": []
-    },
-    {
-      "login": "pszymaniec",
-      "name": "pszymaniec",
-      "avatar_url": "https://avatars.githubusercontent.com/u/102276661?v=4",
-      "profile": "https://github.com/pszymaniec",
+      "login": "safacade009",
+      "name": "safacade009",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122990983?v=4",
+      "profile": "https://github.com/safacade009",
       "contributions": [
-        "blog",
-        "code",
-        "content",
-        "doc",
-        "example",
-        "research",
-        "translation",
-        "tutorial",
-        "bug"
-      ]
-    },
-    {
-      "login": "BekahHW",
-      "name": "BekahHW",
-      "avatar_url": "https://avatars.githubusercontent.com/u/34313413?v=4",
-      "profile": "https://bekahhw.github.io/",
-      "contributions": [
+        "a11y",
         "question",
         "audio",
         "blog",
+        "bug",
+        "business",
         "code",
         "content",
+        "data",
+        "design",
         "doc",
         "eventOrganizing",
         "example",
+        "financial",
+        "fundingFinding",
         "ideas",
+        "infra",
+        "maintenance",
         "mentoring",
+        "platform",
+        "plugin",
         "projectManagement",
         "promotion",
         "research",
         "review",
+        "security",
         "talk",
         "test",
+        "tool",
+        "translation",
         "tutorial",
         "userTesting",
         "video"
       ]
-    },
-    {
-      "login": "ValarieOyieke",
-      "name": "ValarieOyieke",
-      "avatar_url": "https://avatars.githubusercontent.com/u/99278182?v=4",
-      "profile": "https://github.com/ValarieOyieke",
-      "contributions": [
-        "bug",
-        "code",
-        "example",
-        "review",
-        "userTesting"
-      ]
-    },
-    {
-      "login": "shirenekboyd",
-      "name": "Shirene Kadkhodai Boyd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/89878197?v=4",
-      "profile": "https://github.com/shirenekboyd",
-      "contributions": [
-        "a11y",
-        "question",
-        "blog",
-        "bug",
-        "code",
-        "content",
-        "data",
-        "design",
-        "doc",
-        "ideas",
-        "maintenance",
-        "mentoring",
-        "plugin",
-        "research",
-        "review",
-        "talk",
-        "test",
-        "tool",
-        "userTesting"
-      ]
-    },
-    {
-      "login": "shelleymcq",
-      "name": "Shelley McHardy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/81432121?v=4",
-      "profile": "https://www.shelleymcq.dev/",
-      "contributions": [
-        "question",
-        "code",
-        "doc",
-        "eventOrganizing",
-        "mentoring",
-        "review",
-        "tutorial"
-      ]
-    },
-    {
-      "login": "jmslynn",
-      "name": "jmslynn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/72352820?v=4",
-      "profile": "https://github.com/jmslynn",
-      "contributions": [
-        "a11y",
-        "code"
-      ]
-    },
-    {
-      "login": "adiati98",
-      "name": "Ayu Adiati",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45172775?v=4",
-      "profile": "https://adiati.com/",
-      "contributions": [
-        "question",
-        "blog",
-        "code",
-        "content",
-        "doc",
-        "example",
-        "mentoring",
-        "talk",
-        "translation"
-      ]
-    },
-    {
-      "login": "droffilc1",
-      "name": "Clifford Mapesa",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97587370?v=4",
-      "profile": "https://github.com/droffilc1",
-      "contributions": [
-        "a11y",
-        "tutorial"
-      ]
-    },
-    {
-      "login": "edgarefigueroa",
-      "name": "Edgar Figueroa",
-      "avatar_url": "https://avatars.githubusercontent.com/u/55363462?v=4",
-      "profile": "https://github.com/edgarefigueroa",
-      "contributions": [
-        "code",
-        "data",
-        "doc",
-        "research",
-        "security",
-        "test",
-        "translation"
-      ]
-    },
-    {
-      "login": "macabonilas827",
-      "name": "Mark Anel Cabonilas",
-      "avatar_url": "https://avatars.githubusercontent.com/u/134240236?v=4",
-      "profile": "https://github.com/macabonilas827",
-      "contributions": [
-        "a11y",
-        "question",
-        "blog",
-        "code",
-        "data",
-        "doc",
-        "ideas",
-        "tool"
-      ]
-    },
-    {
-      "login": "deisenhut",
-      "name": "Dan Eisenhut",
-      "avatar_url": "https://avatars.githubusercontent.com/u/11063252?v=4",
-      "profile": "https://github.com/deisenhut",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "Muyixone",
-      "name": "Alarezomo Osamuyi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/66142660?v=4",
-      "profile": "https://github.com/Muyixone",
-      "contributions": [
-        "a11y",
-        "audio",
-        "mentoring",
-        "userTesting",
-        "question",
-        "test",
-        "translation",
-        "talk"
-      ]
-    },
-    {
-      "login": "alishata128",
-      "name": "Ali Shata",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22107238?v=4",
-      "profile": "https://www.linkedin.com/in/alishata/",
-      "contributions": [
-        "blog",
-        "code",
-        "content",
-        "data",
-        "design",
-        "doc",
-        "eventOrganizing",
-        "example",
-        "ideas",
-        "promotion",
-        "research",
-        "review",
-        "talk",
-        "tutorial"
-]
-    },
-    {
-      "login": "ananfito",
-      "name": "Anthony Nanfito",
-      "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
-      "profile": "http://ananfito.hashnode.dev/",
-      "contributions": [
-        "code"]
-    },
-    {
-      "login": "k1nho",
-      "name": "Kin NG",
-      "avatar_url": "https://avatars.githubusercontent.com/u/59541661?v=4",
-      "profile": "https://kinhong.vercel.app/",
-      "contributions": [
-        "blog",
-        "bug",
-        "code",
-        "design",
-        "doc",
-        "infra",
-        "review"
-      ]
-    },
-    {
-      "login": "ATREAY",
-      "name": "Atreay  Kukanur",
-      "avatar_url": "https://avatars.githubusercontent.com/u/66585295?v=4",
-      "profile": "https://github.com/ATREAY",
-      "contributions": [
-        "question",
-        "code",
-        "content",
-        "design",
-        "doc",
-        "eventOrganizing",
-        "ideas",
-        "promotion",
-        "research",
-        "userTesting"
-      ]
     }
   ],
   "contributorsPerLine": 7,
-  "linkToUsage": true
+  "linkToUsage": false
 }
