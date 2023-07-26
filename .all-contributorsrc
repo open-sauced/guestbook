@@ -229,7 +229,7 @@
         "review",
         "talk",
         "tutorial"
-]
+      ]
     },
     {
       "login": "ananfito",
@@ -237,7 +237,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -269,6 +270,28 @@
         "ideas",
         "promotion",
         "research",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "Suei43",
+      "name": "Folarin Raphael ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101181374?v=4",
+      "profile": "https://github.com/Suei43",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "code",
+        "doc",
+        "maintenance",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "review",
+        "test",
+        "translation",
         "userTesting"
       ]
     }
