@@ -281,7 +281,13 @@
       "contributions": [
         "code",
         "content",
-        "design"
+        "design",
+        "bug",
+        "doc",
+        "ideas",
+        "projectManagement",
+        "research",
+        "test"
       ]
     }
   ],
