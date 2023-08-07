@@ -21,7 +21,7 @@ You can then add this to your [OpenSauced](https://opensauced.pizza) resume and 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://kinhong.vercel.app/"><img src="https://avatars.githubusercontent.com/u/59541661?v=4?s=100" width="100px;" alt="Kin NG"/><br /><sub><b>Kin NG</b></sub></a><br /><a href="#blog-k1nho" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ak1nho" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Code">💻</a> <a href="#design-k1nho" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Documentation">📖</a> <a href="#infra-k1nho" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Ak1nho" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.chrisnowicki.io/"><img src="https://avatars.githubusercontent.com/u/102450568?v=4?s=100" width="100px;" alt="Chris Nowicki"/><br /><sub><b>Chris Nowicki</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=chris-nowicki" title="Code">💻</a> <a href="#blog-chris-nowicki" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=chris-nowicki" title="Documentation">📖</a> <a href="#tutorial-chris-nowicki" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Franklyn883"><img src="https://avatars.githubusercontent.com/u/67758035?v=4?s=100" width="100px;" alt="Frank Alimimian"/><br /><sub><b>Frank Alimimian</b></sub></a><br /><a href="#blog-Franklyn883" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Franklyn883" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Franklyn883" title="Documentation">📖</a> <a href="#research-Franklyn883" title="Research">🔬</a></td>
     </tr>
   </tbody>
   <tfoot>
