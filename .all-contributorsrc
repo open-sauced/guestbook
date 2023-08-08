@@ -229,7 +229,7 @@
         "review",
         "talk",
         "tutorial"
-]
+      ]
     },
     {
       "login": "ananfito",
@@ -281,6 +281,17 @@
         "promotion",
         "research",
         "userTesting"
+      ]
+    },
+    {
+      "login": "fab33150",
+      "name": "Fabrice Innocent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31627257?v=4",
+      "profile": "https://github.com/fab33150",
+      "contributions": [
+        "blog",
+        "code",
+        "review"
       ]
     }
   ],

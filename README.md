@@ -1,8 +1,8 @@
 # THE OPENSAUCED GUESTBOOK
 
-This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s "Open Source for Beginners" course to take their first steps into contributing to open source.
+This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
 
-While there's an automated bot that will help you add yourself to the contributor's list via an issue, we recommend actually editing the `.all-contributors` file to get more experience with pull requests and reviews.
+While there's an automated bot that will help you add yourself to the contributor's list via an issue, we recommend actually editing the `.all-contributorsrc` file to get more experience with pull requests and reviews.
 
 ## How to add yourself to the guestbook
 
@@ -16,7 +16,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 6. Commit your changes and push them to your forked repository
 7. Open a pull request to this repository
 
-You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as outlined in the course!
+You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
 ## Contributors
 
@@ -58,7 +58,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Axfez"><img src="https://avatars.githubusercontent.com/u/92069466?v=4?s=100" width="100px;" alt="Santiago Montoya Rendón"/><br /><sub><b>Santiago Montoya Rendón</b></sub></a><br /><a href="#question-Axfez" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Axfez" title="Code">💻</a> <a href="#data-Axfez" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Axfez" title="Documentation">📖</a> <a href="#maintenance-Axfez" title="Maintenance">🚧</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://ananfito.hashnode.dev/"><img src="https://avatars.githubusercontent.com/u/81890820?v=4?s=100" width="100px;" alt="Anthony Nanfito"/><br /><sub><b>Anthony Nanfito</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ananfito" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://kinhong.vercel.app/"><img src="https://avatars.githubusercontent.com/u/59541661?v=4?s=100" width="100px;" alt="Kin NG"/><br /><sub><b>Kin NG</b></sub></a><br /><a href="#blog-k1nho" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ak1nho" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Code">💻</a> <a href="#design-k1nho" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=k1nho" title="Documentation">📖</a> <a href="#infra-k1nho" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Ak1nho" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ATREAY"><img src="https://avatars.githubusercontent.com/u/66585295?v=4?s=100" width="100px;" alt="Atreay  Kukanur"/><br /><sub><b>Atreay  Kukanur</b></sub></a><br /><a href="#question-ATREAY" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ATREAY" title="Code">💻</a> <a href="#content-ATREAY" title="Content">🖋</a> <a href="#design-ATREAY" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ATREAY" title="Documentation">📖</a> <a href="#eventOrganizing-ATREAY" title="Event Organizing">📋</a> <a href="#ideas-ATREAY" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-ATREAY" title="Promotion">📣</a> <a href="#research-ATREAY" title="Research">🔬</a> <a href="#userTesting-ATREAY" title="User Testing">📓</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fab33150"><img src="https://avatars.githubusercontent.com/u/31627257?v=4?s=100" width="100px;" alt="Fabrice Innocent"/><br /><sub><b>Fabrice Innocent</b></sub></a><br /><a href="#blog-fab33150" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=fab33150" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Afab33150" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
   <tfoot>
