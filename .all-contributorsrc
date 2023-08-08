@@ -256,35 +256,48 @@
       ]
     },
     {
-      "login": "ATREAY",
-      "name": "Atreay  Kukanur",
-      "avatar_url": "https://avatars.githubusercontent.com/u/66585295?v=4",
-      "profile": "https://github.com/ATREAY",
+      "login": "Axfez",
+      "name": "Santiago Montoya Rendón",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92069466?v=4",
+      "profile": "https://github.com/Axfez",
       "contributions": [
         "question",
         "code",
-        "content",
-        "design",
+        "data",
         "doc",
-        "eventOrganizing",
-        "ideas",
-        "promotion",
-        "research",
-        "userTesting"
+        "maintenance"
       ]
     },
     {
-      "login": "fab33150",
-      "name": "Fabrice Innocent",
-      "avatar_url": "https://avatars.githubusercontent.com/u/31627257?v=4",
-      "profile": "https://github.com/fab33150",
-      "contributions": [
-        "blog",
-        "code",
-        "review"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
-  "linkToUsage": true
+    "login": "ATREAY",
+    "name": "Atreay  Kukanur",
+    "avatar_url": "https://avatars.githubusercontent.com/u/66585295?v=4",
+    "profile": "https://github.com/ATREAY",
+    "contributions": [
+      "question",
+      "code",
+      "content",
+      "design",
+      "doc",
+      "eventOrganizing",
+      "ideas",
+      "promotion",
+      "research",
+      "userTesting"
+    ]
+  },
+  {
+    "login": "fab33150",
+    "name": "Fabrice Innocent",
+    "avatar_url": "https://avatars.githubusercontent.com/u/31627257?v=4",
+    "profile": "https://github.com/fab33150",
+    "contributions": [
+      "blog",
+      "code",
+      "review"
+    ]
+  }
+],
+"contributorsPerLine": 7,
+"linkToUsage": true
 }
