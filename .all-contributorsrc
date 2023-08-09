@@ -194,6 +194,25 @@
       ]
     },
     {
+      "login": "JayRKyd",
+      "name": "Jay Knowles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63754188?v=4",
+      "profile": "https://github.com/JayRKyd",
+      "contributions": [
+        "blog",
+        "code"
+      ]
+    },
+    {
+      "login": "biroue10",
+      "name": "BIROUE ISAAC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27910604?v=4",
+      "profile": "https://biroue.tech/",
+      "contributions": [
+        "code",
+        "translation"]
+      },
+      {
       "login": "Muyixone",
       "name": "Alarezomo Osamuyi",
       "avatar_url": "https://avatars.githubusercontent.com/u/66142660?v=4",
@@ -229,7 +248,7 @@
         "review",
         "talk",
         "tutorial"
-]
+      ]
     },
     {
       "login": "ananfito",
@@ -237,7 +256,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
       "profile": "http://ananfito.hashnode.dev/",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "k1nho",
@@ -252,6 +272,58 @@
         "doc",
         "infra",
         "review"
+      ]
+    },
+    {
+      "login": "zh-hadi",
+      "name": "zh-hadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108709174?v=4",
+      "profile": "https://github.com/zh-hadi",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "financial",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
+        ]
+    },
+    {
+      "login": "Axfez",
+      "name": "Santiago Montoya Rendón",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92069466?v=4",
+      "profile": "https://github.com/Axfez",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "doc",
+        "maintenance"
       ]
     },
     {
@@ -270,6 +342,100 @@
         "promotion",
         "research",
         "userTesting"
+      ]
+    },
+    {
+      "login": "Muniir1",
+      "name": "muniir1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121073318?v=4",
+      "profile": "https://github.com/Muniir1",
+      "contributions": [
+        "a11y"
+        ]
+    },
+    {
+      "login": "anyanime",
+      "name": "Anyanime Benson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58043661?v=4",
+      "profile": "https://github.com/anyanime",
+      "contributions": [
+        "code",
+        "doc"
+        ]
+    },
+    {
+      "login": "IbnuAlii",
+      "name": "Mohamed Ali Nor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114952970?v=4",
+      "profile": "https://github.com/IbnuAlii",
+      "contributions": [
+        "promotion"
+        ]
+    },
+    {
+      "login": "Suei43",
+      "name": "Folarin Raphael ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101181374?v=4",
+      "profile": "https://github.com/Suei43",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "code",
+        "doc",
+        "maintenance",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "review",
+        "test",
+        "translation",
+        "userTesting"
+]
+},
+{
+      "login": "lutfiaomarr",
+      "name": "lutfiaomarr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140343079?v=4",
+      "profile": "https://github.com/lutfiaomarr",
+      "contributions": [
+        "a11y"
+        ]
+    },
+    {
+      "login": "Ali-Ahmed-Mohamed",
+      "name": "Ali-Ahmed-Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76924291?v=4",
+      "profile": "https://github.com/Ali-Ahmed-Mohamed",
+      "contributions": [
+        "code"]
+    },
+    {
+      "login": "fab33150",
+      "name": "Fabrice Innocent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31627257?v=4",
+      "profile": "https://github.com/fab33150",
+      "contributions": [
+        "blog",
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "samgkigotho",
+      "name": "Samgkigotho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116047791?v=4",
+      "profile": "https://github.com/samgkigotho",
+      "contributions": [
+        "blog",
+        "bug",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "ideas"
       ]
     }
   ],
