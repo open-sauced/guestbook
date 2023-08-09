@@ -296,6 +296,22 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "samgkigotho",
+      "name": "Samgkigotho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116047791?v=4",
+      "profile": "https://github.com/samgkigotho",
+      "contributions": [
+        "blog",
+        "bug",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
