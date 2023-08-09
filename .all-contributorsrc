@@ -345,6 +345,23 @@
       ]
     },
     {
+      "login": "kelvinyelyen",
+      "name": "Kelvin Yelyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52675327?v=4",
+      "profile": "https://github.com/kelvinyelyen",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "bug",
+        "doc",
+        "ideas",
+        "projectManagement",
+        "research",
+        "test"
+        ]
+    },
+    {
       "login": "Fatima-Abdirashid",
       "name": "Fatima-Abdirashid",
       "avatar_url": "https://avatars.githubusercontent.com/u/140537915?v=4",
