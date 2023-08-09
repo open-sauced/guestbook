@@ -1,17 +1,17 @@
 {
-	"name": "opensauced-guestbook",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"contributors:generate": "all-contributors generate",
-		"contributors:add": "all-contributors add"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"devDependencies": {
-		"all-contributors-cli": "^6.25.0"
-	}
+  "name": "opensauced-guestbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contributors:generate": "all-contributors generate",
+    "contributors:add": "all-contributors add"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "all-contributors-cli": "^6.25.0"
+  }
 }
