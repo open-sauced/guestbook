@@ -57,7 +57,6 @@
         "talk",
         "test",
         "tutorial",
-        "userTesting",
         "video"
       ]
     },
@@ -504,6 +503,44 @@
         "blog",
         "code",
         "review"
+      ]
+    },
+    {
+      "login": "beckyrich",
+      "name": "Becky Richardson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63355222?v=4",
+      "profile": "https://github.com/beckyrich",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "design",
+        "doc"
+      ]
+    },
+    {
+      "login": "chris-nowicki",
+      "name": "Chris Nowicki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102450568?v=4",
+      "profile": "https://www.chrisnowicki.io/",
+      "contributions": [
+        "code",
+        "blog",
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Franklyn883",
+      "name": "Frank Alimimian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67758035?v=4",
+      "profile": "https://github.com/Franklyn883",
+      "contributions": [
+        "blog",
+        "code",
+        "doc",
+        "research"
       ]
     },
     {
