@@ -127,6 +127,23 @@
       ]
     },
     {
+      "login": "adiati98",
+      "name": "Ayu Adiati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45172775?v=4",
+      "profile": "https://adiati.com/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "mentoring",
+        "talk",
+        "translation"
+      ]
+    },
+    {
       "login": "droffilc1",
       "name": "Clifford Mapesa",
       "avatar_url": "https://avatars.githubusercontent.com/u/97587370?v=4",
@@ -134,6 +151,21 @@
       "contributions": [
         "a11y",
         "tutorial"
+      ]
+    },
+    {
+      "login": "edgarefigueroa",
+      "name": "Edgar Figueroa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55363462?v=4",
+      "profile": "https://github.com/edgarefigueroa",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "research",
+        "security",
+        "test",
+        "translation"
       ]
     },
     {
@@ -162,6 +194,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "login": "biroue10",
       "name": "BIROUE ISAAC",
       "avatar_url": "https://avatars.githubusercontent.com/u/27910604?v=4",
@@ -169,6 +202,109 @@
       "contributions": [
         "code",
         "translation"
+=======
+      "login": "Muyixone",
+      "name": "Alarezomo Osamuyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66142660?v=4",
+      "profile": "https://github.com/Muyixone",
+      "contributions": [
+        "a11y",
+        "audio",
+        "mentoring",
+        "userTesting",
+        "question",
+        "test",
+        "translation",
+        "talk"
+      ]
+    },
+    {
+      "login": "alishata128",
+      "name": "Ali Shata",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22107238?v=4",
+      "profile": "https://www.linkedin.com/in/alishata/",
+      "contributions": [
+        "blog",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "promotion",
+        "research",
+        "review",
+        "talk",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ananfito",
+      "name": "Anthony Nanfito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81890820?v=4",
+      "profile": "http://ananfito.hashnode.dev/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "k1nho",
+      "name": "Kin NG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59541661?v=4",
+      "profile": "https://kinhong.vercel.app/",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "infra",
+        "review"
+      ]
+    },
+    {
+      "login": "Axfez",
+      "name": "Santiago Montoya Rendón",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92069466?v=4",
+      "profile": "https://github.com/Axfez",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "ATREAY",
+      "name": "Atreay  Kukanur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66585295?v=4",
+      "profile": "https://github.com/ATREAY",
+      "contributions": [
+        "question",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "promotion",
+        "research",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "fab33150",
+      "name": "Fabrice Innocent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31627257?v=4",
+      "profile": "https://github.com/fab33150",
+      "contributions": [
+        "blog",
+        "code",
+        "review"
+>>>>>>> main
       ]
     }
   ],

@@ -1,8 +1,8 @@
 # THE OPENSAUCED GUESTBOOK
 
-This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s "Open Source for Beginners" course to take their first steps into contributing to open source.
+This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
 
-While there's an automated bot that will help you add yourself to the contributor's list via an issue, we recommend actually editing the `.all-contributors` file to get more experience with pull requests and reviews.
+While there's an automated bot that will help you add yourself to the contributor's list via an issue, we recommend actually editing the `.all-contributorsrc` file to get more experience with pull requests and reviews.
 
 ## How to add yourself to the guestbook
 
@@ -16,12 +16,12 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 6. Commit your changes and push them to your forked repository
 7. Open a pull request to this repository
 
-You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as outlined in the course!
+You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -46,7 +46,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/droffilc1"><img src="https://avatars.githubusercontent.com/u/97587370?v=4?s=100" width="100px;" alt="Clifford Mapesa"/><br /><sub><b>Clifford Mapesa</b></sub></a><br /><a href="#a11y-droffilc1" title="Accessibility">️️️️♿️</a> <a href="#tutorial-droffilc1" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/macabonilas827"><img src="https://avatars.githubusercontent.com/u/134240236?v=4?s=100" width="100px;" alt="Mark Anel Cabonilas"/><br /><sub><b>Mark Anel Cabonilas</b></sub></a><br /><a href="#a11y-macabonilas827" title="Accessibility">️️️️♿️</a> <a href="#question-macabonilas827" title="Answering Questions">💬</a> <a href="#blog-macabonilas827" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=macabonilas827" title="Code">💻</a> <a href="#data-macabonilas827" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=macabonilas827" title="Documentation">📖</a> <a href="#ideas-macabonilas827" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tool-macabonilas827" title="Tools">🔧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/deisenhut"><img src="https://avatars.githubusercontent.com/u/11063252?v=4?s=100" width="100px;" alt="Dan Eisenhut"/><br /><sub><b>Dan Eisenhut</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=deisenhut" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://biroue.tech/"><img src="https://avatars.githubusercontent.com/u/27910604?v=4?s=100" width="100px;" alt="BIROUE ISAAC"/><br /><sub><b>BIROUE ISAAC</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=biroue10" title="Code">💻</a> <a href="#translation-biroue10" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>
