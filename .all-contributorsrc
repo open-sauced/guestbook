@@ -367,7 +367,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/29323125?v=4",
       "profile": "https://github.com/prabhatisme",
       "contributions": [
-        "audop",
+        "audio",
         "code",
         "design"
         ]
@@ -575,6 +575,17 @@
         "doc",
         "example",
         "ideas"
+      ]
+    },
+    {
+      "login": "Ant-Shell",
+      "name": "Anthony Shellman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100455148?v=4",
+      "profile": "https://github.com/Ant-Shell",
+      "contributions": [
+        "code",
+        "doc",
+        "research"
       ]
     }
   ],
