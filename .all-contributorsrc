@@ -57,7 +57,8 @@
         "talk",
         "test",
         "tutorial",
-        "video"
+        "video",
+        "bug"
       ]
     },
     {
@@ -209,9 +210,10 @@
       "profile": "https://biroue.tech/",
       "contributions": [
         "code",
-        "translation"]
-      },
-      {
+        "translation"
+      ]
+    },
+    {
       "login": "Muyixone",
       "name": "Alarezomo Osamuyi",
       "avatar_url": "https://avatars.githubusercontent.com/u/66142660?v=4",
@@ -310,7 +312,7 @@
         "tutorial",
         "userTesting",
         "video"
-        ]
+      ]
     },
     {
       "login": "Axfez",
@@ -361,7 +363,7 @@
         "audop",
         "code",
         "design"
-        ]
+      ]
     },
     {
       "login": "kelvinyelyen",
@@ -378,7 +380,7 @@
         "projectManagement",
         "research",
         "test"
-        ]
+      ]
     },
     {
       "login": "Fatima-Abdirashid",
@@ -415,7 +417,7 @@
         "tutorial",
         "userTesting",
         "video"
-        ]
+      ]
     },
     {
       "login": "Iqra-Issack",
@@ -425,7 +427,7 @@
       "contributions": [
         "infra",
         "maintenance"
-        ]
+      ]
     },
     {
       "login": "Muniir1",
@@ -434,7 +436,7 @@
       "profile": "https://github.com/Muniir1",
       "contributions": [
         "a11y"
-        ]
+      ]
     },
     {
       "login": "anyanime",
@@ -444,7 +446,7 @@
       "contributions": [
         "code",
         "doc"
-        ]
+      ]
     },
     {
       "login": "IbnuAlii",
@@ -453,7 +455,7 @@
       "profile": "https://github.com/IbnuAlii",
       "contributions": [
         "promotion"
-        ]
+      ]
     },
     {
       "login": "Suei43",
@@ -475,16 +477,16 @@
         "test",
         "translation",
         "userTesting"
-]
-},
-{
+      ]
+    },
+    {
       "login": "lutfiaomarr",
       "name": "lutfiaomarr",
       "avatar_url": "https://avatars.githubusercontent.com/u/140343079?v=4",
       "profile": "https://github.com/lutfiaomarr",
       "contributions": [
         "a11y"
-        ]
+      ]
     },
     {
       "login": "Ali-Ahmed-Mohamed",
@@ -492,7 +494,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/76924291?v=4",
       "profile": "https://github.com/Ali-Ahmed-Mohamed",
       "contributions": [
-        "code"]
+        "code"
+      ]
     },
     {
       "login": "fab33150",
@@ -550,7 +553,7 @@
       "profile": "https://danott.dev/",
       "contributions": [
         "code"
-        ]
+      ]
     },
     {
       "login": "samgkigotho",
