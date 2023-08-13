@@ -587,6 +587,22 @@
         "doc",
         "research"
       ]
+    },
+    {
+      "login": "alanoteles",
+      "name": "Alano Teles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1028089?v=4",
+      "profile": "https://github.com/alanoteles",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "research",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
