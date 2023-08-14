@@ -21,7 +21,7 @@ You can then add this to your [OpenSauced](https://opensauced.pizza) resume and 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://danott.dev/"><img src="https://avatars.githubusercontent.com/u/360261?v=4?s=100" width="100px;" alt="Dan Ott"/><br /><sub><b>Dan Ott</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=danieltott" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/samgkigotho"><img src="https://avatars.githubusercontent.com/u/116047791?v=4?s=100" width="100px;" alt="Samgkigotho"/><br /><sub><b>Samgkigotho</b></sub></a><br /><a href="#blog-samgkigotho" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Asamgkigotho" title="Bug reports">🐛</a> <a href="#content-samgkigotho" title="Content">🖋</a> <a href="#data-samgkigotho" title="Data">🔣</a> <a href="#design-samgkigotho" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=samgkigotho" title="Documentation">📖</a> <a href="#example-samgkigotho" title="Examples">💡</a> <a href="#ideas-samgkigotho" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ant-Shell"><img src="https://avatars.githubusercontent.com/u/100455148?v=4?s=100" width="100px;" alt="Anthony Shellman"/><br /><sub><b>Anthony Shellman</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ant-Shell" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ant-Shell" title="Documentation">📖</a> <a href="#research-Ant-Shell" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alanoteles"><img src="https://avatars.githubusercontent.com/u/1028089?v=4?s=100" width="100px;" alt="Alano Teles"/><br /><sub><b>Alano Teles</b></sub></a><br /><a href="#question-alanoteles" title="Answering Questions">💬</a> <a href="#blog-alanoteles" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=alanoteles" title="Code">💻</a> <a href="#content-alanoteles" title="Content">🖋</a> <a href="#data-alanoteles" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=alanoteles" title="Documentation">📖</a> <a href="#research-alanoteles" title="Research">🔬</a> <a href="#translation-alanoteles" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>
