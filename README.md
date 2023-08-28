@@ -1,4 +1,5 @@
-# THE OPENSAUCED GUESTBOOK
+# THE OPENSAUCED GUESTBOOK - a fun example
+
 
 This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
 
