@@ -31,8 +31,13 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    ```
 
-7. Commit your changes and push them to your forked repository.
-8. Open a pull request to this repository.
+7. Push the commit to your forked repository with this command:
+
+   ```bash
+   git push -u origin branch-name
+   ```
+
+8. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 ## How to Add Yourself to the Guestbook
 
