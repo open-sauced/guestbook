@@ -28,7 +28,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    Change `"Your message"` to your own message. For example, `"Add Alice to the guestbook"`.
 
-   **You can skip this step if you use the bot to add yourself to the list**.
+   **You can skip this step (6) if you use the bot to add yourself to the list**.
 
 7. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
@@ -58,15 +58,18 @@ Although adding yourself to the list with the bot's help is simpler, we recommen
 
 ### Using bot
 
-1. Run `npm run contributors:add` to add yourself to the contributors list.
-2. Run `npm run contributors:generate` to generate the contributors list.
+1. Complete step 1-4 in the [Getting Started](#getting-started) section.
+2. Run `npm run contributors:add` to add yourself to the contributors list.
+3. Run `npm run contributors:generate` to generate the contributors list.
+4. Continue with step 7-9 in the [Getting Started](#getting-started) section.
 
 ### Manually editing the file
 
-1. Open the `.all-contributorsrc` file.
-2. Go to the last contributor in the contributors array.
-3. Add a comma after the last closing curly bracket ( `},` ).
-4. Copy and paste the template below:
+1. Complete step 1-4 in the [Getting Started](#getting-started) section.
+2. Open the `.all-contributorsrc` file.
+3. Go to the last contributor in the contributors array.
+4. Add a comma after the last closing curly bracket ( `},` ).
+5. Copy and paste the template below:
 
    ```javascript
    {
@@ -78,7 +81,7 @@ Although adding yourself to the list with the bot's help is simpler, we recommen
    }
    ```
 
-5. Add yourself manually to the list by updating this information:
+6. Add yourself manually to the list by updating this information:
 
    - **login**: Your username on GitHub.
    - **name**: Your name.
@@ -105,6 +108,8 @@ Although adding yourself to the list with the bot's help is simpler, we recommen
    ```
 
    _Remember to add a comma after the quotes, except for the last one in the array_.
+
+7. Continue with step 6-9 in the [Getting Started](#getting-started) section.
 
 You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
