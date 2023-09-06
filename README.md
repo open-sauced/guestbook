@@ -11,8 +11,18 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) your forked repository to your computer.
 3. Run `npm install` to install the dependencies.
-4. Add yourself to the list — see the [How to Add Yourself to the Guestbook](#how-to-add-yourself-to-the-guestbook) section for this step.
-5. Add and commit your changes by running this command:
+4. Create a new branch.
+
+   The best practice for open-source contributors to work on changes is in a new branch to isolate them from the `main` branch.
+
+   Run this command on your terminal to create a new branch. You can name the branch anything you want.
+
+   ```bash
+   git checkout -b branch-name
+   ```
+
+5. Add yourself to the list — see the [How to Add Yourself to the Guestbook](#how-to-add-yourself-to-the-guestbook) section for this step.
+6. Add and commit your changes by running this command:
 
    ```bash
    git commit -am "Your message"
@@ -22,7 +32,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    **You can skip this step if you use the bot to add yourself to the list**.
 
-6. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
+7. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
    If you add yourself using the bot, it automatically adds and commits your changes. So you will see this automated commit message:
 
@@ -31,13 +41,13 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    ```
 
-7. Push the commit to your forked repository with this command:
+8. Push the commit to your forked repository with this command:
 
    ```bash
    git push -u origin branch-name
    ```
 
-8. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
+9. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 ## How to Add Yourself to the Guestbook
 
