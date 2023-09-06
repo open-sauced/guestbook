@@ -22,8 +22,17 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    **You can skip this step if you use the bot to add yourself to the list**.
 
-6. Commit your changes and push them to your forked repository.
-7. Open a pull request to this repository.
+6. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
+
+   If you add yourself using the bot, it automatically adds and commits your changes. So you will see this automated commit message:
+
+   ```bash
+   docs: add @your_username as a contributor
+
+   ```
+
+7. Commit your changes and push them to your forked repository.
+8. Open a pull request to this repository.
 
 ## How to Add Yourself to the Guestbook
 
