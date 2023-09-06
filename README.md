@@ -2,8 +2,6 @@
 
 This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
 
-While there's an automated bot that will help you add yourself to the contributor's list via an issue, we recommend actually editing the `.all-contributorsrc` file to get more experience with pull requests and reviews.
-
 ## Getting Started
 
 First, you'll want to have Node.js installed. You can do this by going to [nodejs.org](https://nodejs.org) and downloading the latest version. Then, follow these steps:
@@ -50,6 +48,13 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 9. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 ## How to Add Yourself to the Guestbook
+
+There are two ways to add yourself to the guestbook:
+
+- Using bot
+- Manually editing the `.all-contributorsrc` file
+
+Although adding yourself to the list with the bot's help is simpler, we recommend you to manually editing the file to get more experience with adding and committing your changes, creating pull requests and pull request reviews.
 
 ### Using bot
 
