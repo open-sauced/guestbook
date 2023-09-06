@@ -12,8 +12,18 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) your forked repository to your computer.
 3. Run `npm install` to install the dependencies.
 4. Add yourself to the list — see the [How to Add Yourself to the Guestbook](#how-to-add-yourself-to-the-guestbook) section for this step.
-5. Commit your changes and push them to your forked repository.
-6. Open a pull request to this repository.
+5. Add and commit your changes by running this command:
+
+   ```bash
+   git commit -am "Your message"
+   ```
+
+   Change `"Your message"` to your own message. For example, `"Add Alice to the guestbook"`.
+
+   **You can skip this step if you use the bot to add yourself to the list**.
+
+6. Commit your changes and push them to your forked repository.
+7. Open a pull request to this repository.
 
 ## How to Add Yourself to the Guestbook
 
