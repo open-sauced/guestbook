@@ -4,24 +4,30 @@ This guestbook is a place for people who have taken [OpenSauced](https://opensau
 
 While there's an automated bot that will help you add yourself to the contributor's list via an issue, we recommend actually editing the `.all-contributorsrc` file to get more experience with pull requests and reviews.
 
-## How to add yourself to the guestbook
+## Getting Started
 
 First, you'll want to have Node.js installed. You can do this by going to [nodejs.org](https://nodejs.org) and downloading the latest version. Then, follow these steps:
 
-1. Fork this repository
-2. Clone your forked repository to your computer
-3. Run `npm install` to install the dependencies
-4. Run `npm run contributors:add` to add yourself to the contributors list
-5. Run `npm run contributors:generate` to generate the contributors list
-6. Commit your changes and push them to your forked repository
-7. Open a pull request to this repository
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository.
+2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) your forked repository to your computer.
+3. Run `npm install` to install the dependencies.
+4. Add yourself to the list — see the [How to Add Yourself to the Guestbook](#how-to-add-yourself-to-the-guestbook) section for this step.
+5. Commit your changes and push them to your forked repository.
+6. Open a pull request to this repository.
+
+## How to Add Yourself to the Guestbook
+
+1. Run `npm run contributors:add` to add yourself to the contributors list.
+2. Run `npm run contributors:generate` to generate the contributors list.
 
 You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
