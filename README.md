@@ -36,7 +36,6 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    ```bash
    docs: add @your_username as a contributor
-
    ```
 
 8. Push the commit to your forked repository with this command:
@@ -47,7 +46,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 9. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
-## How to Add Yourself to the Guestbook
+### How to Add Yourself to the Guestbook
 
 There are two ways to add yourself to the guestbook:
 
@@ -56,14 +55,14 @@ There are two ways to add yourself to the guestbook:
 
 Although adding yourself to the list with the bot's help is simpler, we recommend you to manually editing the file to get more experience with adding and committing your changes, creating pull requests and pull request reviews.
 
-### Using bot
+#### Using bot
 
 1. Complete step 1-4 in the [Getting Started](#getting-started) section.
-2. Run `npm run contributors:add` to add yourself to the contributors list.
-3. Run `npm run contributors:generate` to generate the contributors list.
+2. Run `npm run contributors:add` and follow the instructions to add yourself to the contributors' list. After you finish and click enter, you must click enter again to confirm your choices.
+3. Run `npm run contributors:generate` to generate the contributors' list.
 4. Continue with step 7-9 in the [Getting Started](#getting-started) section.
 
-### Manually editing the file
+#### Manually editing the file
 
 1. Complete step 1-4 in the [Getting Started](#getting-started) section.
 2. Open the `.all-contributorsrc` file.
@@ -111,7 +110,7 @@ Although adding yourself to the list with the bot's help is simpler, we recommen
 
 7. Continue with step 6-9 in the [Getting Started](#getting-started) section.
 
-## Congratulations on your first contribution to this repo! 🎉
+## Congratulations on your first contribution! 🎉
 
 You can add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
