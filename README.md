@@ -17,8 +17,55 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 ## How to Add Yourself to the Guestbook
 
+### Using bot
+
 1. Run `npm run contributors:add` to add yourself to the contributors list.
 2. Run `npm run contributors:generate` to generate the contributors list.
+
+### Manually editing the file
+
+1. Open the `.all-contributorsrc` file.
+2. Go to the last contributor in the contributors array.
+3. Add a comma after the last closing curly bracket ( `},` ).
+4. Copy and paste the template below:
+
+   ```javascript
+   {
+     "login": "",
+     "name": "",
+     "avatar_url": "",
+     "profile": "",
+     "contributions": []
+   }
+   ```
+
+5. Add yourself manually to the list by updating this information:
+
+   - **login**: Your username on GitHub.
+   - **name**: Your name.
+   - **avatar_url**: URL to your avatar on GitHub.
+     - In your browser, copy and paste the link of your GitHub profile, append `.png` at the end — for example, `https://github.com/USER_NAME.png` — and click enter. Copy and paste the link here.
+   - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
+   - **contribution**: Type of your contributions.
+     - Refer to the type (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill this value.
+
+   The result would be like this:
+
+   ```javascript
+   {
+     "login": "github-username",
+     "name": "User Name",
+     "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
+     "profile": "URL link",
+     "contributions": [
+       "question",
+       "blog",
+       "code"
+     ]
+   }
+   ```
+
+   _Remember to add a comma after the quotes, except for the last one in the array_.
 
 You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
