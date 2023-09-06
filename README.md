@@ -111,7 +111,11 @@ Although adding yourself to the list with the bot's help is simpler, we recommen
 
 7. Continue with step 6-9 in the [Getting Started](#getting-started) section.
 
-You can then add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
+## Congratulations on your first contribution to this repo! 🎉
+
+You can add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
+
+---
 
 ## Contributors
 
