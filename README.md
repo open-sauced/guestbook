@@ -19,8 +19,72 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
    git checkout -b branch-name
    ```
 
-5. Add yourself to the list — see the [How to Add Yourself to the Guestbook](#how-to-add-yourself-to-the-guestbook) section for this step.
-6. Add and commit your changes by running this command:
+5. Add yourself to the guestbook.
+
+   There are two ways you can complete this activity:
+
+   - Using the CLI tool.
+   - Manually editing the `.all-contributorsrc` file
+
+   Although adding yourself to the guestbook with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
+
+   **CLI**
+
+   - Run `npm run contributors:add` in your terminal.
+
+     Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
+
+   **Manual Addition**
+
+   - Open the `.all-contributorsrc` file.
+   - Go to the last contributor in the contributors array.
+   - Add a comma after the last closing curly bracket ( `},` ).
+   - Copy and paste the template below:
+
+     ```javascript
+     {
+        "login": "",
+        "name": "",
+        "avatar_url": "",
+        "profile": "",
+        "contributions": []
+     }
+     ```
+
+   - Add yourself manually to the guestbook by updating this information:
+
+     - **login**: Your username on GitHub.
+     - **name**: Your name.
+     - **avatar_url**: URL to your avatar on GitHub.
+
+       In your browser, copy and paste the link of your GitHub profile, append `.png` at the end — for example, `https://github.com/USER_NAME.png` — and click enter. Copy and paste the link here.
+
+     - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
+     - **contribution**: Type of your contributions.
+
+       Refer to the type (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill this value.
+
+       The result would be like this:
+
+       ```javascript
+       {
+         "login": "github-username",
+         "name": "User Name",
+         "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
+         "profile": "URL link",
+         "contributions": [
+         "question",
+         "blog",
+         "code"
+         ]
+       }
+       ```
+
+     _Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket_.
+
+6. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
+
+7. Add and commit your changes by running this command:
 
    ```bash
    git commit -am "Your message"
@@ -28,91 +92,27 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    Change `"Your message"` to your own message. For example, `"Add Alice to the guestbook"`.
 
-   **You can skip this step (6) if you use the bot to add yourself to the list**.
+   **You can skip this step (7) if you use the CLI tool to add yourself to the guestbook**.
 
-7. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
+8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
-   If you add yourself using the bot, it automatically adds and commits your changes. So you will see this automated commit message:
+   If you add yourself using the CLI tool, it automatically adds and commits your changes. So you will see this automated commit message:
 
    ```bash
    docs: add @your_username as a contributor
    ```
 
-8. Push the commit to your forked repository with this command:
+9. Push the commit to your forked repository with this command:
 
    ```bash
    git push -u origin branch-name
    ```
 
-9. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
-
-### How to Add Yourself to the Guestbook
-
-There are two ways to add yourself to the guestbook:
-
-- Using bot
-- Manually editing the `.all-contributorsrc` file
-
-Although adding yourself to the list with the bot's help is simpler, we recommend you to manually editing the file to get more experience with adding and committing your changes, creating pull requests and pull request reviews.
-
-#### Using bot
-
-1. Complete step 1-4 in the [Getting Started](#getting-started) section.
-2. Run `npm run contributors:add` and follow the instructions to add yourself to the contributors' list. After you finish and click enter, you must click enter again to confirm your choices.
-3. Run `npm run contributors:generate` to generate the contributors' list.
-4. Continue with step 7-9 in the [Getting Started](#getting-started) section.
-
-#### Manually editing the file
-
-1. Complete step 1-4 in the [Getting Started](#getting-started) section.
-2. Open the `.all-contributorsrc` file.
-3. Go to the last contributor in the contributors array.
-4. Add a comma after the last closing curly bracket ( `},` ).
-5. Copy and paste the template below:
-
-   ```javascript
-   {
-     "login": "",
-     "name": "",
-     "avatar_url": "",
-     "profile": "",
-     "contributions": []
-   }
-   ```
-
-6. Add yourself manually to the list by updating this information:
-
-   - **login**: Your username on GitHub.
-   - **name**: Your name.
-   - **avatar_url**: URL to your avatar on GitHub.
-     - In your browser, copy and paste the link of your GitHub profile, append `.png` at the end — for example, `https://github.com/USER_NAME.png` — and click enter. Copy and paste the link here.
-   - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
-   - **contribution**: Type of your contributions.
-     - Refer to the type (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill this value.
-
-   The result would be like this:
-
-   ```javascript
-   {
-     "login": "github-username",
-     "name": "User Name",
-     "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
-     "profile": "URL link",
-     "contributions": [
-       "question",
-       "blog",
-       "code"
-     ]
-   }
-   ```
-
-   _Remember to add a comma after the quotes, except for the last one in the array_.
-
-7. Continue with step 6-9 in the [Getting Started](#getting-started) section.
+10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 ## Congratulations on your first contribution! 🎉
 
-You can add this to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
+You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
 
 ---
 
