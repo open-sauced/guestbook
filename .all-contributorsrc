@@ -620,6 +620,19 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "EthenThinkful",
+      "name": "Ethen Roth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104235709?v=4",
+      "profile": "https://ethenportfolio.vercel.app/",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
