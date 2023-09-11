@@ -28,7 +28,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    Although adding yourself to the guestbook with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
 
-   **CLI**
+   **CLI Tool**
 
    - Run `npm run contributors:add` in your terminal.
 
