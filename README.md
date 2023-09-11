@@ -53,7 +53,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
    - Add yourself manually to the guestbook by updating this information:
 
-     - **login**: Your username on GitHub.
+     - **login**: Your GitHub's username.
      - **name**: Your name.
      - **avatar_url**: URL to your avatar on GitHub.
 
