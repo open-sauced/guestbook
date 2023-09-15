@@ -25,7 +25,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -93,6 +93,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://ethenportfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/104235709?v=4?s=100" width="100px;" alt="Ethen Roth"/><br /><sub><b>Ethen Roth</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AEthenThinkful" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=EthenThinkful" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=EthenThinkful" title="Documentation">📖</a> <a href="#ideas-EthenThinkful" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3AEthenThinkful" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tedashikode"><img src="https://avatars.githubusercontent.com/u/57563873?v=4?s=100" width="100px;" alt="koder_"/><br /><sub><b>koder_</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=tedashikode" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=tedashikode" title="Documentation">📖</a> <a href="#example-tedashikode" title="Examples">💡</a> <a href="#ideas-tedashikode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-tedashikode" title="Research">🔬</a></td>
     </tr>
   </tbody>
   <tfoot>

@@ -633,6 +633,19 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "tedashikode",
+      "name": "koder_",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57563873?v=4",
+      "profile": "https://github.com/tedashikode",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
