@@ -1,0 +1,1228 @@
+[33mcommit 326568383b4d15bf7aa157863c1496d4b5a78180[m[33m ([m[1;36mHEAD -> [m[1;32mbranch-x[m[33m)[m
+Author: Алекс Ш <slayer1649@gmail.com>
+Date:   Thu Sep 21 21:37:21 2023 +0300
+
+    Add sh4dowpunk to the guestbook
+
+[33mcommit 870e1b1f2ff0ad9d53703a1824508cfdda7e8053[m
+Author: Алекс Ш <slayer1649@gmail.com>
+Date:   Thu Sep 21 21:34:43 2023 +0300
+
+    docs: add @sh4dowpunk as a contributor
+
+[33mcommit 98628f127cfc4eef1481287c8da9b3c43f1eec9c[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ikhlas <oyetikh1@gmail.com>
+Date:   Thu Sep 21 16:01:06 2023 +0100
+
+    Added my contribution (#87)
+    
+    Co-authored-by: BekahHW <34313413+BekahHW@users.noreply.github.com>
+
+[33mcommit db5cd8ec939b1b9ba53b6c85417bbe139ae17f2c[m
+Author: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+Date:   Tue Sep 19 19:24:45 2023 +0200
+
+    feat: Update instructions in README (#82)
+
+[33mcommit 11b596599b087cb1725b831e8d19e0018f0242e5[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Thu Sep 14 11:15:31 2023 -0400
+
+    Add COC and mention contrib (#85)
+
+[33mcommit e60b4ef86633f88e44b88de42a8f7f3e42a13ed1[m
+Author: Ethen Roth <104235709+EthenThinkful@users.noreply.github.com>
+Date:   Mon Sep 11 11:48:03 2023 -0600
+
+    Feature/add profile ethen thinkful (#83)
+    
+    * docs: add @EthenThinkful as a contributor
+    
+    * added myself to the guestbook
+    
+    * fixed Hannah's info and deleted vscode settings
+    
+    * Update .all-contributorsrc
+    
+    ---------
+    
+    Co-authored-by: BekahHW <34313413+BekahHW@users.noreply.github.com>
+
+[33mcommit abf81776fa05be8ffacc686fdcbefa92fdaf81ff[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Thu Aug 24 10:45:06 2023 -0400
+
+    Add license
+
+[33mcommit 44f60b20b5fcfce27e49b09499824d44180fefd2[m
+Merge: 4a8a6e1 0c843db
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Aug 21 18:04:19 2023 -0400
+
+    Merge pull request #77 from ht-l1/profile
+
+[33mcommit 0c843db726edad145402668b1d5bba720ddd8f53[m
+Author: Hannah L <106502799+ht-l1@users.noreply.github.com>
+Date:   Tue Aug 15 01:03:58 2023 +0000
+
+    add ht-l1 contributor
+
+[33mcommit 5cae6018d38428651a0ad025f1e077d8c0e0332a[m
+Author: Hannah L <106502799+ht-l1@users.noreply.github.com>
+Date:   Tue Aug 15 01:02:19 2023 +0000
+
+    docs: add @ht-l1 as a contributor
+
+[33mcommit 4a8a6e14b35ac2fe607ceac31b44fa53acd5e537[m
+Merge: 04043a2 e9e995a
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Aug 14 13:37:26 2023 -0400
+
+    Merge pull request #78 from alanoteles/feature/add-profile-alanoteles
+
+[33mcommit e9e995abec12cdbb008fb108e3cfdabb83ec3614[m
+Author: Alano Teles <alanoteles@gmail.com>
+Date:   Sun Aug 13 21:42:07 2023 +0100
+
+    Added new contributor
+
+[33mcommit 04043a25366be10a82e505ee0d9a7b8cbaf0edf0[m
+Merge: 42dc9ce 89ab5d7
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Fri Aug 11 15:58:12 2023 -0400
+
+    Merge pull request #75 from Ant-Shell/feature/add-profile-Ant-Shell
+    
+    Add Ant-Shell as a contributor
+
+[33mcommit 89ab5d7afd189035ac85c73b4c2c10953c96951a[m
+Author: Anthony Shellman <atshellman@gmail.com>
+Date:   Thu Aug 10 18:49:12 2023 -0600
+
+    Update file after running generate command
+
+[33mcommit 3292b14b957d434a2d83a1988b5371783340f34a[m
+Author: Anthony Shellman <atshellman@gmail.com>
+Date:   Thu Aug 10 18:48:42 2023 -0600
+
+    Fix typo in contributions type list
+
+[33mcommit de7a63cb87f4d263fc655fd6df0a93b3609d3abb[m
+Author: Anthony Shellman <atshellman@gmail.com>
+Date:   Thu Aug 10 14:09:55 2023 -0600
+
+    Undo more formatting updates
+
+[33mcommit 059d452f4f907a3158a2e08bc19300aa0671b32d[m
+Author: Anthony Shellman <atshellman@gmail.com>
+Date:   Thu Aug 10 13:59:19 2023 -0600
+
+    Undo formatting of last commit
+
+[33mcommit 759b04abc405e63c1577a49e895646a4702b90de[m
+Author: Anthony Shellman <atshellman@gmail.com>
+Date:   Wed Aug 9 20:34:06 2023 -0600
+
+    Add Ant-Shell as a contributor
+
+[33mcommit 42dc9ce17d2ca91316d3971d977aa5fedda8a297[m
+Merge: d3af564 fb8a11e
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Thu Aug 10 10:51:02 2023 -0400
+
+    Merge pull request #26 from SushiJ/feature/add-profile-sushij
+
+[33mcommit fb8a11e08f98b2521099549d03e9694c4802d7cd[m
+Merge: aaf5eff d3af564
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Thu Aug 10 10:50:44 2023 -0400
+
+    Merge branch 'main' into feature/add-profile-sushij
+
+[33mcommit d3af56479a56baba11c257bfa56b499ea183a80b[m
+Merge: a722b69 8ef3ef3
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 15:06:58 2023 -0400
+
+    Merge pull request #74 from open-sauced/BekahHW-patch-2
+
+[33mcommit 8ef3ef326c661ea748eaca6061b60c5ad561b5bb[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 15:06:38 2023 -0400
+
+    Update the number
+
+[33mcommit a722b69f61891ce5aa2c6bd152033fa993f07d5c[m
+Merge: 90708ed 2f31d1b
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 15:05:08 2023 -0400
+
+    Merge pull request #73 from open-sauced/class
+
+[33mcommit 2f31d1b954bf13cba5cbca772a60067b93762cd7[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 15:04:42 2023 -0400
+
+    Update README.md
+
+[33mcommit 947c5f2fb0c7ecf74e8ad08b2f03577893d4c617[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 15:01:28 2023 -0400
+
+    Resolve merge conflicts
+
+[33mcommit c044dd1ff520fd3823b4c00af0d5c6eadfe39628[m
+Merge: 1eab747 90708ed
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 14:54:44 2023 -0400
+
+    Merge in main and resolve conflicts
+
+[33mcommit 1eab7478dcdedd6209c893fbe626a3270acce479[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 14:52:57 2023 -0400
+
+    Resolving more conflicts
+
+[33mcommit 3da6b76a89276ccec567f6656d8ff0a5e68dfbbc[m
+Merge: e735575 87d201b
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 14:51:37 2023 -0400
+
+    Resolve merge conflicts
+
+[33mcommit 90708ed0a528070c66cc8871e23435588bd762b3[m
+Merge: 7d23016 8602495
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:48:57 2023 -0400
+
+    Merge pull request #53 from Suldana/mybranch
+
+[33mcommit 8602495a177e618ca9c8cc3684cd994e29282d6b[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 14:48:16 2023 -0400
+
+    Resolve merge conflicts
+
+[33mcommit 2a8a6660bbf38a1f9cb225e948b879bf58aad4f0[m
+Merge: 5df8f05 7d23016
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 14:46:39 2023 -0400
+
+    Merge in updated main
+
+[33mcommit 7d23016f67e856c2635681c23c50c1ef40d2dd02[m
+Merge: 4f5a5ec 1192b55
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:44:32 2023 -0400
+
+    Merge pull request #72 from danieltott/danieltott/add-all-contrib
+
+[33mcommit 1192b553caa5f41170d2896f623d18b4fa004197[m
+Merge: 334c708 4f5a5ec
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:44:15 2023 -0400
+
+    Merge branch 'main' into danieltott/add-all-contrib
+
+[33mcommit 4f5a5ec8e7674ddc609b7cc08fd3cd29a2027b80[m
+Merge: 840243e 7aaf86e
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:39:01 2023 -0400
+
+    Merge pull request #64 from prabhatisme/main
+
+[33mcommit 7aaf86edf1f3595024fefc3634828658251a5883[m
+Merge: e78d4c3 840243e
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:38:35 2023 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit 840243e9d0a9081bb9d089ee3c2d7e85acc1e8aa[m
+Merge: b610e0d 4f691f1
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:35:39 2023 -0400
+
+    Merge pull request #66 from kelvinyelyen/feature/add-profile-kelvinyelyen
+
+[33mcommit 4f691f14a0b88e23d7c9dde0e63aa6cdc6cff76f[m
+Merge: 3b9e200 b610e0d
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:34:47 2023 -0400
+
+    Merge branch 'main' into feature/add-profile-kelvinyelyen
+
+[33mcommit b610e0dde43c724843b41dabf74f0495d4d7ac8e[m
+Merge: a437e07 5cbd231
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:23:11 2023 -0400
+
+    Merge pull request #63 from Fatima-Abdirashid/add-Fatima-Abdirashid
+
+[33mcommit 5cbd2310988d1d583413dc550783a164cec1783c[m
+Merge: c4455e1 a437e07
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 14:22:34 2023 -0400
+
+    Merge branch 'main' into add-Fatima-Abdirashid
+
+[33mcommit a437e07f6384de9504c4ca8438f2bf0ec8624b34[m
+Merge: cc94e6c c323098
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:57:59 2023 -0400
+
+    Merge pull request #62 from Iqra-Issack/add-Iqra-Issack
+
+[33mcommit c323098dfea1806614e942604bb823c380381814[m
+Merge: 7e501c3 cc94e6c
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:57:38 2023 -0400
+
+    Merge branch 'main' into add-Iqra-Issack
+
+[33mcommit cc94e6cfc7e3bc25720b891e9d394ba176738374[m
+Merge: 9df374e a20dbf9
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:55:44 2023 -0400
+
+    Merge pull request #61 from fatumahomar/fatmaomar
+
+[33mcommit a20dbf9afe9f2efb8352f78f146ddfbf917d3438[m
+Merge: e86ae50 9df374e
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:55:32 2023 -0400
+
+    Merge branch 'main' into fatmaomar
+
+[33mcommit 9df374eb09de2ae806865bc1fa2768518989792b[m
+Merge: 39b24fc 5939738
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:54:32 2023 -0400
+
+    Merge pull request #58 from Muniir1/main
+
+[33mcommit 59397386be6676dc5df84075c4242133bea8fcfd[m
+Merge: fd81dfe 39b24fc
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:54:15 2023 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit 39b24fcdcc1614a4122e4a88e98df57b347e778c[m
+Merge: 8f873b5 13f8b84
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:53:04 2023 -0400
+
+    Merge pull request #59 from anyanime/feature/add-profile-anyanime
+
+[33mcommit 13f8b844b09132352bd303cd0d2456b002a278ec[m
+Merge: d8f9a10 8f873b5
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:52:46 2023 -0400
+
+    Merge branch 'main' into feature/add-profile-anyanime
+
+[33mcommit 8f873b5c05717705dd5ca690aa9aaf00d131302e[m
+Merge: 572e957 3aaba40
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:51:48 2023 -0400
+
+    Merge pull request #57 from IbnuAlii/feature/add-profile-IbnuAlii
+
+[33mcommit 3aaba408226f70fa931bd5684796419f337ea795[m
+Merge: 9580c8b 572e957
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:51:24 2023 -0400
+
+    Merge branch 'main' into feature/add-profile-IbnuAlii
+
+[33mcommit 572e957b9c549549cc3e02ce3771830c5eea06f5[m
+Merge: 07b97c5 d769feb
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:50:20 2023 -0400
+
+    Merge pull request #56 from Suei43/feature/add-profile-Suei43
+
+[33mcommit d769feb320d04583e4d4f027dd368ae5a564a3d1[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:50:03 2023 -0400
+
+    Close brackets and braces
+
+[33mcommit 8a50df88198657cc6fa236ccb7c07693ef44a507[m
+Merge: 8b6e6f8 07b97c5
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:49:12 2023 -0400
+
+    Merge branch 'main' into feature/add-profile-Suei43
+
+[33mcommit 07b97c54dd2e8db43d657a656c304ac593727282[m
+Merge: 626934b e029d4c
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:47:20 2023 -0400
+
+    Merge pull request #55 from lutfiaomarr/omary
+
+[33mcommit e029d4c239365d98def37a99730d348d1b647cb8[m
+Merge: cf05b58 626934b
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:45:47 2023 -0400
+
+    Merge branch 'main' into omary
+
+[33mcommit 5df8f050d78ef654f371ed3db704dce874fa2eb4[m
+Merge: 2b4ec2d 626934b
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:42:48 2023 -0400
+
+    Merge branch 'main' into mybranch
+
+[33mcommit 626934b19eb9eb08c0cda6146d94e089abf25ee1[m
+Merge: 0208af0 7ffcca9
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:40:46 2023 -0400
+
+    Merge pull request #52 from Ali-Ahmed-Mohammed/add-Ali-Ahmed
+
+[33mcommit 7ffcca9300f5fe85694287c48f0ccfc157775fbc[m
+Merge: 29891f2 0208af0
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:40:27 2023 -0400
+
+    Merge branch 'main' into add-Ali-Ahmed
+
+[33mcommit 0208af0fc2bf0111bdd352eb7306f0f5d0109514[m
+Merge: e9dac56 8f296a5
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:36:47 2023 -0400
+
+    Merge pull request #33 from zh-hadi/main
+
+[33mcommit 8f296a59f25984a94c2e92c0f961865cbe546291[m
+Merge: 282e87f e9dac56
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:36:17 2023 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit 87d201ba64a55a91b0d9e55a80783ba799440226[m
+Merge: 2720616 d9806c6
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:34:52 2023 -0400
+
+    Merge pull request #32 from beckyrich/class
+
+[33mcommit e9dac56b7fa53e8e81478a9d670a40ab74db7b72[m
+Merge: 890de8d 4c71ee8
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:34:30 2023 -0400
+
+    Merge pull request #18 from JayRKyd/main
+
+[33mcommit 4c71ee860ffb74ea092ef612a4ac01a261ab4d3e[m
+Merge: b7a457a 890de8d
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 13:33:25 2023 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit 890de8d61ba452b4bf951665a345653a89ceed60[m
+Merge: c84dd09 c7f78c6
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 12:25:47 2023 -0400
+
+    Merge pull request #19 from biroue10/feature/add-profile-biroue10
+
+[33mcommit c7f78c6d2de5bcdd0d10c69ec81b38da3ce7baab[m
+Merge: d853780 c84dd09
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 12:25:24 2023 -0400
+
+    Merge branch 'main' into feature/add-profile-biroue10
+
+[33mcommit d85378080b80dd3857accbcac9035ecb47523281[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 12:24:29 2023 -0400
+
+    Add closing brackets
+
+[33mcommit 351ecc8fe188d0fd8dd96494c9c3549e827a32b9[m
+Merge: 7d7c3ef b4ba65c
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 12:23:17 2023 -0400
+
+    Update number
+
+[33mcommit d9806c6621fa80efcd329ff0907691eff6891d43[m
+Merge: ab38c53 2720616
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 11:48:47 2023 -0400
+
+    Merge branch 'class' into class
+
+[33mcommit aaf5effd06cf1f9cfe2a4b8d9bdbddcc29d937b8[m
+Merge: e9a19bf c84dd09
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 11:44:53 2023 -0400
+
+    Merge branch 'main' into feature/add-profile-sushij
+
+[33mcommit e9a19bf31cabad3994c89ff7fe32b290a25958d1[m
+Merge: 8dae062 b4ba65c
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 11:41:53 2023 -0400
+
+    Resolve conflicts
+
+[33mcommit c84dd09e6f38207dff5f6a0624555348824c4af1[m
+Merge: b4ba65c a44f9cb
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 11:38:31 2023 -0400
+
+    Merge pull request #15 from samgkigotho/add-contributor
+
+[33mcommit a44f9cb823dca3a3dd7a599658299b1cb365e3c6[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 11:38:14 2023 -0400
+
+    Update README.md
+
+[33mcommit ae82568cba41ffc6cb4e2c41cd3632c3d2b95dc6[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 11:37:24 2023 -0400
+
+    fix emojis
+
+[33mcommit a72248071e181841e5da0e530fbdf96de6505030[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 11:30:10 2023 -0400
+
+    Remove merge conflict indicators
+
+[33mcommit ac23ec569993a04fc886c34e8d0b3477633da3f6[m
+Merge: 70fb0e0 b4ba65c
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 11:22:09 2023 -0400
+
+    Resolve conflicts
+
+[33mcommit e7355751e83c13944a851dd3d57abcd3c6d4c6d1[m
+Merge: 95df0b7 b4ba65c
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed Aug 9 10:49:18 2023 -0400
+
+    Resolve conflicts
+
+[33mcommit 334c7089d400bdf41b9f984142c44f00ccf34ac2[m
+Author: Dan Ott <dan@dtott.com>
+Date:   Wed Aug 9 10:37:41 2023 -0400
+
+    docs: add @danieltott as a contributor
+
+[33mcommit b4ba65cf7802bc971bead3f8a9e48474a8fb846a[m
+Merge: 4795412 7cffa9d
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 10:35:39 2023 -0400
+
+    Merge pull request #71 from danieltott/update-editorconfig
+
+[33mcommit 7cffa9dcd81cf5a0f88af2e12096e19783c20a95[m
+Author: Dan Ott <dan@dtott.com>
+Date:   Wed Aug 9 10:33:49 2023 -0400
+
+    Add formatting
+
+[33mcommit 1b5bfdf4499587920768642d4e56c62873c170ee[m
+Author: Dan Ott <dan@dtott.com>
+Date:   Wed Aug 9 10:33:33 2023 -0400
+
+    use space instead of tab to match CLI tool
+
+[33mcommit 4795412f57d3fbd2769acd7b7c55d71bf8a5dea7[m
+Merge: 019d2d2 b75c1eb
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed Aug 9 10:20:29 2023 -0400
+
+    Merge pull request #70 from danieltott/add-editorconfig
+
+[33mcommit b75c1eb7a1faad03871c48f40cce0951c6384644[m
+Author: Dan Ott <dan@dtott.com>
+Date:   Wed Aug 9 10:18:09 2023 -0400
+
+    apply formatting
+
+[33mcommit b900f4847d426e30feb3b6771261ad4a14dbd641[m
+Author: Dan Ott <dan@dtott.com>
+Date:   Wed Aug 9 10:17:39 2023 -0400
+
+    Adjust settings
+
+[33mcommit 66f9b5890fddd557e35fd27381e7dba2311548c6[m
+Author: Dan Ott <dan@dtott.com>
+Date:   Wed Aug 9 10:16:23 2023 -0400
+
+    Apply editorconfig formatting
+
+[33mcommit d93c6a269232024b0f3b4c69ea02e970694d41f2[m
+Author: Dan Ott <dan@dtott.com>
+Date:   Wed Aug 9 10:15:55 2023 -0400
+
+    Add edititor config
+
+[33mcommit 019d2d2e526583a0c220cdb676b70bdd773805e7[m
+Merge: e418079 4e91057
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Tue Aug 8 16:25:07 2023 -0400
+
+    Merge pull request #30 from Axfez/main
+
+[33mcommit 4e910570e6db4c723cc28026d8fd6e16d867ba29[m
+Author: Santiago Montoya Rendón <92069466+Axfez@users.noreply.github.com>
+Date:   Tue Aug 8 17:30:01 2023 +0000
+
+    Formatting and corrections
+
+[33mcommit 9e283ae625ed3d626e097908fe7bd5e862023ad5[m
+Merge: ab7b6d9 e418079
+Author: Santiago Montoya Rendón <92069466+Axfez@users.noreply.github.com>
+Date:   Mon Aug 7 22:18:35 2023 -0500
+
+    Merge branch 'main' into main
+
+[33mcommit e4180792a1e41a110c085ad15c5f268ed47569aa[m
+Merge: 3bb4287 8d6e2c4
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Aug 7 19:28:43 2023 -0400
+
+    Merge pull request #69 from open-sauced/BekahHW-patch-1
+
+[33mcommit 8d6e2c4efcfb9e81dbe3709d386a1829a5cded2e[m[33m ([m[1;31mupstream/BekahHW-patch-1[m[33m)[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Aug 7 19:28:00 2023 -0400
+
+    Add links
+
+[33mcommit 3bb42876b581b7698d568a3b39e4b7e28b60c998[m
+Merge: 239fd42 0ec4416
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Aug 7 14:24:36 2023 -0400
+
+    Merge pull request #68 from fab33150/newcontribute
+
+[33mcommit 2720616693ca5ad27c70de9a6c514fddbeec70ab[m
+Merge: 9b5b7a6 47bdcc1
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Aug 7 14:23:44 2023 -0400
+
+    Merge pull request #35 from Franklyn883/class
+
+[33mcommit 0ec44163e3bb3325d4d08fd73c34fd4095f0fbe6[m
+Author: Fabrice <fab33150@gmail.com>
+Date:   Mon Aug 7 12:12:22 2023 -0400
+
+    docs: add @fab33150 as a contributor
+
+[33mcommit 3b9e200850cacf10cdc6d82e8382f0f158addb54[m
+Author: kelvinyelyen <kelvinyelyen@gmail.com>
+Date:   Tue Aug 1 18:33:12 2023 +0000
+
+    docs: update @kelvinyelyen as a contributor
+
+[33mcommit f181778e25b4bccbf320f719bebf96184c6975b8[m
+Author: kelvinyelyen <kelvinyelyen@gmail.com>
+Date:   Tue Aug 1 18:29:54 2023 +0000
+
+    docs: add @kelvinyelyen as a contributor
+
+[33mcommit ab7b6d9d6f6900b923db5218fb7d2617334e6c3c[m
+Merge: 154328f 239fd42
+Author: Santiago Montoya Rendón <92069466+Axfez@users.noreply.github.com>
+Date:   Tue Aug 1 00:43:36 2023 -0500
+
+    Merge branch 'main' into main
+
+[33mcommit e78d4c3af2e139b3d5b9ba06e1cd848ceb797a27[m
+Author: prabhatisme <prabhatthe.sb@gmail.com>
+Date:   Sun Jul 30 12:32:20 2023 +0530
+
+    Fixing contributors list alignment and adding prabhatbhagel
+
+[33mcommit 4324f5ad2ba7e1a4a825558f43a57b02043db7fc[m
+Author: prabhatisme <prabhatthe.sb@gmail.com>
+Date:   Sun Jul 30 11:49:02 2023 +0530
+
+    Add Prabhat Bhagel to contributors list
+
+[33mcommit e86ae50dd42efd798512108583ddd58db5cba850[m
+Author: Fatuma Omar <fatuabdi55@gmail.com>
+Date:   Thu Jul 27 18:08:42 2023 +0300
+
+    added my name
+
+[33mcommit d8f9a1027924b9b87756d585e38aec8bf8c0b081[m
+Author: Anyanime Benson <bensonanyanime@gmail.com>
+Date:   Thu Jul 27 13:00:49 2023 +0100
+
+    docs: update @anyanime as a contributor
+
+[33mcommit dfac2f32fb7938de146d311500fa15fff5fe4df0[m
+Author: Anyanime Benson <bensonanyanime@gmail.com>
+Date:   Thu Jul 27 12:58:46 2023 +0100
+
+    docs: add @anyanime as a contributor
+
+[33mcommit fd81dfe6b17401213730ca61db2c7fa25c07df08[m
+Author: Muniir1 <muniirm81@gmail.com>
+Date:   Thu Jul 27 10:49:07 2023 +0300
+
+    docs: add @muniir1 as a contributor
+
+[33mcommit 9580c8b42ebde37f6807bb2470064e78b462e906[m
+Author: Mohamed Ali <ibnuali600@gmail.com>
+Date:   Wed Jul 26 19:29:42 2023 +0300
+
+    docs: add @IbnuAlii as a contributor
+
+[33mcommit 8b6e6f8764cca76443317c0784070cad30b00ea2[m
+Author: Suei43 <chrisraphael576@gmail.com>
+Date:   Wed Jul 26 16:29:01 2023 +0100
+
+    docs: add @Suei43 as a contributor
+
+[33mcommit cf05b58f2614a3b503af8567b5d6d278b53b7686[m
+Author: lutfia omar <lutfiaomarr@gmail.comgit config --global core.editor code>
+Date:   Wed Jul 26 15:33:01 2023 +0300
+
+    docs: add @lutfiaomarr as a contributor
+
+[33mcommit c4455e14098472b14f1658ec0039f9a73600c500[m
+Author: Fatima Abdirashid <famiahmed.141@gmail.com>
+Date:   Wed Jul 26 14:50:26 2023 +0300
+
+    docs: add @Fatima-Abdirashid as a contributor
+
+[33mcommit 7e501c3ac25f2d13c4e0e0be2001c65c6e063903[m
+Author: Iqra Issack <iqramohamoud413@gmail.com>
+Date:   Wed Jul 26 14:47:50 2023 +0300
+
+    docs: add @Iqra-Issack as a contributor
+
+[33mcommit 2b4ec2d93e303b986ed32e404474347b4fd6805b[m
+Author: Suldana <juveria.cabdalla12@gmail.com>
+Date:   Wed Jul 26 14:35:20 2023 +0300
+
+    docs: add @suldana as a contributor
+
+[33mcommit 29891f2e1fc143d0c817a6afbe8bbf35e0c5b492[m
+Author: Ali Ahmed Mohamed <aliahmedm249@gmail.com>
+Date:   Wed Jul 26 11:50:44 2023 +0300
+
+    docs: add @Ali-Ahmed-Mohamed as a contributor
+
+[33mcommit 239fd4298066f3c64ede44f9af8d57daa53ae669[m
+Merge: b88d375 789da20
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Tue Jul 25 16:13:28 2023 -0400
+
+    Merge pull request #25 from alishata128/feature/add-profile-alishata128
+
+[33mcommit 789da20369f73e9d3755dfa2736628a83b7797f9[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Tue Jul 25 15:47:06 2023 -0400
+
+    Close bracket and object
+
+[33mcommit b88d3759b0ec4a1de5e9b6c606cb1b02c1629cad[m
+Merge: 4e30247 867bc5b
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Tue Jul 25 12:23:34 2023 -0400
+
+    Merge pull request #28 from ATREAY/ATREAY
+
+[33mcommit ec754b7e0f5d09b803d04036952e8d120b705e20[m
+Merge: 4e88994 4e30247
+Author: Ali Shata <alishata128@gmail.com>
+Date:   Tue Jul 25 17:35:20 2023 +0300
+
+    Merge branch 'main' into feature/add-profile-alishata128
+
+[33mcommit 47bdcc1c8898383d3cbeaa4a57dd4ab76be73e73[m
+Author: Frank Alimimian <alimimianfrank@gmail.com>
+Date:   Mon Jul 24 18:33:00 2023 +0100
+
+    docs: add @franklyn883 as a contributor
+
+[33mcommit 9b5b7a6bd0de9fe63e91c740b4ca5c69dc356792[m
+Merge: 4e30247 11c55a2
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Jul 24 09:19:14 2023 -0400
+
+    Merge pull request #31 from chris-nowicki/class
+    
+    Class
+
+[33mcommit ab38c534f340daa31739541e12c82267b59c2bfb[m
+Author: Becky Richardson <rebecca.s.richardson4@gmail.com>
+Date:   Mon Jul 24 08:11:15 2023 -0500
+
+    docs: add @beckyrich as a contributor
+
+[33mcommit 282e87f834fbc3471104728d8d0bfa97258d9ddb[m
+Author: Hadiuzzaman Hadi <zhhadi50@gmail.com>
+Date:   Mon Jul 24 19:08:26 2023 +0600
+
+    docs: add @zh-hadi as a contributor
+
+[33mcommit 11c55a29d4ec1100c7212d2ec607add7f3341eec[m
+Author: Chris Nowicki <102450568+chris-nowicki@users.noreply.github.com>
+Date:   Mon Jul 24 09:08:22 2023 -0400
+
+    Add chris-nowicki as a contributor
+
+[33mcommit 95df0b768ae481833b473fb83cf671039edf1ca2[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Mon Jul 24 09:06:13 2023 -0400
+
+    docs: update @BekahHW as a contributor
+
+[33mcommit d1310a5de25d40b274db7d6ea7de00f28377fee5[m
+Author: Chris Nowicki <102450568+chris-nowicki@users.noreply.github.com>
+Date:   Mon Jul 24 09:04:45 2023 -0400
+
+    docs: add @chris-nowicki as a contributor
+
+[33mcommit 154328f660a6654cc5ec8e28d00f3f521c273c0e[m
+Author: Axfez <santimom@hotmail.com>
+Date:   Sun Jul 23 22:26:27 2023 -0500
+
+    docs: add @Axfez as a contributor
+
+[33mcommit 4e30247d1a08ace58aa93788de9b088d92991dff[m
+Merge: 4b9f4aa c339ceb
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Sat Jul 22 19:25:48 2023 -0400
+
+    Merge pull request #23 from ananfito/feature/add-profile-ananfito
+    
+    docs: add @ananfito as a contributor
+
+[33mcommit 867bc5b089702db99c769f26bb2a8a443385846a[m
+Author: Atreay  Kukanur <www.atreayk@gmail.com>
+Date:   Sat Jul 22 17:15:51 2023 +0530
+
+    docs: add @ATREAY as a contributor
+
+[33mcommit c339cebf60fb3fa3415db6f8659c4ce51e80dc0e[m
+Merge: d1d244d 4b9f4aa
+Author: Anthony Nanfito <81890820+ananfito@users.noreply.github.com>
+Date:   Fri Jul 21 17:04:45 2023 +0700
+
+    merge changes from upstream
+
+[33mcommit 4b9f4aa4152b3a43396843dbd1f90b9290bd60f6[m
+Merge: e973429 0272f95
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Thu Jul 20 10:20:02 2023 -0400
+
+    Merge pull request #22 from k1nho/feature/add-profile-k1nho
+
+[33mcommit 8dae062cdece52fee6ddabb3f20fe71a7953ef85[m
+Author: Sushij <sushant.wurk@gmail.com>
+Date:   Mon Jul 17 12:23:35 2023 +0530
+
+    docs: add @sushij as a contributor
+
+[33mcommit 4e8899467cbd83592bfac3efe18796e8c8093e69[m
+Author: Ali Shata <alishata128@gmail.com>
+Date:   Sun Jul 16 18:00:56 2023 +0200
+
+    docs: add @alishata128 as a contributor
+
+[33mcommit d1d244d77858c8c56ee23f3a420f2d3cd76d244e[m
+Author: Anthony Nanfito <81890820+ananfito@users.noreply.github.com>
+Date:   Sun Jul 16 19:24:15 2023 +0700
+
+    docs: add @ananfito as a contributor
+
+[33mcommit 0272f956221e8342f9de04dfb24d10eccc4fad3f[m
+Author: k1nho <kinhong99@gmail.com>
+Date:   Fri Jul 14 13:52:59 2023 -0400
+
+    docs: add @k1nho as a contributor
+
+[33mcommit e97342914635e1cde6467052911e2761489400a5[m
+Merge: 72f5691 3fb1c36
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Fri Jul 14 11:31:08 2023 -0400
+
+    Merge pull request #21 from Muyixone/feature/add-profile-muyixone
+    
+    Feature/add profile muyixone
+
+[33mcommit 3fb1c3621f9f1285375bb1170cef73cc9cb6a448[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:59:27 2023 +0100
+
+    docs: update @Muyixone as a contributor
+
+[33mcommit b906551dbf435988cb5d92902e97e961fb78cfc1[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:57:20 2023 +0100
+
+    docs: update @Muyixone as a contributor
+
+[33mcommit 9402df49a543721e57dc641c382b458089026a72[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:45:55 2023 +0100
+
+    docs: update @Muyixone as a contributor
+
+[33mcommit c25b90afbd1635046cadc0387181b75ad7530a10[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:38:06 2023 +0100
+
+    docs: update @Muyixone as a contributor
+
+[33mcommit 7fae417e643594656882723bc14f325ac0ee5b7b[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:37:24 2023 +0100
+
+    docs: update @Muyixone as a contributor
+
+[33mcommit 395a8e0e384e5d6bfd688bf9ba681df818ef1c00[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:36:02 2023 +0100
+
+    docs: update @Muyixone as a contributor
+
+[33mcommit f45ff439c6b1c294cb10bc5472c6141b47cce429[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:34:18 2023 +0100
+
+    docs: update @Muyixone as a contributor
+
+[33mcommit 9cf37a08bd4fe6ca7a5d772e9fbbe0f9b5f39413[m
+Author: Osamuyi <muyixone@yahoo.com>
+Date:   Fri Jul 14 07:30:17 2023 +0100
+
+    docs: add @Muyixone as a contributor
+
+[33mcommit 72f56911fe70a8b767129fc89965146bced3ef79[m
+Merge: 15e3aaa 2539a12
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Jul 10 08:36:32 2023 -0400
+
+    Merge pull request #20 from open-sauced/fix/missing-contributors
+    
+    FIX: Add contributors back to file
+
+[33mcommit 2539a12b676b83f79dddcce48a652a1b5e6b4bc3[m[33m ([m[1;31mupstream/fix/missing-contributors[m[33m)[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Mon Jul 10 08:34:20 2023 -0400
+
+    Add contributors back to file
+
+[33mcommit 7d7c3efc2d3903c8e91df9d3d5025122401008f7[m
+Author: BIROUE ISAAC <biroueisaac@gmail.com>
+Date:   Mon Jul 10 11:27:40 2023 +0100
+
+    docs: add @biroue10 as a contributor
+
+[33mcommit b7a457a892315f7a727e3cdeddf2e2484cdf90e6[m
+Author: JayRKyd <knowlesjordy@gmail.com>
+Date:   Sun Jul 2 17:33:51 2023 -0400
+
+    docs: add @JayRKyd as a contributor
+
+[33mcommit 15e3aaa350fd1b0a1d871670b40c9108eb151500[m
+Merge: 13b7833 a4a7d57
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Tue Jun 20 14:41:30 2023 -0400
+
+    Merge pull request #17 from deisenhut/feature/add-profile-deisenhut
+    
+    docs: add @deisenhut as a contributor
+
+[33mcommit a4a7d57b5cdceedd1cebe2bcf26198d158f017ad[m
+Author: Dan Eisenhut <daneisenhut@gmail.com>
+Date:   Thu Jun 15 09:17:05 2023 -0500
+
+    Restore profiles that were inadvertantly removed.
+
+[33mcommit ea1554b39754f4bee4d0e604f710dfc9ce213547[m
+Author: Dan Eisenhut <daneisenhut@gmail.com>
+Date:   Thu Jun 15 08:32:07 2023 -0500
+
+    docs: add @deisenhut as a contributor
+
+[33mcommit 70fb0e00193ee5ab535386b459837ddcfcf83b9c[m
+Author: samgkigotho <gatambiasam@gmail.com>
+Date:   Sun Jun 11 22:48:42 2023 +0300
+
+    update add Contributor
+
+[33mcommit 614b8e4236cea46ff1c444307e06a08f5ee95e57[m
+Author: samgkigotho <gatambiasam@gmail.com>
+Date:   Sun Jun 11 22:30:16 2023 +0300
+
+    update add Contributor
+
+[33mcommit 13b783325f7ea25e5c5965a0c614e2cd7c0b1f0e[m
+Merge: 9ea42ef 1058764
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Mon Jun 5 13:38:03 2023 -0400
+
+    Merge pull request #16 from macabonilas827/main
+    
+    add @macabonilas827 as a contributor
+
+[33mcommit 1058764380519a500bec2aeeacca90e3b6a8ffd7[m
+Author: Mark Anel Cabonilas <macabonilas827@gmail.com>
+Date:   Mon Jun 5 17:22:57 2023 +0800
+
+    modified README.md to add macabonilas827 as a contributor
+
+[33mcommit d1bbe3e607ee879e9ef621e165f11fb8cfb825f7[m
+Author: Mark Anel Cabonilas <macabonilas827@gmail.com>
+Date:   Mon Jun 5 17:19:23 2023 +0800
+
+    Add macabonilas827 as a contributor
+
+[33mcommit d2077aaa4c31a7ce5de3ab8df6762625aa65a05d[m
+Author: Mark Anel Cabonilas <macabonilas827@gmail.com>
+Date:   Mon Jun 5 17:01:59 2023 +0800
+
+    docs: add @macabonilas827 as a contributor
+
+[33mcommit 104a6c92d837ec03c16723189c321c338a280634[m
+Author: samgkigotho <gatambiasam@gmail.com>
+Date:   Wed May 31 10:24:55 2023 +0300
+
+    update add Contributor
+
+[33mcommit 6853635b05899beb85a0456a26156ae1f68f43dc[m
+Author: samgkigotho <gatambiasam@gmail.com>
+Date:   Wed May 31 02:57:17 2023 +0300
+
+    docs: add @samgkigotho as a contributor
+
+[33mcommit 9ea42efd26194f27b3816eb47e9c6bfa9ff9b9a7[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Fri May 26 15:53:58 2023 -0400
+
+    Update README.md
+
+[33mcommit 54432eb43b7b50df4365384953d8e7ad90c83b9c[m
+Merge: d67cef9 fe712ef
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Fri May 26 15:52:01 2023 -0400
+
+    Merge pull request #12 from droffilc1/main
+
+[33mcommit fe712ef091f1da32696b05bcc5d92e0618494b3c[m
+Merge: 40b1fb3 d67cef9
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Fri May 26 15:51:50 2023 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit d67cef90b2febcc7a9b3aa50ab1bc3bea3098de7[m
+Merge: 443dda9 24da9ee
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Fri May 26 09:58:51 2023 -0400
+
+    Merge pull request #13 from adiati98/main
+
+[33mcommit 24da9ee5e6af4a97879b864da46d26e9e4b61876[m
+Merge: 93f9bb8 443dda9
+Author: Ayu Adiati <retno.ayu98@gmail.com>
+Date:   Fri May 26 15:58:21 2023 +0200
+
+    Resolve merge conflict
+
+[33mcommit 443dda9536244ae4fb24f0b50602fedf054e5a2c[m
+Merge: d2bb2ea 5771c49
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Fri May 26 09:39:35 2023 -0400
+
+    Merge pull request #11 from edgarefigueroa/main
+    
+    docs: add @edgarefigueroa as a contributor
+
+[33mcommit 93f9bb8075b21cdcdfc1e5391bf1214f48d120b6[m
+Author: Ayu Adiati <retno.ayu98@gmail.com>
+Date:   Fri May 26 15:27:08 2023 +0200
+
+    docs: add @adiati98 as a contributor
+
+[33mcommit 40b1fb328f56e1a69de188a6085effe2ad2b0a4b[m
+Author: Clifford Mapesa <cliffordmapesa8@gmail.com>
+Date:   Fri May 26 16:03:17 2023 +0300
+
+    docs: update @droffilc1 as a contributor
+
+[33mcommit 5771c497bbecf5b210a1e30262dd214bfdaff6d3[m
+Author: Edgar Figueroa <edgarefigueroa@outlook.com>
+Date:   Wed May 24 22:57:28 2023 -0400
+
+    docs: add @edgarefigueroa as a contributor
+
+[33mcommit d2bb2ea25f916a51506fd719ddf025d56186225f[m
+Merge: 6fcdd2d d5bdbd8
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 16:18:26 2023 -0400
+
+    Merge pull request #10 from jmslynn/main
+    
+    Add jmslynn to contributor list
+
+[33mcommit d5bdbd8781d407fa99f85a08c395d8ac8f53c8fe[m
+Merge: a123eea 6fcdd2d
+Author: jmslynn <72352820+jmslynn@users.noreply.github.com>
+Date:   Wed May 24 16:15:09 2023 -0400
+
+    Merge branch 'main' of https://github.com/jmslynn/guestbook into main
+
+[33mcommit 6fcdd2dd38d32a178f04a6f742e67b28b7c69734[m
+Merge: 21cf3ee a044225
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 15:44:30 2023 -0400
+
+    Merge pull request #8 from shelleymcq/main
+    
+    docs: add @shelleymcq as a contributor
+
+[33mcommit a0442254cddc919b0c9a7ac70da5b08655acb0c8[m
+Author: Shelley McHardy <shelleymcq.dev@gmail.com>
+Date:   Wed May 24 15:35:34 2023 -0400
+
+    docs: add @shelleymcq as a contributor
+
+[33mcommit a123eeacf907d98554c4d662ac67392ad7021c33[m
+Author: jmslynn <72352820+jmslynn@users.noreply.github.com>
+Date:   Wed May 24 15:33:35 2023 -0400
+
+    docs: add @jmslynn as a contributor
+
+[33mcommit 21cf3ee2f8f86958fa8f36f40f1d9af1f6fdf9f7[m
+Merge: 68a993c f8422a5
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 14:18:33 2023 -0400
+
+    Merge pull request #7 from ValarieOyieke/main
+    
+    docs: add @ValarieOyieke as a contributor
+
+[33mcommit f8422a5105081975b17cc8bc2052ef7232b7e319[m
+Merge: c2bf4a6 68a993c
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 14:18:24 2023 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit c2bf4a6c716bc4896721ebba15542810f1a7f2a7[m
+Author: Valarie Oyieke <oyiekeav@gmail.com>
+Date:   Wed May 24 17:42:13 2023 +0300
+
+    docs: add @ValarieOyieke as a contributor
+
+[33mcommit 68a993c3fc8a1e011ade97d352e61b9d984bd393[m
+Merge: 2779929 94ef5d8
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 10:39:48 2023 -0400
+
+    Merge pull request #6 from shirenekboyd/feature/add-contributor-sb
+    
+    Add shirenekboyd as a contributor
+
+[33mcommit 2779929c9364e1cfeb6200fb0559c11a1ec52f48[m
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 10:36:36 2023 -0400
+
+    Update README.md spacing
+
+[33mcommit 63390b4f41f12c79934cd59b738c1ea13056e2e5[m
+Merge: 9fd90d0 e1c655e
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 10:31:07 2023 -0400
+
+    Merge pull request #5 from piotrszymaniec/main
+    
+    Adding myself as contributor
+
+[33mcommit e1c655e6274ef8b0a3c0b63708e2fd11d5cb0c87[m
+Merge: 51c7270 9fd90d0
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 10:30:46 2023 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit 94ef5d87c43e703decf657ff628cbafeb45550ba[m
+Author: Shirene Boyd <shirenekadkhodai@gmail.com>
+Date:   Wed May 24 09:29:47 2023 -0500
+
+    docs: add @shirenekboyd as a contributor
+
+[33mcommit 51c7270da9df4404f6c4869fb40094341cdfe9f0[m
+Author: Piotr Szymaniec <traf@angrenost.org>
+Date:   Wed May 24 16:17:42 2023 +0200
+
+    docs: update @pszymaniec as a contributor
+
+[33mcommit 9fd90d0a3d799e80b2f35a786d72ad8d3646cb89[m
+Merge: 800ef29 3b34b3f
+Author: BekahHW <34313413+BekahHW@users.noreply.github.com>
+Date:   Wed May 24 10:08:39 2023 -0400
+
+    Merge pull request #3 from BekahHW/main
+    
+    Add myself as a contributor
+
+[33mcommit 7efeb3ad5a25ed5aac8dc79b67e848ac34c251ef[m
+Author: Piotr Szymaniec <traf@angrenost.org>
+Date:   Wed May 24 15:59:30 2023 +0200
+
+    addding pszymaniec as a contributor
+
+[33mcommit 356ccb8d85ffaf6d739db67bf1926a27a078e81f[m
+Author: Piotr Szymaniec <traf@angrenost.org>
+Date:   Wed May 24 15:59:08 2023 +0200
+
+    docs: add @pszymaniec as a contributor
+
+[33mcommit 3b34b3f98dcd9b58014ae895f9ff1ffa755512ed[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Wed May 24 09:47:12 2023 -0400
+
+    docs: update @BekahHW as a contributor
+
+[33mcommit ee2c2d4c93c615b677d95211cf583e39023a5761[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Thu May 18 18:46:20 2023 -0400
+
+    Add BekahHW as a contributor
+
+[33mcommit fdb9cfc8fbb704753eefa36d2d38bac78212c43f[m
+Author: BekahHW <rhawrot@gmail.com>
+Date:   Thu May 18 18:45:28 2023 -0400
+
+    docs: add @BekahHW as a contributor
+
+[33mcommit 800ef295844e2f3df17e66f59d8110f7a52099e6[m
+Author: Tejas Kumar <tejas@tejas.qa>
+Date:   Mon May 8 18:59:22 2023 +0200
+
+    Adjust
+
+[33mcommit 8628a2c0bd5b4103b01bcee1907777ad5bd4b591[m
+Author: Tejas Kumar <tejas@tejas.qa>
+Date:   Mon May 8 18:58:18 2023 +0200
+
+    Update
+
+[33mcommit 438b98535b3e07dd148538181ae6180179f5e1dc[m
+Author: Tejas Kumar <tejas@tejas.qa>
+Date:   Fri May 5 18:40:04 2023 +0200
+
+    Initial Commit
