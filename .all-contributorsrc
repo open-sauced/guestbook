@@ -651,6 +651,21 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "CBID2",
+      "name": "Christine Belzie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
+      "profile": "https://linkfree.eddiehub.io/CBID2",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
