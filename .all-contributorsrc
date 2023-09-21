@@ -651,6 +651,20 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "sh4dowpunk",
+      "name": "Alex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51198513?v=4",
+      "profile": "https://sh4dowpunk.github.io/",
+      "contributions": [
+        "blog",
+        "bug",
+        "code",
+        "ideas",
+        "review",
+        "userTesting",
+      ]
     }
   ],
   "contributorsPerLine": 7,
