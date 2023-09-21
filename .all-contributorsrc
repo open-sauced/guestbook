@@ -658,17 +658,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/51198513?v=4",
       "profile": "https://sh4dowpunk.github.io/",
       "contributions": [
-      "contributions": [
-        "audio",
         "blog",
         "bug",
         "code",
         "design",
         "ideas",
         "review",
-        "security",
         "userTesting",
-        "video"
       ]
     }
   ],
