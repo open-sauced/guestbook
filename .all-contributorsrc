@@ -633,6 +633,15 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "Msrimpson",
+      "name": "Msrimpson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49883582?v=4",
+      "profile": "https://github.com/Msrimpson",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
