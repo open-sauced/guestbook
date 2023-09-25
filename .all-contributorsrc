@@ -645,26 +645,41 @@
         "example",
         "ideas",
         "research"
-        ]
-      },
-      {
-        "login": "code99-ash",
-        "name": "Ikhlas",
-        "avatar_url": "https://avatars.githubusercontent.com/u/64657035?v=4",
-        "profile": "https://github.com/code99-ash",
-        "contributions": [
-          "audio",
-          "blog",
-          "bug",
-          "code",
-          "design",
-          "ideas",
-          "review",
-          "security",
-          "userTesting",
-          "video"
-      	  ]
-    	}
+      ]
+    },
+    {
+      "login": "code99-ash",
+      "name": "Ikhlas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64657035?v=4",
+      "profile": "https://github.com/code99-ash",
+      "contributions": [
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "ideas",
+        "review",
+        "security",
+        "userTesting",
+        "video"
+      ]
+    },
+    {
+      "login": "izazw",
+      "name": "Iza Zamorska-Wasielak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62272731?v=4",
+      "profile": "https://izacodes.me/",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "mentoring"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
