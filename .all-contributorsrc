@@ -666,6 +666,11 @@
       ]
     },
     {
+      "login": "CBID2",
+      "name": "Christine Belzie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
+      "profile": "https://linkfree.eddiehub.io/CBID2",
+      "contributions": [
       "login": "diegorramos84",
       "name": "Diego Ramos",
       "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
@@ -677,6 +682,8 @@
         "code",
         "content",
         "doc",
+        "review",
+        "tutorial"
         "example",
         "ideas",
         "infra",
