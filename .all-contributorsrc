@@ -635,23 +635,36 @@
       ]
     },
     {
-      "login": "code99-ash",
-      "name": "Ikhlas",
-      "avatar_url": "https://avatars.githubusercontent.com/u/64657035?v=4",
-      "profile": "https://github.com/code99-ash",
+      "login": "tedashikode",
+      "name": "koder_",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57563873?v=4",
+      "profile": "https://github.com/tedashikode",
       "contributions": [
-        "audio",
-        "blog",
-        "bug",
         "code",
-        "design",
+        "doc",
+        "example",
         "ideas",
-        "review",
-        "security",
-        "userTesting",
-        "video"
-      ]
-    }
+        "research"
+        ]
+      },
+      {
+        "login": "code99-ash",
+        "name": "Ikhlas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64657035?v=4",
+        "profile": "https://github.com/code99-ash",
+        "contributions": [
+          "audio",
+          "blog",
+          "bug",
+          "code",
+          "design",
+          "ideas",
+          "review",
+          "security",
+          "userTesting",
+          "video"
+      	  ]
+    	}
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
