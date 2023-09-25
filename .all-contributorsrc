@@ -645,26 +645,53 @@
         "example",
         "ideas",
         "research"
-        ]
-      },
-      {
-        "login": "code99-ash",
-        "name": "Ikhlas",
-        "avatar_url": "https://avatars.githubusercontent.com/u/64657035?v=4",
-        "profile": "https://github.com/code99-ash",
-        "contributions": [
-          "audio",
-          "blog",
-          "bug",
-          "code",
-          "design",
-          "ideas",
-          "review",
-          "security",
-          "userTesting",
-          "video"
-      	  ]
-    	}
+      ]
+    },
+    {
+      "login": "code99-ash",
+      "name": "Ikhlas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64657035?v=4",
+      "profile": "https://github.com/code99-ash",
+      "contributions": [
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "ideas",
+        "review",
+        "security",
+        "userTesting",
+        "video"
+      ]
+    },
+    {
+      "login": "diegorramos84",
+      "name": "Diego Ramos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
+      "profile": "https://github.com/diegorramos84",
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "review",
+        "security",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
