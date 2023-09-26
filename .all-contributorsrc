@@ -666,11 +666,6 @@
       ]
     },
     {
-      "login": "CBID2",
-      "name": "Christine Belzie",
-      "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
-      "profile": "https://linkfree.eddiehub.io/CBID2",
-      "contributions": [
       "login": "diegorramos84",
       "name": "Diego Ramos",
       "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
@@ -683,7 +678,7 @@
         "content",
         "doc",
         "review",
-        "tutorial"
+        "tutorial",
         "example",
         "ideas",
         "infra",
@@ -697,6 +692,47 @@
         "translation",
         "tutorial",
         "userTesting"
+      ]
+    },
+    {
+      "login": "CBID2",
+      "name": "Christine Belzie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
+      "profile": "https://linkfree.eddiehub.io/CBID2",
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "review",
+        "tutorial",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "review",
+        "security",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "Kamari93",
+      "name": "Kamari Moore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56329469?v=4",
+      "profile": "https://github.com/Kamari93",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "test"
       ]
     }
   ],
