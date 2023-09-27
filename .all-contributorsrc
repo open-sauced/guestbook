@@ -671,11 +671,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
       "profile": "https://linkfree.eddiehub.io/CBID2",
       "contributions": [
-      "login": "diegorramos84",
-      "name": "Diego Ramos",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
-      "profile": "https://github.com/diegorramos84",
-      "contributions": [
         "a11y",
         "blog",
         "bug",
@@ -683,7 +678,7 @@
         "content",
         "doc",
         "review",
-        "tutorial"
+        "tutorial",
         "example",
         "ideas",
         "infra",
@@ -697,6 +692,48 @@
         "translation",
         "tutorial",
         "userTesting"
+      ]
+    },
+    {
+      "login": "diegorramos84",
+      "name": "Diego Ramos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
+      "profile": "https://github.com/diegorramos84",
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "review",
+        "tutorial",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "review",
+        "security",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "thititongumpun",
+      "name": "thititongumpun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55313215?v=4",
+      "profile": "https://github.com/thititongumpun",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "design",
+        "infra"
       ]
     }
   ],
