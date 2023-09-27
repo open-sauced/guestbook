@@ -670,7 +670,29 @@
       "name": "Christine Belzie",
       "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
       "profile": "https://linkfree.eddiehub.io/CBID2",
-      "contributions": []
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "review",
+        "tutorial",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "review",
+        "security",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
     },
     {
       "login": "diegorramos84",
