@@ -670,7 +670,9 @@
       "name": "Christine Belzie",
       "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
       "profile": "https://linkfree.eddiehub.io/CBID2",
-      "contributions": [
+      "contributions": []
+    },
+    {
       "login": "diegorramos84",
       "name": "Diego Ramos",
       "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
@@ -683,7 +685,7 @@
         "content",
         "doc",
         "review",
-        "tutorial"
+        "tutorial",
         "example",
         "ideas",
         "infra",
@@ -697,6 +699,24 @@
         "translation",
         "tutorial",
         "userTesting"
+      ]
+    },
+    {
+      "login": "Sadeedpv",
+      "name": "Sadeed pv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96517901?v=4",
+      "profile": "https://sadeedpv.github.io/Portfolio-website/",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "projectManagement",
+        "review",
+        "security",
+        "translation",
+        "tutorial"
       ]
     }
   ],
