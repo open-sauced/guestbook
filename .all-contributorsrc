@@ -735,8 +735,19 @@
         "design",
         "infra"
       ]
+    }, 
+    {
+      "login": "bellsofaba",
+      "name": "j",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95832028?v=4",
+      "profile": "https://github.com/bellsofaba",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "documentation",
+        "review"
+      ]
     }
-  ],
-  "contributorsPerLine": 7,
-  "linkToUsage": true
-}
+    
+  
