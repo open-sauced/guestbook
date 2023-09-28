@@ -740,6 +740,19 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "thititongumpun",
+      "name": "thititongumpun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55313215?v=4",
+      "profile": "https://github.com/thititongumpun",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "design",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
