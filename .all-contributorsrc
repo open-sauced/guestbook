@@ -749,7 +749,16 @@
           "design",
           "review"
         ]
-     }
+     },
+{
+   "login": "dxeon",
+   "name": "Dmitry",
+   "avatar_url": "https://avatars.githubusercontent.com/u/9787379",
+   "profile": "https://github.com/dxeon",
+    "contributions": [
+      "code"
+    ]
+}
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
