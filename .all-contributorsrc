@@ -735,8 +735,6 @@
         "design",
         "infra"
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "login": "Obasoro",
@@ -761,7 +759,6 @@
         "tool",
         "userTesting"
       ]
->>>>>>> 5aeb014... docs: add @obasoro as a contributor
     }
   ],
   "contributorsPerLine": 7,
