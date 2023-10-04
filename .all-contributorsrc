@@ -737,28 +737,46 @@
       ]
     },
     {
-      
-        "login": "jayasuryard31",
-        "name": "Jayasurya R D",
-        "avatar_url": "https://avatars.githubusercontent.com/u/92865629?v=4",
-        "profile": "https://github.com/jayasuryard31",
-        "contributions": [
-          "code",
-          "data",
-          "ideas",
-          "design",
-          "review"
-        ]
-     },
-{
-   "login": "dxeon",
-   "name": "Dmitry",
-   "avatar_url": "https://avatars.githubusercontent.com/u/9787379",
-   "profile": "https://github.com/dxeon",
-    "contributions": [
-      "code"
-    ]
-}
+      "login": "jayasuryard31",
+      "name": "Jayasurya R D",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92865629?v=4",
+      "profile": "https://github.com/jayasuryard31",
+      "contributions": [
+        "code",
+        "data",
+        "ideas",
+        "design",
+        "review"
+      ]
+    },
+    {
+      "login": "dxeon",
+      "name": "Dmitry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9787379",
+      "profile": "https://github.com/dxeon",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "WassCodeur",
+      "name": "Wachiou BOURAÏMA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100234404?v=4",
+      "profile": "https://wasscodeur.me/",
+      "contributions": [
+	"code",
+        "question",
+        "business",
+        "content",
+        "doc",
+        "ideas",
+        "promotion",
+        "test",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
