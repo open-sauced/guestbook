@@ -782,7 +782,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/100234404?v=4",
       "profile": "https://wasscodeur.me/",
       "contributions": [
-	"code",
+        "code",
         "question",
         "business",
         "content",
@@ -793,6 +793,16 @@
         "translation",
         "tutorial",
         "userTesting"
+      ]
+    },
+    {
+      "login": "david-001",
+      "name": "David Akim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9206557?v=4",
+      "profile": "https://david-001.github.io/website/",
+      "contributions": [
+        "code",
+        "content"
       ]
     }
   ],

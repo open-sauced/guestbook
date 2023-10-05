@@ -123,7 +123,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -206,6 +206,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dxeon"><img src="https://avatars.githubusercontent.com/u/9787379?s=100" width="100px;" alt="Dmitry"/><br /><sub><b>Dmitry</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=dxeon" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://wasscodeur.me/"><img src="https://avatars.githubusercontent.com/u/100234404?v=4?s=100" width="100px;" alt="Wachiou BOURAÏMA"/><br /><sub><b>Wachiou BOURAÏMA</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=WassCodeur" title="Code">💻</a> <a href="#question-WassCodeur" title="Answering Questions">💬</a> <a href="#business-WassCodeur" title="Business development">💼</a> <a href="#content-WassCodeur" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=WassCodeur" title="Documentation">📖</a> <a href="#ideas-WassCodeur" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-WassCodeur" title="Promotion">📣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=WassCodeur" title="Tests">⚠️</a> <a href="#translation-WassCodeur" title="Translation">🌍</a> <a href="#tutorial-WassCodeur" title="Tutorials">✅</a> <a href="#userTesting-WassCodeur" title="User Testing">📓</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://david-001.github.io/website/"><img src="https://avatars.githubusercontent.com/u/9206557?v=4?s=100" width="100px;" alt="David Akim"/><br /><sub><b>David Akim</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=david-001" title="Code">💻</a> <a href="#content-david-001" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
