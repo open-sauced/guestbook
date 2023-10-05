@@ -786,6 +786,17 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "Satoshi-Sh",
+      "name": "Satoshi Sh.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73622805?v=4",
+      "profile": "https://github.com/Satoshi-Sh",
+      "contributions": [
+        "code",
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
