@@ -787,6 +787,50 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "david-001",
+      "name": "David Akim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9206557?v=4",
+      "profile": "https://david-001.github.io/website/",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    },
+    {
+      "login": "Satoshi-Sh",
+      "name": "Satoshi Sh.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73622805?v=4",
+      "profile": "https://github.com/Satoshi-Sh",
+      "contributions": [
+        "code",
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "geoffreylgv",
+      "name": "Geoffrey Logovi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52314615?v=4",
+      "profile": "https://github.com/geoffreylgv",
+      "contributions": [
+        "design",
+        "translation",
+        "doc",
+        "content",
+        "tutorial",
+        "review",
+        "code",
+        "blog",
+        "video",
+        "bug",
+        "example",
+        "promotion",
+        "projectManagement",
+        "ideas",
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7,
