@@ -748,6 +748,30 @@
         "design",
         "review"
       ]
+    },
+  {
+      "login": "obasoro",
+      "name": "Obasoro Kunle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29310552?v=4",
+      "profile": "https://github.com/obasoro",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "review",
+        "tutorial",
+        "example",
+        "ideas",
+        "infra",
+        "mentoring",
+        "plugin",
+        "review",
+        "security",
+        "tool",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
