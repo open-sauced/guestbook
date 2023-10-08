@@ -750,6 +750,30 @@
       ]
     },
     {
+      "login": "Obasoro",
+      "name": "Obasoro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29310552?v=4",
+      "profile": "https://github.com/Obasoro",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "mentoring",
+        "research",
+        "review",
+        "security",
+        "test",
+        "tool",
+        "userTesting"
+      ]
+    },
+    {
       "login": "dxeon",
       "name": "Dmitry",
       "avatar_url": "https://avatars.githubusercontent.com/u/9787379",
