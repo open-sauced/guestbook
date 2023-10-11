@@ -144,6 +144,35 @@ Then, pull the latest changes in the `main` branch in the `origin` repository to
    git pull origin main
    ```
 
+### Resolving Merge Conflicts
+
+Follow these steps to resolve the merge conflicts:
+
+1. In the `.all-contributorsrc` file:
+
+   - Click the "Accept Both Change" option on the top of your workspace in VSCode.
+   - Move your profile details to the end of the contributors array and fix anything necessary.
+
+2. In the `README.md` file:
+
+   - Click the "Accept Incoming Change" option on the top of your workspace in VSCode for each conflict in this file.
+
+3. Run `npm run contributors:generate`.
+
+   You will now see that the all contributors badge has been incremented, and your profile is generated at the end of the contributors list in the `README.md` file.
+
+4. Add and commit your changes.
+
+   ```bash
+   git commit -am "Resolve merge conflicts"
+   ```
+
+5. Push your commits to your remote branch.
+
+   ```bash
+   git push
+   ```
+
 ## Congratulations on your first contribution! 🎉
 
 You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
