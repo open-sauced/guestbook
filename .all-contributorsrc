@@ -889,6 +889,23 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "ZeeshanMukhtar1",
+      "name": "Zeeshan Mukhtar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91063160?v=4",
+      "profile": "https://github.com/ZeeshanMukhtar1",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas",
+        "review",
+        "test",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
