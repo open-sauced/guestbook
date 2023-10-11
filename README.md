@@ -118,6 +118,30 @@ All contributors contributing to this repository will go through the same proces
 
 With the same files and lines to modify, there is a high potential that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
 
+### Keeping Branch Up to Date
+
+Before resolving conflicts, your branch has to be in sync with the latest changes in the `main` branch of the original (`upstream`) repository.
+
+First, you must update your forked (`origin`) repository:
+
+1. Go to your forked repository on GitHub.
+2. Click the "Sync fork" button.
+3. Click the green "Update branch" button.
+
+Then, pull the latest changes in the `main` branch in the `origin` repository to your local working branch by following these steps in your terminal:
+
+1. Go to your working branch.
+
+   ```bash
+   git checkout <your-branch-name>
+   ```
+
+2. Pull the latest changes with this command:
+
+   ```bash
+   git pull origin main
+   ```
+
 ## Congratulations on your first contribution! 🎉
 
 You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
