@@ -118,6 +118,8 @@ All contributors contributing to this repository will go through the same proces
 
 With the same files and lines to modify, there is a high potential that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
 
+In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts for this project.
+
 ### Keeping Branch Up to Date
 
 Before resolving conflicts, your branch has to be in sync with the latest changes in the `main` branch of the original (`upstream`) repository.
