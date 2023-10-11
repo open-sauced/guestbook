@@ -859,6 +859,36 @@
         "mentoring",
         "tutorial"
       ]
+    },
+    {
+      "login": "ToobaJamal",
+      "name": "Tooba Jamal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52610124?v=4",
+      "profile": "https://www.freecodecamp.org/news/author/tooba/",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "talk",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
