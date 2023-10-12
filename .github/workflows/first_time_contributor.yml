@@ -8,6 +8,9 @@ jobs:
   first_time_contributor:
     runs-on: ubuntu-latest
     steps:
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
     - name: Check if contributor is first-timer
       id: check
       run: |
