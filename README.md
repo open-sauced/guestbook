@@ -84,15 +84,14 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 6. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 
-7. Add and commit your changes by running this command:
+7. If you used the CLI tool method in step 6, to add yourself to the guestbook, **skip this step;** otherwise:
+   Add and commit your changes by running this command:
 
    ```bash
    git commit -am "Your message"
    ```
 
    Change `"Your message"` to your own message. For example, `"Add Alice to the guestbook"`.
-
-   **You can skip this step (7) if you use the CLI tool to add yourself to the guestbook**.
 
 8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
