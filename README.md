@@ -111,11 +111,9 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
 
-Due to open source collaboration culture, it is common to encounter merge conflicts when contributing to an open source project. Merge conflicts usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
+Merge conflicts are something you'll commonly encounter when contributing to an open source project. They usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
 
-All contributors contributing to this repository will go through the same process: adding themselves to the end of the contributors array in the `.all-contributorsrc` file and generating the `README.md` file.
-
-With the same files and lines to modify, there is a high potential that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
+Since the main purpose of the guestbook is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
 
 In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts for this project.
 
@@ -172,9 +170,13 @@ Follow these steps to resolve the merge conflicts:
    git push
    ```
 
-## Congratulations on your first contribution! 🎉
+Congratulations on your first contribution! 🎉
 
-You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md)!
+## What's Next?
+
+You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md).
+
+Hungry for more contributions? Check out our [pizza verse](https://github.com/open-sauced/pizza) repository and join us in celebrating pizza!🍕😄
 
 ---
 
@@ -185,7 +187,9 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
