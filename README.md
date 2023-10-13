@@ -118,19 +118,7 @@ You can add this contribution to your [OpenSauced](https://opensauced.pizza) res
 ## 🤝 Contributing
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the Readme directions for contributing.
-## 🌐 i18n Request
-
-Want to share the power of Open Source with other non-English people worldwide? Check out our <!-- add translation guide here -->
-## 🌐 i18n Credit
-Reviewed a translation PR?  We want you to get credit, too! Create a PR following the exact instructions below and you can receive Hacktoberfest credit!
-
-1. Create your own PR to update this page.
-1. In the PR title, include the PR number of the translation you reviewed. We will need to check this.
-1. In the PR description, link to your review comment in the translation PR.
-1. As the only change to this page, update the statement at the bottom of this file to increase the count by 1 to have your contribution considered!
-
-If you have any questions, just ask, and thank you for helping us with our mission to share the power open source worldwide! 😄
-
+- **Translations:** Eager to spread the love of open source in another language? Share them with us!  If there are enough votes and volunteers to translate the README in the languages other than the ones mentioned in translation guide <!-- add link to the guide here -->, you can decide who will fork and maintain the translation repo. Afterwards, link the forked repo in the community-translations.md <!--add link to the community-translations.md here-->.
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
