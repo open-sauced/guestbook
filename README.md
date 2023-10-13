@@ -107,7 +107,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
    git push -u origin branch-name
    ```
 
-10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
+10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: add {GitHub username} as a contributor`.
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
 
@@ -187,7 +187,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -274,6 +274,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.freecodecamp.org/news/author/tooba/"><img src="https://avatars.githubusercontent.com/u/52610124?v=4?s=100" width="100px;" alt="Tooba Jamal"/><br /><sub><b>Tooba Jamal</b></sub></a><br /><a href="#a11y-ToobaJamal" title="Accessibility">️️️️♿️</a> <a href="#question-ToobaJamal" title="Answering Questions">💬</a> <a href="#blog-ToobaJamal" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AToobaJamal" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ToobaJamal" title="Code">💻</a> <a href="#content-ToobaJamal" title="Content">🖋</a> <a href="#data-ToobaJamal" title="Data">🔣</a> <a href="#design-ToobaJamal" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ToobaJamal" title="Documentation">📖</a> <a href="#eventOrganizing-ToobaJamal" title="Event Organizing">📋</a> <a href="#example-ToobaJamal" title="Examples">💡</a> <a href="#ideas-ToobaJamal" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ToobaJamal" title="Maintenance">🚧</a> <a href="#mentoring-ToobaJamal" title="Mentoring">🧑‍🏫</a> <a href="#projectManagement-ToobaJamal" title="Project Management">📆</a> <a href="#promotion-ToobaJamal" title="Promotion">📣</a> <a href="#research-ToobaJamal" title="Research">🔬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3AToobaJamal" title="Reviewed Pull Requests">👀</a> <a href="#talk-ToobaJamal" title="Talks">📢</a> <a href="#tool-ToobaJamal" title="Tools">🔧</a> <a href="#translation-ToobaJamal" title="Translation">🌍</a> <a href="#tutorial-ToobaJamal" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ZeeshanMukhtar1"><img src="https://avatars.githubusercontent.com/u/91063160?v=4?s=100" width="100px;" alt="Zeeshan Mukhtar"/><br /><sub><b>Zeeshan Mukhtar</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ZeeshanMukhtar1" title="Code">💻</a> <a href="#content-ZeeshanMukhtar1" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ZeeshanMukhtar1" title="Documentation">📖</a> <a href="#example-ZeeshanMukhtar1" title="Examples">💡</a> <a href="#ideas-ZeeshanMukhtar1" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3AZeeshanMukhtar1" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ZeeshanMukhtar1" title="Tests">⚠️</a> <a href="#translation-ZeeshanMukhtar1" title="Translation">🌍</a> <a href="#tutorial-ZeeshanMukhtar1" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/codewithjazzy"><img src="https://avatars.githubusercontent.com/u/105261487?v=4?s=100" width="100px;" alt="Jasmine"/><br /><sub><b>Jasmine</b></sub></a><br /><a href="#tutorial-codewithjazzy" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
