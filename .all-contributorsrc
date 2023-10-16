@@ -929,6 +929,20 @@
         "doc",
         "a11y"
       ]
+    },
+    {
+      "login": "JesseRWeigel",
+      "name": "Jesse Weigel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11077930?v=4",
+      "profile": "https://github.com/JesseRWeigel",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "a11y",
+        "video",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
