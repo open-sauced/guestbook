@@ -917,19 +917,6 @@
       ]
     },
     {
-      "login": "VirginieLemaire",
-      "name": "Virginie",
-      "avatar_url": "https://avatars.githubusercontent.com/u/82816247?v=4",
-      "profile": "https://github.com/VirginieLemaire",
-      "contributions": [
-        "code",
-        "data",
-        "doc",
-        "ideas",
-        "translation"
-        ]
-    },
-    {
       "login": "Ajiboso-Adeola",
       "name": "Ajiboso Adeola",
       "avatar_url": "https://avatars.githubusercontent.com/u/79532937?v=4",
@@ -942,6 +929,19 @@
         "doc",
         "a11y"
       ]
+    },
+    {
+      "login": "VirginieLemaire",
+      "name": "Virginie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82816247?v=4",
+      "profile": "https://github.com/VirginieLemaire",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "translation"
+        ]
     }
   ],
   "contributorsPerLine": 7,
