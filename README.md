@@ -118,7 +118,9 @@ You can add this contribution to your [OpenSauced](https://opensauced.pizza) res
 ## 🤝 Contributing
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the Readme directions for contributing.
-- **Translations:** Eager to spread the love of open source in another language? Share them with us!  If there are enough votes and volunteers to translate the README in the languages other than the ones mentioned in translation guide <!-- add link to the guide here -->, you can decide who will fork and maintain the translation repo. Afterwards, link the forked repo in the community-translations.md <!--add link to the community-translations.md here-->.
+- **Translations:** If you want to translate the README and other necessary parts of this repo, check out our community guidelines.
+ 
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
