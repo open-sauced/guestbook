@@ -14,6 +14,7 @@ At the moment, we have the course in the following languages:
 * **Review PRs and translations.** New to reviewing GitHub PRs and translations? No worries, we have you covered in our [Reviewer Process Guide](#reviewer-process-guide).
 
 ## Reviewer Process Guide
+
 When it comes to reviewing a translation pull request (PR), ask yourself the following questions:
 
 * Does the current translation match the instructions in the English version?
