@@ -122,7 +122,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -212,6 +212,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/codewithjazzy"><img src="https://avatars.githubusercontent.com/u/105261487?v=4?s=100" width="100px;" alt="Jasmine"/><br /><sub><b>Jasmine</b></sub></a><br /><a href="#tutorial-codewithjazzy" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ajiboso-Adeola"><img src="https://avatars.githubusercontent.com/u/79532937?v=4?s=100" width="100px;" alt="Ajiboso Adeola"/><br /><sub><b>Ajiboso Adeola</b></sub></a><br /><a href="#question-Ajiboso-Adeola" title="Answering Questions">💬</a> <a href="#blog-Ajiboso-Adeola" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ajiboso-Adeola" title="Code">💻</a> <a href="#content-Ajiboso-Adeola" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ajiboso-Adeola" title="Documentation">📖</a> <a href="#a11y-Ajiboso-Adeola" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VirginieLemaire"><img src="https://avatars.githubusercontent.com/u/82816247?v=4?s=100" width="100px;" alt="Virginie"/><br /><sub><b>Virginie</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=VirginieLemaire" title="Code">💻</a> <a href="#data-VirginieLemaire" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=VirginieLemaire" title="Documentation">📖</a> <a href="#ideas-VirginieLemaire" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-VirginieLemaire" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vaibhavharsoda"><img src="https://avatars.githubusercontent.com/u/66860032?v=4?s=100" width="100px;" alt="Vaibhav Patel"/><br /><sub><b>Vaibhav Patel</b></sub></a><br /><a href="#question-vaibhavharsoda" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Avaibhavharsoda" title="Bug reports">🐛</a> <a href="#business-vaibhavharsoda" title="Business development">💼</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=vaibhavharsoda" title="Code">💻</a> <a href="#design-vaibhavharsoda" title="Design">🎨</a> <a href="#ideas-vaibhavharsoda" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=vaibhavharsoda" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>
