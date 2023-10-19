@@ -118,6 +118,8 @@ You can add this contribution to your [OpenSauced](https://opensauced.pizza) res
 ## 🤝 Contributing
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the Readme directions for contributing.
+- **Translations:** If you want to translate the README and other necessary parts of this repo, check out our community guidelines.
+ 
 
 ## Contributors
 
