@@ -974,6 +974,19 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "Teemamin",
+      "name": "Fatima Aminu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55752409?v=4",
+      "profile": "https://github.com/Teemamin",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
