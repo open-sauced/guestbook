@@ -215,19 +215,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ajiboso-Adeola"><img src="https://avatars.githubusercontent.com/u/79532937?v=4?s=100" width="100px;" alt="Ajiboso Adeola"/><br /><sub><b>Ajiboso Adeola</b></sub></a><br /><a href="#question-Ajiboso-Adeola" title="Answering Questions">💬</a> <a href="#blog-Ajiboso-Adeola" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ajiboso-Adeola" title="Code">💻</a> <a href="#content-Ajiboso-Adeola" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ajiboso-Adeola" title="Documentation">📖</a> <a href="#a11y-Ajiboso-Adeola" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VirginieLemaire"><img src="https://avatars.githubusercontent.com/u/82816247?v=4?s=100" width="100px;" alt="Virginie"/><br /><sub><b>Virginie</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=VirginieLemaire" title="Code">💻</a> <a href="#data-VirginieLemaire" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=VirginieLemaire" title="Documentation">📖</a> <a href="#ideas-VirginieLemaire" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-VirginieLemaire" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vaibhavharsoda"><img src="https://avatars.githubusercontent.com/u/66860032?v=4?s=100" width="100px;" alt="Vaibhav Patel"/><br /><sub><b>Vaibhav Patel</b></sub></a><br /><a href="#question-vaibhavharsoda" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Avaibhavharsoda" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=vaibhavharsoda" title="Code">💻</a> <a href="#design-vaibhavharsoda" title="Design">🎨</a> <a href="#ideas-vaibhavharsoda" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=vaibhavharsoda" title="Tests">⚠️</a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
-      </td>
-    </tr>
-  </tfoot>
-</table>
-
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lymah123"><img src="https://avatars.githubusercontent.com/u/109049037?v=4" width="100px;" alt="Harlimat Odunola"/><br /><sub><b>Harlimat Odunola</b>
+      </sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Code">💻</a> 
+        <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Blog">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Documentation">📖</a> <a href="#ideas-Lymah123" title="Ideas">🤔</a>  <a href="#example-Lymah123" title="Example">📋</a>
+  <a href="#translation-Lymah123" title="Translation">🌍</a> <a href="#content-Lymah123" title="Content">📦</a> <a href="#ideas-Lymah123" title="Ideas">💡</a> <a href="#review-Lymah123" title="Review">🔍</a> <a href="#test-YourGitHubUsername" title="Test">🧪</a> <a href="#tutorial-Lymah123" title="Tutorial">📚</a></td>
+  
+         
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
