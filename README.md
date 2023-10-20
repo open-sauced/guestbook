@@ -189,7 +189,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -283,12 +283,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
 <tr>    
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vaibhavharsoda"><img src="https://avatars.githubusercontent.com/u/66860032?v=4?s=100" width="100px;" alt="Vaibhav Patel"/><br /><sub><b>Vaibhav Patel</b></sub></a><br /><a href="#question-vaibhavharsoda" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Avaibhavharsoda" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=vaibhavharsoda" title="Code">💻</a> <a href="#design-vaibhavharsoda" title="Design">🎨</a> <a href="#ideas-vaibhavharsoda" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=vaibhavharsoda" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lymah123"><img src="https://avatars.githubusercontent.com/u/109049037?v=4" width="100px;" alt="Harlimat Odunola"/><br /><sub><b>Harlimat Odunola</b>
-      </sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Code">💻</a> 
-        <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Blog">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Documentation">📖</a> <a href="#answerLymah123" title="Answering Questions">💬</a>  <a href="#example-Lymah123" title="Example">📋</a>
-  <a href="#translation-Lymah123" title="Translation">🌍</a> <a href="#content-Lymah123" title="Content">📦</a> <a href="#ideas-Lymah123" title="Ideas">💡</a> <a href="#review-Lymah123" title="Review">🔍</a> <a href="#test-Lymah123" title="Test">🧪</a> <a href="#tutorial-Lymah123" title="Tutorial">📚</a> <a href="#accessibility-Lymah123" title="Accessibility">️️♿</td> 
-  
-      </tr>  
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lymah123"><img src="https://avatars.githubusercontent.com/u/109049037?v=4?s=100" width="100px;" alt="Harlimat Odunola"/><br /><sub><b>Harlimat Odunola</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Code">💻</a> <a href="#blog-Lymah123" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Documentation">📖</a> <a href="#content-Lymah123" title="Content">🖋</a> <a href="#example-Lymah123" title="Examples">💡</a> <a href="#ideas-Lymah123" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3ALymah123" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lymah123" title="Tests">⚠️</a> <a href="#translation-Lymah123" title="Translation">🌍</a> <a href="#tutorial-Lymah123" title="Tutorials">✅</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/C-o-m-o-n"><img src="https://avatars.githubusercontent.com/u/94454803?v=4?s=100" width="100px;" alt="Collins O. Odhiambo"/><br /><sub><b>Collins O. Odhiambo</b></sub></a><br /><a href="#a11y-C-o-m-o-n" title="Accessibility">️️️️♿️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=C-o-m-o-n" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=C-o-m-o-n" title="Documentation">📖</a> <a href="#infra-C-o-m-o-n" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-C-o-m-o-n" title="Maintenance">🚧</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>

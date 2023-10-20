@@ -987,6 +987,19 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "C-o-m-o-n",
+      "name": "Collins O. Odhiambo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94454803?v=4",
+      "profile": "https://github.com/C-o-m-o-n",
+      "contributions": [
+        "a11y",
+        "code",
+        "doc",
+        "infra",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
