@@ -109,9 +109,74 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: add {GitHub username} as a contributor`.
 
-## Congratulations on your first contribution! 🎉
+## Keeping Branch Up to Date and Resolving Merge Conflicts
 
-You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md))!
+Merge conflicts are something you'll commonly encounter when contributing to an open source project. They usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
+
+Since the main purpose of the guestbook is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
+
+In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts for this project.
+
+### Keeping Branch Up to Date
+
+Before resolving conflicts, your branch has to be in sync with the latest changes in the `main` branch of the original (`upstream`) repository.
+
+First, you must update your forked (`origin`) repository:
+
+1. Go to your forked repository on GitHub.
+2. Click the "Sync fork" button.
+3. Click the green "Update branch" button.
+
+Then, pull the latest changes in the `main` branch in the `origin` repository to your local working branch by following these steps in your terminal:
+
+1. Go to your working branch.
+
+   ```bash
+   git checkout <your-branch-name>
+   ```
+
+2. Pull the latest changes with this command:
+
+   ```bash
+   git pull origin main
+   ```
+
+### Resolving Merge Conflicts
+
+Follow these steps to resolve the merge conflicts:
+
+1. In the `.all-contributorsrc` file:
+
+   - Click the "Accept Both Change" option on the top of your workspace in VSCode.
+   - Move your profile details to the end of the contributors array and fix anything necessary.
+
+2. In the `README.md` file:
+
+   - Click the "Accept Incoming Change" option on the top of your workspace in VSCode for each conflict in this file.
+
+3. Run `npm run contributors:generate`.
+
+   You will now see that the all contributors badge has been incremented, and your profile is generated at the end of the contributors list in the `README.md` file.
+
+4. Add and commit your changes.
+
+   ```bash
+   git commit -am "Resolve merge conflicts"
+   ```
+
+5. Push your commits to your remote branch.
+
+   ```bash
+   git push
+   ```
+
+Congratulations on your first contribution! 🎉
+
+## What's Next?
+
+You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md).
+
+Hungry for more contributions? Check out our [pizza verse](https://github.com/open-sauced/pizza) repository and join us in celebrating pizza!🍕😄
 
 ---
 
