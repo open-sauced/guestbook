@@ -915,6 +915,65 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "Ajiboso-Adeola",
+      "name": "Ajiboso Adeola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79532937?v=4",
+      "profile": "https://github.com/Ajiboso-Adeola",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "a11y"
+      ]
+    },
+    {
+      "login": "VirginieLemaire",
+      "name": "Virginie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82816247?v=4",
+      "profile": "https://github.com/VirginieLemaire",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "translation"
+      ]
+    },
+    {
+      "login": "vaibhavharsoda",
+      "name": "Vaibhav Patel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66860032?v=4",
+      "profile": "https://github.com/vaibhavharsoda",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "design",
+        "ideas",
+        "test"
+      ]
+    },
+    {
+      "login": "Lymah123",
+      "name": "Harlimat Odunola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109049037?v=4",
+      "profile": "https://github.com/Lymah123",
+      "contributions": [
+        "code",
+        "blog",
+        "doc",
+        "content",
+        "example",
+        "ideas",
+        "review",
+        "test",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
