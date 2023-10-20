@@ -5,7 +5,7 @@ on:
     types: [opened]
 
 jobs:
-  first_time_contributor:
+  intro_course_contributor:
     runs-on: ubuntu-latest
     steps:
 
