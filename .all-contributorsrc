@@ -974,7 +974,24 @@
         "translation",
         "tutorial"
       ]
-    }
+    },
+    {
+      "login": "Mi1king",
+      "name": "Mi1King",
+      "avatar_url": "https://github.com/Mi1king.png",
+      "profile": "https://github.com/Mi1king",
+      "contributions": [
+        "bug",
+        "blog",
+        "code",
+        "data",
+        "fundingFinding",
+        "security",
+        "tutorial",
+        "translation"
+
+      ]
+   }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
