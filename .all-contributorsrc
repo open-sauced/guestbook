@@ -1003,10 +1003,9 @@
         "security",
         "tutorial",
         "translation"
-
       ]
-   },
-   {
+    },
+    {
       "login": "C-o-m-o-n",
       "name": "Collins O. Odhiambo",
       "avatar_url": "https://avatars.githubusercontent.com/u/94454803?v=4",
@@ -1017,6 +1016,19 @@
         "doc",
         "infra",
         "maintenance"
+      ]
+    },
+    {
+      "login": "Teemamin",
+      "name": "Fatima Aminu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55752409?v=4",
+      "profile": "https://github.com/Teemamin",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "doc",
+        "tutorial"
       ]
     }
   ],
