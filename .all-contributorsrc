@@ -931,6 +931,20 @@
       ]
     },
     {
+      "login": "JesseRWeigel",
+      "name": "Jesse Weigel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11077930?v=4",
+      "profile": "https://github.com/JesseRWeigel",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "a11y",
+        "video",
+        "review"
+      ]
+    },
+    {
       "login": "VirginieLemaire",
       "name": "Virginie",
       "avatar_url": "https://avatars.githubusercontent.com/u/82816247?v=4",
@@ -973,6 +987,35 @@
         "test",
         "translation",
         "tutorial"
+      ]
+    },
+    {
+      "login": "Mi1king",
+      "name": "Mi1King",
+      "avatar_url": "https://github.com/Mi1king.png",
+      "profile": "https://github.com/Mi1king",
+      "contributions": [
+        "bug",
+        "blog",
+        "code",
+        "data",
+        "fundingFinding",
+        "security",
+        "tutorial",
+        "translation"
+      ]
+    },
+    {
+      "login": "C-o-m-o-n",
+      "name": "Collins O. Odhiambo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94454803?v=4",
+      "profile": "https://github.com/C-o-m-o-n",
+      "contributions": [
+        "a11y",
+        "code",
+        "doc",
+        "infra",
+        "maintenance"
       ]
     },
     {
