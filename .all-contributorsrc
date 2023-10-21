@@ -1030,6 +1030,25 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "CodeLikeAGirl29",
+      "name": "Lindsey Howard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25946305?v=4",
+      "profile": "https://lindseyk.dev/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "research",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
