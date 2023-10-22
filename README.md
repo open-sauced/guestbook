@@ -84,7 +84,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 6. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
 
-7. If you used the CLI tool method in step 6, to add yourself to the guestbook, **skip this step;** otherwise:
+7. If you used the CLI tool method in step 5, to add yourself to the guestbook, **skip this step;** otherwise:
    Add and commit your changes by running this command:
 
    ```bash
