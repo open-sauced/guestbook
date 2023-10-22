@@ -1032,6 +1032,39 @@
       ]
     },
     {
+      "login": "CodeLikeAGirl29",
+      "name": "Lindsey Howard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25946305?v=4",
+      "profile": "https://lindseyk.dev/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "research",
+        "tool",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Emmarie-Ahtunan",
+      "name": "Emily Marie Ahtúnan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86572370?v=4",
+      "profile": "https://github.com/Emmarie-Ahtunan",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content"
+      ]
+    },
+    {
       "login": "Sunny-unik",
       "name": "Sunny Gandhwani ",
       "avatar_url": "https://avatars.githubusercontent.com/u/65410458?v=4",
