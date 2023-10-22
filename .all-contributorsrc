@@ -1049,6 +1049,20 @@
         "tool",
         "tutorial"
       ]
+    },
+    {
+      "login": "Emmarie-Ahtunan",
+      "name": "Emily Marie Ahtúnan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86572370?v=4",
+      "profile": "https://github.com/Emmarie-Ahtunan",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
