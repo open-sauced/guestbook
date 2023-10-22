@@ -1030,6 +1030,25 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "Sunny-unik",
+      "name": "Sunny Gandhwani ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65410458?v=4",
+      "profile": "https://github.com/Sunny-unik",
+      "contributions": [
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "plugin",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
