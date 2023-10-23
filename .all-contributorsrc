@@ -1082,6 +1082,15 @@
         "plugin",
         "projectManagement"
       ]
+    },
+    {
+      "login": "Alejandro-Saavedra",
+      "name": "Alejandro Saavedra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123430891?v=4",
+      "profile": "https://github.com/Alejandro-Saavedra",
+      "contributions": [
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
