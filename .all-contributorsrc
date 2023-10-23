@@ -1091,6 +1091,15 @@
       "contributions": [
         "research"
       ]
+    },
+    {
+      "login": "unpervertedkid",
+      "name": "Brian Silah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71752651?v=4",
+      "profile": "https://github.com/unpervertedkid",
+      "contributions": [
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
