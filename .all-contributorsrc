@@ -1100,6 +1100,15 @@
       "contributions": [
         "example"
       ]
+    },
+    {
+      "login": "twister904",
+      "name": "Mazhar saifi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84468625?v=4",
+      "profile": "https://github.com/twister904",
+      "contributions": [
+        "web development"
+      ]
     }
   ],
   "contributorsPerLine": 7,
