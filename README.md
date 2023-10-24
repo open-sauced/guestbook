@@ -189,7 +189,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-72-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -294,6 +294,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Alejandro-Saavedra"><img src="https://avatars.githubusercontent.com/u/123430891?v=4?s=100" width="100px;" alt="Alejandro Saavedra"/><br /><sub><b>Alejandro Saavedra</b></sub></a><br /><a href="#research-Alejandro-Saavedra" title="Research">🔬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/unpervertedkid"><img src="https://avatars.githubusercontent.com/u/71752651?v=4?s=100" width="100px;" alt="Brian Silah"/><br /><sub><b>Brian Silah</b></sub></a><br /><a href="#example-unpervertedkid" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/twister904"><img src="https://avatars.githubusercontent.com/u/84468625?v=4?s=100" width="100px;" alt="Mazhar saifi"/><br /><sub><b>Mazhar saifi</b></sub></a><br /><a href="#example-twister904" title="Examples">💡</a></td>
     </tr>
   </tbody>
   <tfoot>
