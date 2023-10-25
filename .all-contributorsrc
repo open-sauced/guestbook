@@ -1109,7 +1109,13 @@
       "contributions": [
         "web development"
       ]
-    }
+    },{
+      "login": "adiazt01",
+      "name": "Armando Diaz",
+      "avatar_url": "https://github.com/adiazt01png",
+      "profile": "https://github.com/adiazt01",
+      "contributions": ["code"]
+   }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
