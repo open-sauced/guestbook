@@ -182,7 +182,8 @@ Hungry for more contributions? Check out our [pizza verse](https://github.com/op
 
 ## 🤝 Contributing
 
-All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the Readme directions for contributing.
+All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the Readme directions for contributing.<br>
+If you are interested in contributing to improving of this course, please create an issue and refer to [this guide](CONTRIBUTING.md)
 
 - **Translations:** If you want to translate the README and other necessary parts of this repo, check out our [community guidelines](https://github.com/open-sauced/guestbook/blob/main/i18n-guidelines.md).
 
