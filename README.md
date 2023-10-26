@@ -183,13 +183,15 @@ Hungry for more contributions? Check out our [pizza verse](https://github.com/op
 ## 🤝 Contributing
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the Readme directions for contributing.
-- **Translations:** If you want to translate the README and other necessary parts of this repo, check out our community guidelines.
 
+- **Translations:** If you want to translate the README and other necessary parts of this repo, check out our [community guidelines](https://github.com/open-sauced/guestbook/blob/main/i18n-guidelines.md).
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
