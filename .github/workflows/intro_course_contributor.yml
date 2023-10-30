@@ -1,0 +1,23 @@
+name: Intro Course Contributor Action
+
+on:
+ on:
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - synchronize
+
+permissions:
+  pull-requests: write
+  
+jobs:
+  intro_course_contributor:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Post comment for course contributors
+      if: contains(github.event.pull_request.title, 'as a contributor')
+      run: |
+        PR_COMMENT="Congratulations on completing Chapter 5 of the Intro to OSS Course with your contribution to this repository! You're almost to the end of the course. Create a [highlight](https://app.opensauced.pizza/feed) of your contribution to our guestbook using the instructions in [chapter 6](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md) and share it with us!"
+        curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -X POST -d "{\"body\":\"$PR_COMMENT\"}" "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments"
