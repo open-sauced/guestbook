@@ -1,6 +1,7 @@
 name: Intro Course Contributor Action
 
 on:
+ on:
   pull_request_target:
     types:
       - opened
