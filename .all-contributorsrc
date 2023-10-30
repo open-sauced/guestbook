@@ -1171,6 +1171,33 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "Ezzywealth",
+      "name": "Ezekiel Udiomuno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86690432?v=4",
+      "profile": "https://github.com/Ezzywealth",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "research",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
