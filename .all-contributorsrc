@@ -1248,6 +1248,24 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "Sadeedpv",
+      "name": "Sadeed pv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96517901?v=4",
+      "profile": "https://sadeedpv.github.io/",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "projectManagement",
+        "review",
+        "security",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
