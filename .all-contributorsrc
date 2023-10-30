@@ -1281,6 +1281,15 @@
         "question",
         "translation"
       ]
+    },
+    {
+      "login": "adiazt01",
+      "name": "Armando Diaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119072544?v=4",
+      "profile": "https://github.com/adiazt01",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
