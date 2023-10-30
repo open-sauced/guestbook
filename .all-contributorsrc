@@ -1220,6 +1220,22 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "izazw",
+      "name": "Iza Zamorska-Wasielak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62272731?v=4",
+      "profile": "https://izacodes.me/",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "mentoring",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
