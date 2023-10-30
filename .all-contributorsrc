@@ -1266,6 +1266,30 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "pal-sandeep",
+      "name": "Sandeep Pal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26271825?v=4",
+      "profile": "https://github.com/pal-sandeep",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "example",
+        "research",
+        "question",
+        "translation"
+      ]
+    },
+    {
+      "login": "adiazt01",
+      "name": "Armando Diaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119072544?v=4",
+      "profile": "https://github.com/adiazt01",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
