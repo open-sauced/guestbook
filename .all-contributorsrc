@@ -724,18 +724,6 @@
       ]
     },
     {
-      "login": "Kamari93",
-      "name": "Kamari Moore",
-      "avatar_url": "https://avatars.githubusercontent.com/u/56329469?v=4",
-      "profile": "https://github.com/Kamari93",
-      "contributions": [
-        "question",
-        "blog",
-        "code",
-        "test"
-      ]
-    },
-    {
       "login": "thititongumpun",
       "name": "thititongumpun",
       "avatar_url": "https://avatars.githubusercontent.com/u/55313215?v=4",
@@ -1247,6 +1235,18 @@
         "ideas",
         "mentoring",
         "data"
+      ]
+    },
+    {
+      "login": "Kamari93",
+      "name": "Kamari Moore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56329469?v=4",
+      "profile": "https://github.com/Kamari93",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "test"
       ]
     }
   ],
