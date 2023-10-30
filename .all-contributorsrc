@@ -1131,6 +1131,185 @@
         "test",
         "userTesting"
       ]
+    },
+    {
+      "login": "safacade009",
+      "name": "safacade009",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122990983?v=4",
+      "profile": "https://github.com/safacade009",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
+      ]
+    },
+    {
+      "login": "Ezzywealth",
+      "name": "Ezekiel Udiomuno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86690432?v=4",
+      "profile": "https://github.com/Ezzywealth",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "research",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "tpham20908",
+      "name": "Tung Pham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19245825?v=4",
+      "profile": "https://github.com/tpham20908",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "example",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Msrimpson",
+      "name": "Msrimpson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49883582?v=4",
+      "profile": "https://github.com/Msrimpson",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "izazw",
+      "name": "Iza Zamorska-Wasielak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62272731?v=4",
+      "profile": "https://izacodes.me/",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "mentoring",
+        "data"
+      ]
+    },
+    {
+      "login": "Kamari93",
+      "name": "Kamari Moore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56329469?v=4",
+      "profile": "https://github.com/Kamari93",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "Sadeedpv",
+      "name": "Sadeed pv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96517901?v=4",
+      "profile": "https://sadeedpv.github.io/",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "projectManagement",
+        "review",
+        "security",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "pal-sandeep",
+      "name": "Sandeep Pal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26271825?v=4",
+      "profile": "https://github.com/pal-sandeep",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "example",
+        "research",
+        "question",
+        "translation"
+      ]
+    },
+    {
+      "login": "adiazt01",
+      "name": "Armando Diaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119072544?v=4",
+      "profile": "https://github.com/adiazt01",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vaibhav3022",
+      "name": "Vaibhav Dhotre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99244402?v=4",
+      "profile": "https://github.com/vaibhav3022",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "blog",
+        "doc",
+        "content",
+        "example",
+        "ideas",
+        "review",
+        "test",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,

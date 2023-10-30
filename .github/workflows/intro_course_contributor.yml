@@ -1,9 +1,16 @@
 name: Intro Course Contributor Action
 
 on:
-  pull_request:
-    types: [opened]
+ on:
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - synchronize
 
+permissions:
+  pull-requests: write
+  
 jobs:
   intro_course_contributor:
     runs-on: ubuntu-latest
