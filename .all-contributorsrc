@@ -679,11 +679,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
       "profile": "https://linkfree.eddiehub.io/CBID2",
       "contributions": [
-      "login": "diegorramos84",
-      "name": "Diego Ramos",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
-      "profile": "https://github.com/diegorramos84",
-      "contributions": [
         "a11y",
         "blog",
         "bug",
@@ -691,7 +686,7 @@
         "content",
         "doc",
         "review",
-        "tutorial"
+        "tutorial",
         "example",
         "ideas",
         "infra",
@@ -706,6 +701,524 @@
         "tutorial",
         "userTesting"
 >>>>>>> c422a0ad4ef50172a8d58122da44df8a3f762b94
+      ]
+    },
+    {
+      "login": "diegorramos84",
+      "name": "Diego Ramos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17050237?v=4",
+      "profile": "https://github.com/diegorramos84",
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "review",
+        "tutorial",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "review",
+        "security",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "thititongumpun",
+      "name": "thititongumpun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55313215?v=4",
+      "profile": "https://github.com/thititongumpun",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "design",
+        "infra"
+      ]
+    },
+    {
+      "login": "jayasuryard31",
+      "name": "Jayasurya R D",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92865629?v=4",
+      "profile": "https://github.com/jayasuryard31",
+      "contributions": [
+        "code",
+        "data",
+        "ideas",
+        "design",
+        "review"
+      ]
+    },
+    {
+      "login": "Obasoro",
+      "name": "Obasoro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29310552?v=4",
+      "profile": "https://github.com/Obasoro",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "mentoring",
+        "research",
+        "review",
+        "security",
+        "test",
+        "tool",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "dxeon",
+      "name": "Dmitry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9787379",
+      "profile": "https://github.com/dxeon",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "WassCodeur",
+      "name": "Wachiou BOURAÏMA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100234404?v=4",
+      "profile": "https://wasscodeur.me/",
+      "contributions": [
+        "code",
+        "question",
+        "business",
+        "content",
+        "doc",
+        "ideas",
+        "promotion",
+        "test",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "david-001",
+      "name": "David Akim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9206557?v=4",
+      "profile": "https://david-001.github.io/website/",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    },
+    {
+      "login": "Satoshi-Sh",
+      "name": "Satoshi Sh.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73622805?v=4",
+      "profile": "https://github.com/Satoshi-Sh",
+      "contributions": [
+        "code",
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "geoffreylgv",
+      "name": "Geoffrey Logovi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52314615?v=4",
+      "profile": "https://github.com/geoffreylgv",
+      "contributions": [
+        "design",
+        "translation",
+        "doc",
+        "content",
+        "tutorial",
+        "review",
+        "code",
+        "blog",
+        "video",
+        "bug",
+        "example",
+        "promotion",
+        "projectManagement",
+        "ideas",
+        "plugin"
+      ]
+    },
+    {
+      "login": "goobric",
+      "name": "Mikal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23141638?v=4",
+      "profile": "https://github.com/goobric",
+      "contributions": [
+        "a11y",
+        "question",
+        "code",
+        "doc",
+        "ideas",
+        "mentoring",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ToobaJamal",
+      "name": "Tooba Jamal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52610124?v=4",
+      "profile": "https://www.freecodecamp.org/news/author/tooba/",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "talk",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ZeeshanMukhtar1",
+      "name": "Zeeshan Mukhtar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91063160?v=4",
+      "profile": "https://github.com/ZeeshanMukhtar1",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas",
+        "review",
+        "test",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "codewithjazzy",
+      "name": "Jasmine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105261487?v=4",
+      "profile": "https://github.com/codewithjazzy",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Ajiboso-Adeola",
+      "name": "Ajiboso Adeola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79532937?v=4",
+      "profile": "https://github.com/Ajiboso-Adeola",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "a11y"
+      ]
+    },
+    {
+      "login": "JesseRWeigel",
+      "name": "Jesse Weigel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11077930?v=4",
+      "profile": "https://github.com/JesseRWeigel",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "a11y",
+        "video",
+        "review"
+      ]
+    },
+    {
+      "login": "VirginieLemaire",
+      "name": "Virginie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82816247?v=4",
+      "profile": "https://github.com/VirginieLemaire",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "translation"
+      ]
+    },
+    {
+      "login": "vaibhavharsoda",
+      "name": "Vaibhav Patel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66860032?v=4",
+      "profile": "https://github.com/vaibhavharsoda",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "design",
+        "ideas",
+        "test"
+      ]
+    },
+    {
+      "login": "Lymah123",
+      "name": "Harlimat Odunola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109049037?v=4",
+      "profile": "https://github.com/Lymah123",
+      "contributions": [
+        "code",
+        "blog",
+        "doc",
+        "content",
+        "example",
+        "ideas",
+        "review",
+        "test",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Mi1king",
+      "name": "Mi1King",
+      "avatar_url": "https://github.com/Mi1king.png",
+      "profile": "https://github.com/Mi1king",
+      "contributions": [
+        "bug",
+        "blog",
+        "code",
+        "data",
+        "fundingFinding",
+        "security",
+        "tutorial",
+        "translation"
+      ]
+    },
+    {
+      "login": "C-o-m-o-n",
+      "name": "Collins O. Odhiambo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94454803?v=4",
+      "profile": "https://github.com/C-o-m-o-n",
+      "contributions": [
+        "a11y",
+        "code",
+        "doc",
+        "infra",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Teemamin",
+      "name": "Fatima Aminu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55752409?v=4",
+      "profile": "https://github.com/Teemamin",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "CodeLikeAGirl29",
+      "name": "Lindsey Howard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25946305?v=4",
+      "profile": "https://lindseyk.dev/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "research",
+        "tool",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Emmarie-Ahtunan",
+      "name": "Emily Marie Ahtúnan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86572370?v=4",
+      "profile": "https://github.com/Emmarie-Ahtunan",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content"
+      ]
+    },
+    {
+      "login": "Sunny-unik",
+      "name": "Sunny Gandhwani ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65410458?v=4",
+      "profile": "https://github.com/Sunny-unik",
+      "contributions": [
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "plugin",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "Alejandro-Saavedra",
+      "name": "Alejandro Saavedra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123430891?v=4",
+      "profile": "https://github.com/Alejandro-Saavedra",
+      "contributions": [
+        "research"
+      ]
+    },
+    {
+      "login": "unpervertedkid",
+      "name": "Brian Silah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71752651?v=4",
+      "profile": "https://github.com/unpervertedkid",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "twister904",
+      "name": "Mazhar saifi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84468625?v=4",
+      "profile": "https://github.com/twister904",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jdwilkin4",
+      "name": "Jessica Wilkins ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67210629?v=4",
+      "profile": "https://jessicawilkins.dev/",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "review",
+        "test",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "safacade009",
+      "name": "safacade009",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122990983?v=4",
+      "profile": "https://github.com/safacade009",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
+      ]
+    },
+    {
+      "login": "Ezzywealth",
+      "name": "Ezekiel Udiomuno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86690432?v=4",
+      "profile": "https://github.com/Ezzywealth",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "research",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "tpham20908",
+      "name": "Tung Pham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19245825?v=4",
+      "profile": "https://github.com/tpham20908",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "example",
+        "maintenance"
       ]
     }
   ],
