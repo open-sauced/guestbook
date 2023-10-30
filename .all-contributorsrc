@@ -1107,7 +1107,29 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/84468625?v=4",
       "profile": "https://github.com/twister904",
       "contributions": [
-        "web development"
+        "code"
+      ]
+    },
+    {
+      "login": "jdwilkin4",
+      "name": "Jessica Wilkins ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67210629?v=4",
+      "profile": "https://jessicawilkins.dev/",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "review",
+        "test",
+        "userTesting"
       ]
     },{
       "login": "adiazt01",
