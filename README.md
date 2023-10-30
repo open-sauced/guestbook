@@ -190,7 +190,7 @@ If you are interested in contributing to improving of this course, please create
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-79-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-80-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -304,6 +304,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Msrimpson"><img src="https://avatars.githubusercontent.com/u/49883582?v=4?s=100" width="100px;" alt="Msrimpson"/><br /><sub><b>Msrimpson</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Msrimpson" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://izacodes.me/"><img src="https://avatars.githubusercontent.com/u/62272731?v=4?s=100" width="100px;" alt="Iza Zamorska-Wasielak"/><br /><sub><b>Iza Zamorska-Wasielak</b></sub></a><br /><a href="#a11y-izazw" title="Accessibility">️️️️♿️</a> <a href="#question-izazw" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aizazw" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=izazw" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=izazw" title="Documentation">📖</a> <a href="#ideas-izazw" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-izazw" title="Mentoring">🧑‍🏫</a> <a href="#data-izazw" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kamari93"><img src="https://avatars.githubusercontent.com/u/56329469?v=4?s=100" width="100px;" alt="Kamari Moore"/><br /><sub><b>Kamari Moore</b></sub></a><br /><a href="#question-Kamari93" title="Answering Questions">💬</a> <a href="#blog-Kamari93" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Kamari93" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Kamari93" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>
