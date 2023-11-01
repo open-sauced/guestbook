@@ -1330,7 +1330,27 @@
         "security",
         "userTesting"
       ]
-    }
+    },
+    {
+          "login": "allwynvarghese",
+          "name": "allwyn",
+          "avatar_url": "https://avatars.githubusercontent.com/u/39405710?v=4",
+          "profile": "https://github.com/allwynvarghese",
+          "contributions": [
+            "question",
+            "code",
+            "content",
+            "data",
+            "design",
+            "doc",
+            "example",
+            "ideas",
+            "infra",
+            "review",
+            "security",
+            "userTesting"
+          ]
+        }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
