@@ -1338,17 +1338,7 @@
           "profile": "https://github.com/allwynvarghese",
           "contributions": [
             "question",
-            "code",
-            "content",
-            "data",
-            "design",
-            "doc",
-            "example",
-            "ideas",
-            "infra",
-            "review",
-            "security",
-            "userTesting"
+            "code"
           ]
         }
   ],
