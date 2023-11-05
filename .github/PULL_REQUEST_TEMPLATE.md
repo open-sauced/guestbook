@@ -2,7 +2,7 @@
 
 <!--
 Please do not leave this blank
-This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
+This PR adds <github-username> as a contributor.
 -->
 
 ## What type of PR is this? (check all applicable)
