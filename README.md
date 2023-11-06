@@ -71,7 +71,9 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
      - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
      - **contribution**: Type of your contributions.
 
-       Refer to the type (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill this value.
+        Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill the values.
+
+       ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
 
        The result would be like this:
 
@@ -82,14 +84,14 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
          "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
          "profile": "URL link",
          "contributions": [
-         "question",
-         "blog",
-         "code"
+            "question",
+            "blog",
+            "code"
          ]
        }
        ```
 
-     _Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket_.
+        ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
 
 6. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
 
