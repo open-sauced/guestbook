@@ -1,6 +1,15 @@
-# THE OPENSAUCED GUESTBOOK
+<div align="center">
+  <br>
+  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
+  <h1>🍕 Guest Book 🍕</h1>
+  <strong>Welcome to OpenSauced's Guest Book Repository!</strong>
+</div>
 
-This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
+<br>
+
+# OpenSauced Guest Book
+
+This guest book is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
 
 ## Getting Started
 
@@ -11,28 +20,30 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 3. Run `npm install` to install the dependencies.
 4. Create a new branch.
 
-   The best practice for open-source contributors to work on changes is in a new branch to isolate them from the `main` branch.
+   The best practice for open source contributors to work on changes is in a new branch to isolate them from the `main` branch.
 
-   Run this command on your terminal to create a new branch. You can name the branch anything you want.
+   Run this command on your terminal to create a new branch:
 
    ```bash
    git checkout -b branch-name
    ```
 
-5. Add yourself to the guestbook.
+   Use a descriptive name related to your contribution. For example, `feat/add-alice`.
+
+5. Add yourself to the guest book.
 
    There are two ways you can complete this activity:
 
    - Using the CLI tool.
-   - Manually editing the `.all-contributorsrc` file
+   - Manually editing the `.all-contributorsrc` file.
 
-   Although adding yourself to the guestbook with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
+   Although adding yourself to the guest book with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
 
    **CLI Tool**
 
    - Run `npm run contributors:add` in your terminal.
 
-     Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
+     Follow the instructions to add yourself to the guest book. After you finish and click enter, you must click enter again to confirm your choices.
 
    **Manual Addition**
 
@@ -51,18 +62,20 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
      }
      ```
 
-   - Add yourself manually to the guestbook by updating this information:
+   - Add yourself manually to the guest book by updating this information:
 
      - **login**: Your GitHub's username.
      - **name**: Your name.
      - **avatar_url**: URL to your avatar on GitHub.
 
-       In your browser, copy and paste the link of your GitHub profile, append `.png` at the end — for example, `https://github.com/USER_NAME.png` — and click enter. Copy and paste the link here.
+       In your browser, copy and paste the link of your GitHub profile, append `.png` at the end (for example, `https://github.com/USER_NAME.png`), and click enter. Copy and paste the link here.
 
      - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
      - **contribution**: Type of your contributions.
 
-       Refer to the type (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill this value.
+       Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill the values.
+
+       ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
 
        The result would be like this:
 
@@ -73,25 +86,26 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
          "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
          "profile": "URL link",
          "contributions": [
-         "question",
-         "blog",
-         "code"
+            "question",
+            "blog",
+            "code"
          ]
        }
        ```
 
-     _Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket_.
+       ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
 
-6. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
+6. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
 
-7. If you used the CLI tool method in step 5, to add yourself to the guestbook, **skip this step;** otherwise:
+7. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
+
    Add and commit your changes by running this command:
 
    ```bash
    git commit -am "Your message"
    ```
 
-   Change `"Your message"` to your own message. For example, `"Add Alice to the guestbook"`.
+   Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
 
 8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
@@ -107,13 +121,13 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
    git push -u origin branch-name
    ```
 
-10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: add {GitHub username} as a contributor`.
+10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: Add <@github-username> as a contributor`.
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
 
 Merge conflicts are something you'll commonly encounter when contributing to an open source project. They usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
 
-Since the main purpose of the guestbook is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
+Since the main purpose of the guest book is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
 
 In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts for this project.
 
@@ -182,10 +196,11 @@ Hungry for more contributions? Check out our [pizza verse](https://github.com/op
 
 ## 🤝 Contributing
 
-All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the Readme directions for contributing.<br>
-If you are interested in contributing to improving of this course, please create an issue and refer to [this guide](CONTRIBUTING.md)
+All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the [README](README.md) directions for contributing.
 
-- **Translations:** If you want to translate the README and other necessary parts of this repo, check out our [community guidelines](https://github.com/open-sauced/guestbook/blob/main/i18n-guidelines.md).
+- **Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to [the contributing guide](CONTRIBUTING.md).
+
+- **Translations**: If you want to translate the [README](README.md) and other necessary parts of this repo, check out our [translations guidelines](i18n-guidelines.md).
 
 ## Contributors
 
