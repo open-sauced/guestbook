@@ -1,6 +1,15 @@
-# THE OPENSAUCED GUESTBOOK
+<div align="center">
+  <br>
+  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
+  <h1>🍕 Guest Book 🍕</h1>
+  <strong>Welcome to OpenSauced's Guest Book Repository!</strong>
+</div>
 
-This guestbook is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
+<br>
+
+# OpenSauced Guest Book
+
+This guest book is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
 
 ## Getting Started
 
@@ -19,20 +28,20 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
    git checkout -b branch-name
    ```
 
-5. Add yourself to the guestbook.
+5. Add yourself to the guest book.
 
    There are two ways you can complete this activity:
 
    - Using the CLI tool.
    - Manually editing the `.all-contributorsrc` file
 
-   Although adding yourself to the guestbook with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
+   Although adding yourself to the guest book with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
 
    **CLI Tool**
 
    - Run `npm run contributors:add` in your terminal.
 
-     Follow the instructions to add yourself to the guestbook. After you finish and click enter, you must click enter again to confirm your choices.
+     Follow the instructions to add yourself to the guest book. After you finish and click enter, you must click enter again to confirm your choices.
 
    **Manual Addition**
 
@@ -51,7 +60,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
      }
      ```
 
-   - Add yourself manually to the guestbook by updating this information:
+   - Add yourself manually to the guest book by updating this information:
 
      - **login**: Your GitHub's username.
      - **name**: Your name.
@@ -82,16 +91,16 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
      _Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket_.
 
-6. Run `npm run contributors:generate` in your terminal to generate the guestbook on the README.
+6. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
 
-7. If you used the CLI tool method in step 5, to add yourself to the guestbook, **skip this step;** otherwise:
+7. If you used the CLI tool method in step 5, to add yourself to the guest book, **skip this step;** otherwise:
    Add and commit your changes by running this command:
 
    ```bash
    git commit -am "Your message"
    ```
 
-   Change `"Your message"` to your own message. For example, `"Add Alice to the guestbook"`.
+   Change `"Your message"` to your own message. For example, `"Add Alice to the guest book"`.
 
 8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
@@ -113,7 +122,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 Merge conflicts are something you'll commonly encounter when contributing to an open source project. They usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
 
-Since the main purpose of the guestbook is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
+Since the main purpose of the guest book is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
 
 In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts for this project.
 
@@ -190,7 +199,9 @@ If you are interested in contributing to improving of this course, please create
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-87-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
