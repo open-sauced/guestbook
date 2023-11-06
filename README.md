@@ -28,7 +28,7 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
    git checkout -b branch-name
    ```
 
-   You can name the branch anything you want. For example, `feat/add-alice`.
+   Use a descriptive name related to your contribution. For example, `feat/add-alice`.
 
 5. Add yourself to the guest book.
 
