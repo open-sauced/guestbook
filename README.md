@@ -205,7 +205,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-87-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -329,6 +329,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Solenessa"><img src="https://avatars.githubusercontent.com/u/119257421?v=4?s=100" width="100px;" alt="solenessa"/><br /><sub><b>solenessa</b></sub></a><br /><a href="#question-Solenessa" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Solenessa" title="Code">💻</a> <a href="#content-Solenessa" title="Content">🖋</a> <a href="#data-Solenessa" title="Data">🔣</a> <a href="#design-Solenessa" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Solenessa" title="Documentation">📖</a> <a href="#example-Solenessa" title="Examples">💡</a> <a href="#ideas-Solenessa" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Solenessa" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3ASolenessa" title="Reviewed Pull Requests">👀</a> <a href="#security-Solenessa" title="Security">🛡️</a> <a href="#userTesting-Solenessa" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/allwynvarghese"><img src="https://avatars.githubusercontent.com/u/39405710?v=4?s=100" width="100px;" alt="allwynvarghese"/><br /><sub><b>allwynvarghese</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=allwynvarghese" title="Code">💻</a> <a href="#userTesting-allwynvarghese" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ken-Musau"><img src="https://avatars.githubusercontent.com/u/126899757?v=4?s=100" width="100px;" alt="Kennedy Musau"/><br /><sub><b>Kennedy Musau</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ken-Musau" title="Code">💻</a> <a href="#ideas-Ken-Musau" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TejsinghDhaosriya"><img src="https://avatars.githubusercontent.com/u/48129713?v=4?s=100" width="100px;" alt="TejsinghDhaosriya"/><br /><sub><b>TejsinghDhaosriya</b></sub></a><br /><a href="#question-TejsinghDhaosriya" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=TejsinghDhaosriya" title="Code">💻</a> <a href="#content-TejsinghDhaosriya" title="Content">🖋</a> <a href="#promotion-TejsinghDhaosriya" title="Promotion">📣</a> <a href="#research-TejsinghDhaosriya" title="Research">🔬</a> <a href="#userTesting-TejsinghDhaosriya" title="User Testing">📓</a></td>
     </tr>
   </tbody>
   <tfoot>
