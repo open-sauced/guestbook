@@ -1351,6 +1351,35 @@
         "ideas"
       ]
     },
+     {
+      "login": "TejsinghDhaosriya",
+      "name": "TejsinghDhaosriya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48129713?v=4",
+      "profile": "https://github.com/TejsinghDhaosriya",
+      "contributions": [
+        "question",
+        "code",
+        "content",
+        "promotion",
+        "research",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "victor-villca",
+      "name": "Victor Villca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101595370?v=4",
+      "profile": "https://github.com/victor-villca",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "ideas",
+        "doc",
+        "talk",
+        "translation"
+      ]
+    },
     {
       "login": "peachjelly13",
       "name": "peachjelly13",
@@ -1361,7 +1390,7 @@
         "content",
         "ideas"
       ]
-    }
+   }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
