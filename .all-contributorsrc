@@ -1364,7 +1364,22 @@
         "research",
         "userTesting"
       ]
-    }
+    },
+    {
+      "login": "victor-villca",
+      "name": "Victor Villca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101595370?v=4",
+      "profile": "https://github.com/victor-villca",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "ideas",
+        "doc",
+        "talk",
+        "translation"
+      ]
+   }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
