@@ -99,10 +99,15 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 7. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
 
-   Add and commit your changes by running this command:
+   Add and commit your changes by running these commands:
 
    ```bash
-   git commit -am "Your message"
+   git add .
+   ```
+    Use `"git add . ` to stage your changes before saving them in the next commit.
+
+   ```bash
+   git commit -m "Your message"
    ```
 
    Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
@@ -205,7 +210,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-89-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -330,6 +335,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/allwynvarghese"><img src="https://avatars.githubusercontent.com/u/39405710?v=4?s=100" width="100px;" alt="allwynvarghese"/><br /><sub><b>allwynvarghese</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=allwynvarghese" title="Code">💻</a> <a href="#userTesting-allwynvarghese" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ken-Musau"><img src="https://avatars.githubusercontent.com/u/126899757?v=4?s=100" width="100px;" alt="Kennedy Musau"/><br /><sub><b>Kennedy Musau</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ken-Musau" title="Code">💻</a> <a href="#ideas-Ken-Musau" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TejsinghDhaosriya"><img src="https://avatars.githubusercontent.com/u/48129713?v=4?s=100" width="100px;" alt="TejsinghDhaosriya"/><br /><sub><b>TejsinghDhaosriya</b></sub></a><br /><a href="#question-TejsinghDhaosriya" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=TejsinghDhaosriya" title="Code">💻</a> <a href="#content-TejsinghDhaosriya" title="Content">🖋</a> <a href="#promotion-TejsinghDhaosriya" title="Promotion">📣</a> <a href="#research-TejsinghDhaosriya" title="Research">🔬</a> <a href="#userTesting-TejsinghDhaosriya" title="User Testing">📓</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/victor-villca"><img src="https://avatars.githubusercontent.com/u/101595370?v=4?s=100" width="100px;" alt="Victor Villca"/><br /><sub><b>Victor Villca</b></sub></a><br /><a href="#question-victor-villca" title="Answering Questions">💬</a> <a href="#blog-victor-villca" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=victor-villca" title="Code">💻</a> <a href="#ideas-victor-villca" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=victor-villca" title="Documentation">📖</a> <a href="#talk-victor-villca" title="Talks">📢</a> <a href="#translation-victor-villca" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>
