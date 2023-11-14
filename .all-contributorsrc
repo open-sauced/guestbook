@@ -1351,7 +1351,7 @@
         "ideas"
       ]
     },
-     {
+    {
       "login": "TejsinghDhaosriya",
       "name": "TejsinghDhaosriya",
       "avatar_url": "https://avatars.githubusercontent.com/u/48129713?v=4",
@@ -1390,18 +1390,59 @@
         "content",
         "ideas"
       ]
-   },
-   {
-    "login": "project-kieran",
-    "name": "Kieran McDonough",
-    "avatar_url": "https://avatars.githubusercontent.com/u/78744198?v=4",
-    "profile": "https://github.com/project-kieran",
-    "contributions": [
-      "content",
-      "doc",
-      "example"
-    ]
-   }
+    },
+    {
+      "login": "project-kieran",
+      "name": "Kieran McDonough",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78744198?v=4",
+      "profile": "https://github.com/project-kieran",
+      "contributions": [
+        "content",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "BrianMunsey",
+      "name": "BrianMunsey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97619640?v=4",
+      "profile": "https://www.linkedin.com/in/brian-munsey/",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
