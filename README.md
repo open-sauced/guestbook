@@ -106,7 +106,8 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
    ```
 
    Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
-Unlike the `git add .` and  `git commit -m "Your message"` approach, the `git commit -am` command skips the staging process. This is because its use of `-a` automatically stage the changes you made via Git.
+
+   > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.  
 
 1. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
