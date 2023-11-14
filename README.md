@@ -205,7 +205,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-90-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -332,6 +332,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TejsinghDhaosriya"><img src="https://avatars.githubusercontent.com/u/48129713?v=4?s=100" width="100px;" alt="TejsinghDhaosriya"/><br /><sub><b>TejsinghDhaosriya</b></sub></a><br /><a href="#question-TejsinghDhaosriya" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=TejsinghDhaosriya" title="Code">💻</a> <a href="#content-TejsinghDhaosriya" title="Content">🖋</a> <a href="#promotion-TejsinghDhaosriya" title="Promotion">📣</a> <a href="#research-TejsinghDhaosriya" title="Research">🔬</a> <a href="#userTesting-TejsinghDhaosriya" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/victor-villca"><img src="https://avatars.githubusercontent.com/u/101595370?v=4?s=100" width="100px;" alt="Victor Villca"/><br /><sub><b>Victor Villca</b></sub></a><br /><a href="#question-victor-villca" title="Answering Questions">💬</a> <a href="#blog-victor-villca" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=victor-villca" title="Code">💻</a> <a href="#ideas-victor-villca" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=victor-villca" title="Documentation">📖</a> <a href="#talk-victor-villca" title="Talks">📢</a> <a href="#translation-victor-villca" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/peachjelly13"><img src="https://avatars.githubusercontent.com/u/144526589?v=4?s=100" width="100px;" alt="peachjelly13"/><br /><sub><b>peachjelly13</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=peachjelly13" title="Code">💻</a> <a href="#content-peachjelly13" title="Content">🖋</a> <a href="#ideas-peachjelly13" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/project-kieran"><img src="https://avatars.githubusercontent.com/u/78744198?v=4?s=100" width="100px;" alt="Kieran McDonough"/><br /><sub><b>Kieran McDonough</b></sub></a><br /><a href="#content-project-kieran" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=project-kieran" title="Documentation">📖</a> <a href="#example-project-kieran" title="Examples">💡</a></td>
     </tr>
   </tbody>
   <tfoot>
