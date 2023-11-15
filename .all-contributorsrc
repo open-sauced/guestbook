@@ -1351,7 +1351,7 @@
         "ideas"
       ]
     },
-     {
+    {
       "login": "TejsinghDhaosriya",
       "name": "TejsinghDhaosriya",
       "avatar_url": "https://avatars.githubusercontent.com/u/48129713?v=4",
@@ -1390,7 +1390,30 @@
         "content",
         "ideas"
       ]
-   }
+    },
+    {
+      "login": "project-kieran",
+      "name": "Kieran McDonough",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78744198?v=4",
+      "profile": "https://github.com/project-kieran",
+      "contributions": [
+        "content",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "BrianMunsey",
+      "name": "BrianMunsey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97619640?v=4",
+      "profile": "https://www.linkedin.com/in/brian-munsey/",
+      "contributions": [
+        "code",
+        "ideas",
+        "design",
+        "bug"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
