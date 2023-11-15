@@ -99,17 +99,17 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 7. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
 
-   Add and commit your changes by running the following  command:
+   Add and commit your changes by running the following command:
 
    ```bash
    git commit -am "Your message"
    ```
 
-    Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
-    <br/>
-   > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.  
+   Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
 
-1. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
+   > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
+
+8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
    If you add yourself using the CLI tool, it automatically adds and commits your changes. So you will see this automated commit message:
 
@@ -117,13 +117,13 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
    docs: add @your_username as a contributor
    ```
 
-2. Push the commit to your forked repository with this command:
+9. Push the commit to your forked repository with this command:
 
    ```bash
    git push -u origin branch-name
    ```
 
-3.  Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: Add <@github-username> as a contributor`.
+10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: Add <@github-username> as a contributor`.
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
 
