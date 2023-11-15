@@ -1,4 +1,5 @@
 # Contributing to OpenSauced Intro
+
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
