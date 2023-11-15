@@ -1400,6 +1400,17 @@
         "question",
         "code"
       ]
+    },
+    {
+      "login": "project-kieran",
+      "name": "Kieran McDonough",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78744198?v=4",
+      "profile": "https://github.com/project-kieran",
+      "contributions": [
+        "content",
+        "doc",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
