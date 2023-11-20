@@ -1426,6 +1426,22 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "Mugabe000",
+      "name": "Mugabe Nshuti Ignace",
+      "avatar_url": "https://github.com/mugabe000.png",
+      "profile": "https://github.com/Mugabe000",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc",
+        "security",
+        "tutorial",
+        "bug",
+        "a11y",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
