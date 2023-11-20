@@ -207,7 +207,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-93-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-94-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -339,6 +339,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/brian-munsey/"><img src="https://avatars.githubusercontent.com/u/97619640?v=4?s=100" width="100px;" alt="BrianMunsey"/><br /><sub><b>BrianMunsey</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=BrianMunsey" title="Code">💻</a> <a href="#ideas-BrianMunsey" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-BrianMunsey" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ABrianMunsey" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/karsterr"><img src="https://avatars.githubusercontent.com/u/106669867?v=4?s=100" width="100px;" alt="Efe Can Kara"/><br /><sub><b>Efe Can Kara</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=karsterr" title="Code">💻</a> <a href="#example-karsterr" title="Examples">💡</a> <a href="#ideas-karsterr" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-karsterr" title="Translation">🌍</a> <a href="#tutorial-karsterr" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mugabe000"><img src="https://github.com/mugabe000.png?s=100" width="100px;" alt="Mugabe Nshuti Ignace"/><br /><sub><b>Mugabe Nshuti Ignace</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Mugabe000" title="Code">💻</a> <a href="#ideas-Mugabe000" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Mugabe000" title="Documentation">📖</a> <a href="#security-Mugabe000" title="Security">🛡️</a> <a href="#tutorial-Mugabe000" title="Tutorials">✅</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMugabe000" title="Bug reports">🐛</a> <a href="#a11y-Mugabe000" title="Accessibility">️️️️♿️</a> <a href="#example-Mugabe000" title="Examples">💡</a></td>
     </tr>
   </tbody>
   <tfoot>
