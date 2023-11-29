@@ -99,13 +99,15 @@ First, you'll want to have Node.js installed. You can do this by going to [nodej
 
 7. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
 
-   Add and commit your changes by running this command:
+   Add and commit your changes by running the following command:
 
    ```bash
    git commit -am "Your message"
    ```
 
    Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
+
+   > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
 
 8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
 
@@ -205,7 +207,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-94-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -333,6 +335,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/victor-villca"><img src="https://avatars.githubusercontent.com/u/101595370?v=4?s=100" width="100px;" alt="Victor Villca"/><br /><sub><b>Victor Villca</b></sub></a><br /><a href="#question-victor-villca" title="Answering Questions">💬</a> <a href="#blog-victor-villca" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=victor-villca" title="Code">💻</a> <a href="#ideas-victor-villca" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=victor-villca" title="Documentation">📖</a> <a href="#talk-victor-villca" title="Talks">📢</a> <a href="#translation-victor-villca" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/peachjelly13"><img src="https://avatars.githubusercontent.com/u/144526589?v=4?s=100" width="100px;" alt="peachjelly13"/><br /><sub><b>peachjelly13</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=peachjelly13" title="Code">💻</a> <a href="#content-peachjelly13" title="Content">🖋</a> <a href="#ideas-peachjelly13" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/project-kieran"><img src="https://avatars.githubusercontent.com/u/78744198?v=4?s=100" width="100px;" alt="Kieran McDonough"/><br /><sub><b>Kieran McDonough</b></sub></a><br /><a href="#content-project-kieran" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=project-kieran" title="Documentation">📖</a> <a href="#example-project-kieran" title="Examples">💡</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/brian-munsey/"><img src="https://avatars.githubusercontent.com/u/97619640?v=4?s=100" width="100px;" alt="BrianMunsey"/><br /><sub><b>BrianMunsey</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=BrianMunsey" title="Code">💻</a> <a href="#ideas-BrianMunsey" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-BrianMunsey" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ABrianMunsey" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/karsterr"><img src="https://avatars.githubusercontent.com/u/106669867?v=4?s=100" width="100px;" alt="Efe Can Kara"/><br /><sub><b>Efe Can Kara</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=karsterr" title="Code">💻</a> <a href="#example-karsterr" title="Examples">💡</a> <a href="#ideas-karsterr" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-karsterr" title="Translation">🌍</a> <a href="#tutorial-karsterr" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mugabe000"><img src="https://github.com/mugabe000.png?s=100" width="100px;" alt="Mugabe Nshuti Ignace"/><br /><sub><b>Mugabe Nshuti Ignace</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Mugabe000" title="Code">💻</a> <a href="#ideas-Mugabe000" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Mugabe000" title="Documentation">📖</a> <a href="#security-Mugabe000" title="Security">🛡️</a> <a href="#tutorial-Mugabe000" title="Tutorials">✅</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMugabe000" title="Bug reports">🐛</a> <a href="#a11y-Mugabe000" title="Accessibility">️️️️♿️</a> <a href="#example-Mugabe000" title="Examples">💡</a></td>
     </tr>
   </tbody>
   <tfoot>

@@ -1411,6 +1411,47 @@
         "doc",
         "example"
       ]
+    },
+    {
+      "login": "BrianMunsey",
+      "name": "BrianMunsey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97619640?v=4",
+      "profile": "https://www.linkedin.com/in/brian-munsey/",
+      "contributions": [
+        "code",
+        "ideas",
+        "design",
+        "bug"
+      ]
+    },
+    {
+      "login": "karsterr",
+      "name": "Efe Can Kara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106669867?v=4",
+      "profile": "https://github.com/karsterr",
+      "contributions": [
+        "code",
+        "example",
+        "ideas",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Mugabe000",
+      "name": "Mugabe Nshuti Ignace",
+      "avatar_url": "https://github.com/mugabe000.png",
+      "profile": "https://github.com/Mugabe000",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc",
+        "security",
+        "tutorial",
+        "bug",
+        "a11y",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
