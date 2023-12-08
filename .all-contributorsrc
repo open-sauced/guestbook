@@ -1442,6 +1442,16 @@
         "a11y",
         "example"
       ]
+    },
+    {
+      "login": "tech-kishore",
+      "name": "tech-kishore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124598875?v=4",
+      "profile": "https://github.com/tech-kishore",
+      "contributions": [
+        "a11y",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
