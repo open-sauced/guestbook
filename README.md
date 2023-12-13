@@ -207,7 +207,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-97-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-98-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -343,6 +343,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tech-kishore"><img src="https://avatars.githubusercontent.com/u/124598875?v=4?s=100" width="100px;" alt="tech-kishore"/><br /><sub><b>tech-kishore</b></sub></a><br /><a href="#a11y-tech-kishore" title="Accessibility">️️️️♿️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=tech-kishore" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hyosung11"><img src="https://avatars.githubusercontent.com/u/50424209?v=4?s=100" width="100px;" alt="HyoSung &quot;H&quot; Bidol-Lee"/><br /><sub><b>HyoSung &quot;H&quot; Bidol-Lee</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hyosung11" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/snehalk19"><img src="https://avatars.githubusercontent.com/u/39563593?v=4?s=100" width="100px;" alt="Snehal Khot"/><br /><sub><b>Snehal Khot</b></sub></a><br /><a href="#question-snehalk19" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=snehalk19" title="Code">💻</a> <a href="#data-snehalk19" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=snehalk19" title="Documentation">📖</a> <a href="#example-snehalk19" title="Examples">💡</a> <a href="#maintenance-snehalk19" title="Maintenance">🚧</a> <a href="#plugin-snehalk19" title="Plugin/utility libraries">🔌</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/edwinhung"><img src="https://avatars.githubusercontent.com/u/32249535?v=4?s=100" width="100px;" alt="Edwin Hung"/><br /><sub><b>Edwin Hung</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=edwinhung" title="Code">💻</a> <a href="#data-edwinhung" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=edwinhung" title="Documentation">📖</a> <a href="#ideas-edwinhung" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-edwinhung" title="Project Management">📆</a> <a href="#research-edwinhung" title="Research">🔬</a> <a href="#translation-edwinhung" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>
