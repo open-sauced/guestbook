@@ -1478,6 +1478,64 @@
       ]
     },
     {
+      "login": "JaisonBinns",
+      "name": "JayBee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44371995?v=4",
+      "profile": "https://github.com/JaisonBinns",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
+      ]
+    }
+    ,
+    {
+      "login": "edwinhung",
+      "name": "Edwin Hung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32249535?v=4",
+      "profile": "https://github.com/edwinhung",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "projectManagement",
+        "research",
+        "translation"
+      ]
+    }
+    },
+    {
       "login": "metaltheory",
       "name": "Chase Corbitt",
       "avatar_url": "https://avatars.githubusercontent.com/u/8459756?v=4",
