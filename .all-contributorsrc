@@ -1528,6 +1528,46 @@
         "video"
       ]
     }
+    ,
+    {
+      "login": "edwinhung",
+      "name": "Edwin Hung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32249535?v=4",
+      "profile": "https://github.com/edwinhung",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "projectManagement",
+        "research",
+        "translation"
+      ]
+    },
+    {
+      "login": "metaltheory",
+      "name": "Chase Corbitt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8459756?v=4",
+      "profile": "https://github.com/metaltheory",
+      "contributions": [
+        "code",
+        "tutorial",
+        "example",
+        "ideas"
+      ]
+   },
+   {
+    "login": "ChiaBeaCode",
+    "name": "Ashley",
+    "avatar_url": "https://avatars.githubusercontent.com/u/109878562?v=4",
+    "profile": "https://github.com/ChiaBeaCode",
+    "contributions": [
+      "code",
+      "data",
+      "design",
+      "maintenance"
+    ]
+ }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
