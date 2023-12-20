@@ -36,6 +36,10 @@ This PR adds <github-username> as a contributor.
 - [ ] 📜 README.md
 - [ ] 🙅 no documentation needed
 
+## Screenshot
+
+<!-- Please provide a screenshot of your profile being generated on the README. This ensures that you run the `npm run contributors:generate` command, as mentioned in the previous question, and makes it easier for maintainers to review PRs. -->
+
 ## [optional] What GIF best describes this PR or how it makes you feel?
 
 <!-- note: PRs with deleted sections will be marked invalid -->
