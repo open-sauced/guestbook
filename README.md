@@ -15,38 +15,6 @@ This guest book is a place for people who have taken [OpenSauced](https://opensa
 
 For complete instructions on contributing to this project by adding yourself to our guest book, please head to the "Let's Get Practical" section in our Intro to Open Source course.
 
-## Keeping Branch Up to Date and Resolving Merge Conflicts
-
-Merge conflicts are something you'll commonly encounter when contributing to an open source project. They usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
-
-Since the main purpose of the guest book is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
-
-In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts for this project.
-
-### Keeping Branch Up to Date
-
-Before resolving conflicts, your branch has to be in sync with the latest changes in the `main` branch of the original (`upstream`) repository.
-
-First, you must update your forked (`origin`) repository:
-
-1. Go to your forked repository on GitHub.
-2. Click the "Sync fork" button.
-3. Click the green "Update branch" button.
-
-Then, pull the latest changes in the `main` branch in the `origin` repository to your local working branch by following these steps in your terminal:
-
-1. Go to your working branch.
-
-   ```bash
-   git checkout <your-branch-name>
-   ```
-
-2. Pull the latest changes with this command:
-
-   ```bash
-   git pull origin main
-   ```
-
 ### Resolving Merge Conflicts
 
 Follow these steps to resolve the merge conflicts:
