@@ -15,36 +15,9 @@ This guest book is a place for people who have taken [OpenSauced](https://opensa
 
 For complete instructions on contributing to this project by adding yourself to our guest book, please head to the "Let's Get Practical" section in our Intro to Open Source course.
 
-### Resolving Merge Conflicts
+## Resolving Merge Conflicts
 
-Follow these steps to resolve the merge conflicts:
-
-1. In the `.all-contributorsrc` file:
-
-   - Click the "Accept Both Change" option on the top of your workspace in VSCode.
-   - Move your profile details to the end of the contributors array and fix anything necessary.
-
-2. In the `README.md` file:
-
-   - Click the "Accept Incoming Change" option on the top of your workspace in VSCode for each conflict in this file.
-
-3. Run `npm run contributors:generate`.
-
-   You will now see that the all contributors badge has been incremented, and your profile is generated at the end of the contributors list in the `README.md` file.
-
-4. Add and commit your changes.
-
-   ```bash
-   git commit -am "Resolve merge conflicts"
-   ```
-
-5. Push your commits to your remote branch.
-
-   ```bash
-   git push
-   ```
-
-Congratulations on your first contribution! 🎉
+If you encounter merge conflicts while contributing to this repository, read our Intro to Open Source course's "Merge Conflicts in the Guest Book Repository" section.
 
 ## What's Next?
 
