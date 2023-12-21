@@ -119,7 +119,7 @@ Markdown provides a set of simple and intuitive syntax elements for formatting t
 **1. Headings:**
 Use `#`  to create headings. The number of symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
 
-```bash
+```md
 # Heading 1
 ## Heading 2
 ```
