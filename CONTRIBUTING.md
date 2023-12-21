@@ -110,7 +110,7 @@ Once you have created or edited the new section and verified that it meets our p
 
 ## Using Markdown for Documentation
 
-Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the Intro Course, it's important to use Markdown to structure and format your content effectively.
+Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the documentation in this repository, it's important to use Markdown to structure and format your content effectively.
 
 ### Markdown Basics
 
