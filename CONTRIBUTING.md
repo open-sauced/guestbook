@@ -1,6 +1,6 @@
-# Contributing to OpenSauced Intro
+# Contributing to OpenSauced Guestbook
 
-Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
+Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
 
