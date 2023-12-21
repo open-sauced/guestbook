@@ -86,29 +86,27 @@ Follow these steps to add a new section to our documentation:
 
 2. **Write Content**: Open the file(s) in a text or Markdown editor.
 
-Begin by adding a heading to your section. Use Markdown's `#` symbol to create a heading. For example:
+Begin by adding a heading to your section. Use Markdown's pound  `#` symbol to create a heading. For example:
 
 ```bash
-# Section 3: Your New Section Title
+### Subheading's title
 ```
 
 Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
 
-To include a link, highlight the text, then press <kbd>ctrl</kbd>(or <kbd>⌘</kbd> for Mac users) + <kbd>K</kbd> and enter the URL. For example:
+To include a link, highlight the text, then press <kbd>ctrl</kbd>( <kbd>⌘</kbd> for Mac users) + <kbd>K</kbd> and enter the URL. For example:
 
 ```bash
-click [here](Github.com)
+click [here](https://www.GitHub.com)
 ```
 
-> NOTE: If adding definitions to the `10-glossary.md` section ensure definitions are added in alphabetical order.
-
-1. **Testing Your Changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
+3. **Testing Your Changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
   
-2. **Submitting Your Contribution**:
+4. **Submitting Your Contribution**:
 Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a `pull request`.
 
-1. **Review and Feedback**: Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
-1. **Documentation Completion**: After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
+5. **Review and Feedback**: Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
+6. **Documentation Completion**: After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
 
 ## Using Markdown for Documentation
 
