@@ -88,7 +88,7 @@ Follow these steps to add a new section to our documentation:
 
 Begin by adding a heading to your section. Use Markdown's pound  `#` symbol to create a heading. For example:
 
-```bash
+```md
 ### Subheading's title
 ```
 
@@ -96,7 +96,7 @@ Below the heading, add the content for your section using Markdown syntax. You c
 
 To include a link, highlight the text, then press <kbd>ctrl</kbd>( <kbd>⌘</kbd> for Mac users) + <kbd>K</kbd> and enter the URL. For example:
 
-```bash
+```md
 click [here](https://www.GitHub.com)
 ```
 
