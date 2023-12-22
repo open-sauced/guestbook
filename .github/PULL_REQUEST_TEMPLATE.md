@@ -12,24 +12,24 @@ This PR adds <github-username> as a contributor.
 
 ## Contributors checklist (check all applicable)
 
-- Have you read the [Getting Started](https://github.com/open-sauced/guestbook#getting-started) section thoroughly?
+### I've read through the [Getting Started](https://github.com/open-sauced/guestbook#getting-started) section.
 
-  - [ ] ✅ Yes
-  - [ ] ❌ Not yet
+- [ ] ✅ Yes
+- [ ] ❌ Not yet
 
-- How did you add yourself as a contributor?
+### How did you add yourself as a contributor?
 
-  - [ ] 🤖 With CLI
-  - [ ] ⌨️ Manually
+- [ ] 🤖 With CLI
+- [ ] ⌨️ Manually
 
-    If you added yourself manually, did you follow the [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill in the value?
+#### If you added yourself manually, did you follow the [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill in the value?
 
-    - [ ] ✅ Yes
-    - [ ] ❌ No
+- [ ] ✅ Yes
+- [ ] ❌ No
 
-- Have you run `npm run contributors:generate` to generate your profile and the badge on the README?
-  - [ ] ✅ Yes
-  - [ ] ❌ No
+### Have you run `npm run contributors:generate` to generate your profile and the badge on the README?
+- [ ] ✅ Yes
+- [ ] ❌ No
 
 ## Added to documentation?
 
@@ -38,7 +38,7 @@ This PR adds <github-username> as a contributor.
 
 ## Screenshot
 
-<!-- Please provide a screenshot of your profile being generated on the README. This ensures that you run the `npm run contributors:generate` command, as mentioned in the previous question, and makes it easier for maintainers to review PRs. -->
+<!-- Please provide a screenshot of your profile being generated on the README. This ensures that you run the `npm run contributors:generate` command, as mentioned in the previous question, and makes it easier for maintainers to review PRs. All PRs without screenshots will be automatically rejected-->
 
 ## [optional] What GIF best describes this PR or how it makes you feel?
 
