@@ -114,7 +114,7 @@ Markdown is a lightweight and easy-to-use markup language that allows you to for
 
 ### Markdown Basics
 
-Markdown provides a set of simple and intuitive syntax elements for formatting text. Here are some common Markdown elements you can use:
+Here are some common Markdown elements you can use:
 
 **1. Headings:**
 Use `#`  to create headings. The number of symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
