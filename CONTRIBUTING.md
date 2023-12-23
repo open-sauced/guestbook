@@ -78,36 +78,6 @@ This will open your documentation in a new browser tab at a local address (typic
 
 Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
 
-### A Step-by-Step Guide to adding a new section
-
-Follow these steps to add a new section to our documentation:
-
-1. **Locate the documentation files**: You can find the README [here](/README.md).
-
-2. **Write Content**: Open the file(s) in a text or Markdown editor.
-
-Begin by adding a heading to your section. Use Markdown's pound  `#` symbol to create a heading. For example:
-
-```md
-### Subheading's title
-```
-
-Below the heading, add the content for your section using Markdown syntax. You can include text, images, links, lists, and other elements to present your information effectively.
-
-To include a link, highlight the text, then press <kbd>ctrl</kbd>( <kbd>⌘</kbd> for Mac users) + <kbd>K</kbd> and enter the URL. For example:
-
-```md
-click [here](https://www.GitHub.com)
-```
-
-3. **Testing Your Changes**: Before finalizing your new section, it's advisable to test your changes locally. You can build or render the documentation to ensure your new section appears as expected within the documentation structure.
-  
-4. **Submitting Your Contribution**:
-Once you have created or edited the new section and verified that it meets our project's requirements, you can submit your contribution. This typically involves creating a `pull request`.
-
-5. **Review and Feedback**: Be prepared to receive feedback from project maintainers or collaborators. Review and address any comments or suggestions to refine your contribution.
-6. **Documentation Completion**: After your contribution is reviewed and accepted, your new section will become part of our project's documentation, enhancing its content for users and contributors.
-
 ## Using Markdown for Documentation
 
 Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the documentation in this repository, it's important to use Markdown to structure and format your content effectively.
