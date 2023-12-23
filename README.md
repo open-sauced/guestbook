@@ -13,11 +13,11 @@ This guest book is a place for people who have taken [OpenSauced](https://opensa
 
 ## Getting Started
 
-For complete instructions on contributing to this project by adding yourself to our guest book, please head to the "Let's Get Practical" section in our Intro to Open Source course.
+For complete instructions on how to add yourself to our guest book, please head to the "[Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical)" section in our Intro to Open Source course.
 
 ## Resolving Merge Conflicts
 
-If you encounter merge conflicts while contributing to this repository, read our Intro to Open Source course's "Merge Conflicts in the Guest Book Repository" section.
+If you encounter merge conflicts while contributing to this repository, read our Intro to Open Source course's "[Merge Conflicts in the Guest Book Repository](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=merge-conflicts-in-the-guest-book-repository)" section.
 
 ## What's Next?
 
