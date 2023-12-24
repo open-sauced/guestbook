@@ -12,7 +12,7 @@ This PR adds <github-username> as a contributor.
 
 ## Contributors checklist (check all applicable)
 
-### I've read through the [Getting Started](https://github.com/open-sauced/guestbook#getting-started) section.
+### I've read through the [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) section.
 
 - [ ] ✅ Yes
 - [ ] ❌ Not yet
