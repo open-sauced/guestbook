@@ -13,204 +13,33 @@ This guest book is a place for people who have taken [OpenSauced](https://opensa
 
 ## Getting Started
 
-First, you'll want to have Node.js installed. You can do this by going to [nodejs.org](https://nodejs.org) and downloading the latest version. Then, follow these steps:
+For complete instructions on how to add yourself to our guest book, please head to the "[Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical)" section in our Intro to Open Source course.
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository.
-2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) your forked repository to your computer.
-3. Run `npm install` to install the dependencies.
-4. Create a new branch.
+## Resolving Merge Conflicts
 
-   The best practice for open source contributors to work on changes is in a new branch to isolate them from the `main` branch.
-
-   Run this command on your terminal to create a new branch:
-
-   ```bash
-   git checkout -b branch-name
-   ```
-
-   Use a descriptive name related to your contribution. For example, `feat/add-alice`.
-
-5. Add yourself to the guest book.
-
-   There are two ways you can complete this activity:
-
-   - Using the CLI tool.
-   - Manually editing the `.all-contributorsrc` file.
-
-   Although adding yourself to the guest book with the CLI tool is simpler, we recommend you to manually editing the file to get more experience adding and committing your changes, creating pull requests and pull request reviews. Below, you'll find the directions for each method:
-
-   **CLI Tool**
-
-   - Run `npm run contributors:add` in your terminal.
-
-     Follow the instructions to add yourself to the guest book. After you finish and click enter, you must click enter again to confirm your choices.
-
-   **Manual Addition**
-
-   - Open the `.all-contributorsrc` file.
-   - Go to the last contributor in the contributors array.
-   - Add a comma after the last closing curly bracket ( `},` ).
-   - Copy and paste the template below:
-
-     ```javascript
-     {
-        "login": "",
-        "name": "",
-        "avatar_url": "",
-        "profile": "",
-        "contributions": []
-     }
-     ```
-
-   - Add yourself manually to the guest book by updating this information:
-
-     - **login**: Your GitHub's username.
-     - **name**: Your name.
-     - **avatar_url**: URL to your avatar on GitHub.
-
-       In your browser, copy and paste the link of your GitHub profile, append `.png` at the end (for example, `https://github.com/USER_NAME.png`), and click enter. Copy and paste the link here.
-
-     - **profile**: Link to your website (if you include it in your GitHub profile) **or** your GitHub profile.
-     - **contribution**: Type of your contributions.
-
-       Refer to the types (in the first column) in this [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill the values.
-
-       ⚠️ **You have to strictly use the types in the list to avoid breaking the whole project.**
-
-       The result would be like this:
-
-       ```javascript
-       {
-         "login": "github-username",
-         "name": "User Name",
-         "avatar_url": "https://avatars.githubusercontent.com/u/xxxxxxxx?v=x",
-         "profile": "URL link",
-         "contributions": [
-            "question",
-            "blog",
-            "code"
-         ]
-       }
-       ```
-
-       ⚠️ **Remember to add a comma after the quotes, except for the last one in the array and the last closing curly bracket.**
-
-6. Run `npm run contributors:generate` in your terminal to generate the guest book on the README.
-
-7. If you used the CLI tool method in step 5 to add yourself to the guest book, **skip this step**. Otherwise:
-
-   Add and commit your changes by running the following command:
-
-   ```bash
-   git commit -am "Your message"
-   ```
-
-   Change `"Your message"` to your own message. For example, `"Add Alice as a contributor"`.
-
-   > **Note**: Unlike the `git add .` and `git commit -m "Your message"` approach, in the `git commit -am` command, adding `-a` flag to `git commit` skips the staging process. The `-a` flag automatically stages all your changes in _committed_ files. Combining it with the `-m` flag allows you to write the commit message.
-
-8. Run `git log` to check if you have committed your changes. Press `Q` to close the log.
-
-   If you add yourself using the CLI tool, it automatically adds and commits your changes. So you will see this automated commit message:
-
-   ```bash
-   docs: add @your_username as a contributor
-   ```
-
-9. Push the commit to your forked repository with this command:
-
-   ```bash
-   git push -u origin branch-name
-   ```
-
-10. Go to your forked repository on GitHub and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) with the title `feat: Add <@github-username> as a contributor`.
-
-## Keeping Branch Up to Date and Resolving Merge Conflicts
-
-Merge conflicts are something you'll commonly encounter when contributing to an open source project. They usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
-
-Since the main purpose of the guest book is to add your name to `.all-contributorsrc` and the `README.md` files, there is a high chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
-
-In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts for this project.
-
-### Keeping Branch Up to Date
-
-Before resolving conflicts, your branch has to be in sync with the latest changes in the `main` branch of the original (`upstream`) repository.
-
-First, you must update your forked (`origin`) repository:
-
-1. Go to your forked repository on GitHub.
-2. Click the "Sync fork" button.
-3. Click the green "Update branch" button.
-
-Then, pull the latest changes in the `main` branch in the `origin` repository to your local working branch by following these steps in your terminal:
-
-1. Go to your working branch.
-
-   ```bash
-   git checkout <your-branch-name>
-   ```
-
-2. Pull the latest changes with this command:
-
-   ```bash
-   git pull origin main
-   ```
-
-### Resolving Merge Conflicts
-
-Follow these steps to resolve the merge conflicts:
-
-1. In the `.all-contributorsrc` file:
-
-   - Click the "Accept Both Change" option on the top of your workspace in VSCode.
-   - Move your profile details to the end of the contributors array and fix anything necessary.
-
-2. In the `README.md` file:
-
-   - Click the "Accept Incoming Change" option on the top of your workspace in VSCode for each conflict in this file.
-
-3. Run `npm run contributors:generate`.
-
-   You will now see that the all contributors badge has been incremented, and your profile is generated at the end of the contributors list in the `README.md` file.
-
-4. Add and commit your changes.
-
-   ```bash
-   git commit -am "Resolve merge conflicts"
-   ```
-
-5. Push your commits to your remote branch.
-
-   ```bash
-   git push
-   ```
-
-Congratulations on your first contribution! 🎉
+If you encounter merge conflicts while contributing to this repository, read our Intro to Open Source course's "[Merge Conflicts in the Guest Book Repository](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=merge-conflicts-in-the-guest-book-repository)" section.
 
 ## What's Next?
 
-You can add this contribution to your [OpenSauced](https://opensauced.pizza) resume and profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md).
+You can add this contribution to your [OpenSauced](https://opensauced.pizza) profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md).
 
 Hungry for more contributions? Check out our [pizza verse](https://github.com/open-sauced/pizza) repository and join us in celebrating pizza!🍕😄
-
----
 
 ## 🤝 Contributing
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the [README](README.md) directions for contributing.
 
-- **Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to [the contributing guide](CONTRIBUTING.md).
+- **Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guide](CONTRIBUTING.md).
 
-- **Translations**: If you want to translate the [README](README.md) and other necessary parts of this repo, check out our [translations guidelines](i18n-guidelines.md).
+- **Translations**: If you want to translate the [README](README.md) and other necessary parts of this repo, check out our [Translations Guidelines](i18n-guidelines.md).
 
-## Contributors
+## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-102-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Contributors ✨
+## ✨ Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
