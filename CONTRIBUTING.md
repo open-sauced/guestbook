@@ -19,15 +19,18 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
 
 ## Setup the Project Locally
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [guestbook repository](https://github.com/open-sauced/guestbook) you are working on  to your own GitHub account.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [guestbook repository](https://github.com/open-sauced/guestbook) you are working on to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
-```bash
-git clone https://github.com/<your-username>/guestbook.git
-```
+
+   ```bash
+   git clone https://github.com/<your-username>/guestbook.git
+   ```
+
 3. cd into the repository and open the project in your code editor.
-```bash
-cd guestbook
-```
+
+   ```bash
+   cd guestbook
+   ```
 
 4. Run the course locally. See [Running the Project Locally](#running-the-project-locally) for more information.
 
@@ -37,23 +40,23 @@ To contribute effectively to the OpenSauced project, it's essential to run the p
 
 #### Method 1: Using the Docsify CLI
 
-1. **Install Node.js**: You can download it from the official Node.js [website]( https://nodejs.org/.)
+1. **Install Node.js**: You can download it from the official Node.js [website](https://nodejs.org/.)
 2. **Install Docsify Globally**: Open your command-line interface (CLI) and run the following command to install Docsify globally.
 
-```bash
-npm install -g docsify-cli
-```
+   ```bash
+   npm install -g docsify-cli
+   ```
 
-Run the project locally:
+3. Run the project locally:
 
-```bash
-docsify serve
-```
+   ```bash
+   docsify serve
+   ```
 
-This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
+   This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
 
-5. Make and Test Changes: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-6. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing Ctrl + C in the CLI.
+4. Make and Test Changes: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
+5. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the CLI.
 
 #### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
 
@@ -61,9 +64,9 @@ Once you have cloned the repository to your local machine, you can use VS Code's
 
 1. **Install Visual Studio Code**: Download and install [Visual Studio Code](https://code.visualstudio.com/).
 2. **Open the Project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
-4. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view  (you can press `Ctrl + Shift + X`) and search for "Live Server. Install the "Live Server" extension by Ritwick Dey.
+3. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view (you can press `Ctrl + Shift + X`) and search for "Live Server. Install the "Live Server" extension by Ritwick Dey.
 
-5. **Launch the Live Server**: In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
+4. **Launch the Live Server**: In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
 
 This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
 
@@ -83,76 +86,83 @@ Markdown is a lightweight and easy-to-use markup language that allows you to for
 
 Here are some common Markdown elements you can use:
 
-**1. Headings:**
-Use `#`  to create headings. The number of symbols indicates the heading level (e.g.,`# Heading 1`, `## Heading 2` ).
+#### 1. Headings
 
-```md
+Use the hash (`#`) symbol to create headings (titles and subtitles). There are six levels of section headings, and the number of symbols indicates the heading level.
+
+```markdown
 # Heading 1
+
 ## Heading 2
 ```
 
-Check out the style guide for creating entries [here](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md).
+#### 2. Text Formatting
 
-**2. Text Formatting:**
+- Make text bold by enclosing it with double asterisks (`**`).
+- Make text italic by enclosing it with single underscores (`_`).
+- Create inline code by wrapping text with backticks (`` ` ``).
 
-- Make text bold by enclosing it with double asterisks (**) or double underscores (__).
-- Make text italic by enclosing it with single asterisks (*) or single underscores (_).
-- Create inline code by wrapping text with backticks (``).
+```markdown
+**This is a bold text.**
 
-**3. Lists:**
+_This is an italic text._
 
-- Create ordered lists using numbers followed by a period (1., 2., etc.).
-- Create unordered lists using asterisks (*), plus signs (+), or hyphens (-).
-For instance,
-
-```md
-1. Item 1
-2. Item 2
+This is an `inline code`.
 ```
-```md
+
+#### 3. Lists
+
+- Create ordered lists using numbers followed by a period (`1.`, `2.`, etc.).
+- Create unordered lists using hyphens (`-`).
+
+```markdown
+1.  Item 1
+2.  Item 2
+
 - Unordered Item 1
 - Unordered Item 2
 ```
 
+#### 4. Links
 
-**4. Links:**
+Create links using square brackets (`[]`) for the link text and parentheses (`()`) for the URL.
 
-- Create links using square brackets for the link text and parentheses for the URL. Here's an example:
-```md
-[Link Text](https://opensauced.pizza/)
+```markdown
+[Intro to Open Source with OpenSauced](https://intro.opensauced.pizza/#/)
 ```
 
-**5. Images:**
+#### 5. Images
 
-- Embed images using an exclamation mark (!), square brackets for the alt text, and parentheses for the image URL. 
-  
-```md
-![Alt Text](https://github.com/open-sauced/intro/blob/main/images/opensauced-signup.png)
+Embed images using an exclamation mark (`!`), followed by square brackets (`[]`) for the alt text, and parentheses (`()`) for the image URL.
+
+```markdown
+![OpenSauced Highlights](https://github.com/open-sauced/intro/blob/main/images/opensauced-highlights.png)
 ```
 
-**6. Blockquotes:**
+#### 6. Blockquotes
 
-- Create blockquotes using the greater-than symbol (>).
-  
-```md
+Create blockquotes using the greater-than symbol (`>`).
+
+```markdown
 > This is a blockquote.
 ```
 
-**7. Code Blocks:**
+#### 7. Code Blocks
 
-- Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
+Create code blocks using triple backticks (` ``` `) for fenced code blocks and specify a language next to the backticks before the fenced code block to highlight the syntax.
 
+````
 ```bash
 git pull
 ```
+````
 
 ### Markdown Tips
 
-- Keep your content well organized, and use headings to structure your sections.
-- Use code blocks to highlight code snippets or configuration examples.
 - Preview your Markdown locally to ensure proper formatting before submitting your contribution.
-
-Learn more about Markdown [here](https://www.markdownguide.org/basic-syntax/).
+- Keep your Markdown content organized, and use headings to structure the sections.
+- Use code blocks to highlight code snippets or configuration examples.
+- Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) website for more information about using Markdown.
 
 ## Adding Translations to Documentation
 
