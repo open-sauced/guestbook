@@ -142,9 +142,8 @@ For instance,
 
 - Create code blocks by indenting code lines with four spaces or using triple backticks for fenced code blocks.
 
-```md
-// Fenced code block
-const code = "Hello, World!";
+```bash
+git pull
 ```
 
 ### Markdown Tips
