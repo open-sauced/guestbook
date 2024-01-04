@@ -25,9 +25,8 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
 git clone https://github.com/<your-username>/guestbook.git
 ```
 3. cd into the repository and open the project in your code editor.
-
 ```bash
-cd intro
+cd guestbook
 ```
 
 4. Run the course locally. See [Running the Project Locally](#running-the-project-locally) for more information.
