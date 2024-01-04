@@ -32,7 +32,7 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
    cd guestbook
    ```
 
-4. Run the project locally. See [Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical) for more information.
+4. Run the project locally. See the [Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical) section on the Intro to Open Source course for more information.
 
 ### Running the Project Locally
 
