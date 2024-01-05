@@ -74,10 +74,6 @@ This will open your documentation in a new browser tab at a local address (typic
 
 7. **Stop the Live Server**: When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
 
-## Adding a New Section to the Documentation
-
-Welcome to the documentation contribution guide. In this guide, you will learn how to add a new section to our project's documentation. We have specific conventions for numbering sections to maintain a consistent structure.
-
 ## Using Markdown for Documentation
 
 Markdown is a lightweight and easy-to-use markup language that allows you to format text in a readable and visually appealing way. When contributing to the documentation in this repository, it's important to use Markdown to structure and format your content effectively.
