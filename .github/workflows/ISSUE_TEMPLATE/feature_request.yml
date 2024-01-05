@@ -28,7 +28,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Current behavior
+      label: Description
       description: Please describe the issue — for example, "As part of the Intro to Open Source course, we are encouraged to contribute to this repo.
     validations:
       required: true
