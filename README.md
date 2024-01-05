@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-102-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-103-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -179,6 +179,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/edwinhung"><img src="https://avatars.githubusercontent.com/u/32249535?v=4?s=100" width="100px;" alt="Edwin Hung"/><br /><sub><b>Edwin Hung</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=edwinhung" title="Code">💻</a> <a href="#data-edwinhung" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=edwinhung" title="Documentation">📖</a> <a href="#ideas-edwinhung" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-edwinhung" title="Project Management">📆</a> <a href="#research-edwinhung" title="Research">🔬</a> <a href="#translation-edwinhung" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/metaltheory"><img src="https://avatars.githubusercontent.com/u/8459756?v=4?s=100" width="100px;" alt="Chase Corbitt"/><br /><sub><b>Chase Corbitt</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=metaltheory" title="Code">💻</a> <a href="#tutorial-metaltheory" title="Tutorials">✅</a> <a href="#example-metaltheory" title="Examples">💡</a> <a href="#ideas-metaltheory" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ChiaBeaCode"><img src="https://avatars.githubusercontent.com/u/109878562?v=4?s=100" width="100px;" alt="Ashley"/><br /><sub><b>Ashley</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ChiaBeaCode" title="Code">💻</a> <a href="#data-ChiaBeaCode" title="Data">🔣</a> <a href="#design-ChiaBeaCode" title="Design">🎨</a> <a href="#maintenance-ChiaBeaCode" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/at-the-vr"><img src="https://avatars.githubusercontent.com/u/88548999?v=4?s=100" width="100px;" alt="Atharva"/><br /><sub><b>Atharva</b></sub></a><br /><a href="#question-at-the-vr" title="Answering Questions">💬</a> <a href="#translation-at-the-vr" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>
