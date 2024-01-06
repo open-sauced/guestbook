@@ -3,29 +3,6 @@ description: Add contributors to guestbook 💡
 title: "Feature:"
 labels: [💡 feature]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this feature request!
-  - type: dropdown
-    attributes:
-      multiple: false
-      label: Type of feature
-      description: Select the type of feature request, the lowercase should also be the PR prefix.
-      options:
-        - "🍕 Feature"
-        - "🐛 Fix"
-        - "📝 Documentation"
-        - "🎨 Style"
-        - "🧑‍💻 Refactor"
-        - "🔥 Performance"
-        - "✅ Test"
-        - "🤖 Build"
-        - "🔁 CI"
-        - "📦 Chore"
-        - "⏩ Revert"
-    validations:
-      required: true
   - type: textarea
     attributes:
       label: Description
@@ -57,3 +34,4 @@ body:
       options:
         - label: I agree to follow this project's Getting Started instructions
           required: true
+      description: Please read [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) to add yourself as a contributor.
