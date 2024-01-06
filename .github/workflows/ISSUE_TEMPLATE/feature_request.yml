@@ -34,4 +34,4 @@ body:
       options:
         - label: I agree to follow this project's Getting Started instructions
           required: true
-      description: Please read [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) to add yourself as a contributor.
+      
