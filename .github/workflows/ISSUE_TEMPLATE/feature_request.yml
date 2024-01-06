@@ -6,7 +6,7 @@ body:
   - type: textarea
     attributes:
       label: Description
-      description: Please describe the issue — for example, "As part of the Intro to Open Source course, we are encouraged to contribute to this repo.
+      description: Please describe the issue — for example, "As part of the Intro to Open Source course, we are encouraged to contribute to this repo."
     validations:
       required: true
   - type: textarea
