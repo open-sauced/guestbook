@@ -1,5 +1,7 @@
 # Contributing to OpenSauced Guestbook
 
+This Contributing Guide will walk you through how to contribute to this project for bug fixes and features. If you want to contribute to the guestbook, please refer to [chapter five](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source) of the Intro to Open Source course.
+
 Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
@@ -26,13 +28,11 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
    git clone https://github.com/<your-username>/guestbook.git
    ```
 
-3. cd into the repository and open the project in your code editor.
+3. Navigate to and open the project in your code editor.
 
    ```bash
    cd guestbook
    ```
-
-4. Run the project locally. See the [Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical) section on the Intro to Open Source course for more information.
 
 ## Using Markdown for Documentation
 
