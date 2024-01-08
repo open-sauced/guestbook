@@ -1527,8 +1527,7 @@
         "userTesting",
         "video"
       ]
-    }
-    ,
+    },
     {
       "login": "edwinhung",
       "name": "Edwin Hung",
@@ -1555,19 +1554,29 @@
         "example",
         "ideas"
       ]
-   },
-   {
-    "login": "ChiaBeaCode",
-    "name": "Ashley",
-    "avatar_url": "https://avatars.githubusercontent.com/u/109878562?v=4",
-    "profile": "https://github.com/ChiaBeaCode",
-    "contributions": [
-      "code",
-      "data",
-      "design",
-      "maintenance"
-    ]
- }
+    },
+    {
+      "login": "ChiaBeaCode",
+      "name": "Ashley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109878562?v=4",
+      "profile": "https://github.com/ChiaBeaCode",
+      "contributions": [
+        "code",
+        "data",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "at-the-vr",
+      "name": "Atharva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88548999?v=4",
+      "profile": "https://github.com/at-the-vr",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true

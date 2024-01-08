@@ -1,5 +1,7 @@
 # Contributing to OpenSauced Guestbook
 
+This Contributing Guide will walk you through how to contribute to this project for bug fixes and features. If you want to contribute to the guestbook, please refer to [chapter five](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source) of the Intro to Open Source course.
+
 Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
@@ -26,53 +28,11 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
    git clone https://github.com/<your-username>/guestbook.git
    ```
 
-3. cd into the repository and open the project in your code editor.
+3. Navigate to and open the project in your code editor.
 
    ```bash
    cd guestbook
    ```
-
-4. Run the project locally. See the [Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical) section on the Intro to Open Source course for more information.
-
-### Running the Project Locally
-
-To contribute effectively to the OpenSauced project, it's essential to run the project locally to see your changes in action and test them thoroughly. We recommend two methods for running the project on your local machine: using the Docsify CLI or leveraging Visual Studio Code's Go Live feature.
-
-#### Method 1: Using the Docsify CLI
-
-1. **Install Node.js**: You can download it from the official Node.js [website](https://nodejs.org/.)
-2. **Install Docsify Globally**: Open your command-line interface (CLI) and run the following command to install Docsify globally.
-
-   ```bash
-   npm install -g docsify-cli
-   ```
-
-3. Run the project locally:
-
-   ```bash
-   docsify serve
-   ```
-
-   This command will start a local development server, and you can access the documentation in your web browser at `http://localhost:3000`
-
-4. Make and Test Changes: With the local server running, you can make changes to the documentation files and immediately see the results in your browser. Test your changes thoroughly.
-5. Stop the Server: When you're done testing or making changes, you can stop the local server by pressing `Ctrl + C` in the CLI.
-
-#### Method 2: Using Visual Studio Code (VS Code) Go Live Feature
-
-Once you have cloned the repository to your local machine, you can use VS Code's Go Live feature to run the project locally. This feature allows you to launch a local development server and preview your changes in real time in your browser.
-
-1. **Install Visual Studio Code**: Download and install [Visual Studio Code](https://code.visualstudio.com/).
-2. **Open the Project in VS Code**: Launch VS Code and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
-3. **Install the Live Server Extension**: In VS Code, navigate to the Extensions view (you can press `Ctrl + Shift + X`) and search for "Live Server. Install the "Live Server" extension by Ritwick Dey.
-
-4. **Launch the Live Server**: In the opened HTML file, you should see a "Go Live" button in the bottom-right corner of the VS Code window. Click this button to launch the live server.
-
-This will open your documentation in a new browser tab at a local address (typically `http://127.0.0.1:5500`).
-
-6. **Make and Test Changes**: With the Live Server running, you can make changes to the documentation files using VS Code, and the changes will be automatically reflected in your browser. Test your changes thoroughly.
-
-7. **Stop the Live Server**: When you're done testing or making changes, you can stop the Live Server by clicking the "Exit" button in the VS Code status bar.
 
 ## Using Markdown for Documentation
 
