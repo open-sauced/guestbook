@@ -1,0 +1,32 @@
+name: 🚀 Feature request
+description: Add contributors to guestbook 💡
+title: "Feature:"
+labels: [💡 feature]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: Please describe the issue — for example, "As part of the Intro to Open Source course, we are encouraged to contribute to this repo."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggested solution
+      description: Suggest a solution — for example, "Add myself as a contributor."
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Getting Started Instructions
+      description: Please read [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) to add yourself as a contributor.
+      options:
+        - label: I agree to follow this project's Getting Started instructions
+          required: true
+      
