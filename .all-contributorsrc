@@ -1576,6 +1576,17 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "Tamale1",
+      "name": "Tamale1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114075136?v=4",
+      "profile": "https://github.com/Tamale1",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
