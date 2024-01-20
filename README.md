@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-104-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-105-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -181,6 +181,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ChiaBeaCode"><img src="https://avatars.githubusercontent.com/u/109878562?v=4?s=100" width="100px;" alt="Ashley"/><br /><sub><b>Ashley</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ChiaBeaCode" title="Code">💻</a> <a href="#data-ChiaBeaCode" title="Data">🔣</a> <a href="#design-ChiaBeaCode" title="Design">🎨</a> <a href="#maintenance-ChiaBeaCode" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/at-the-vr"><img src="https://avatars.githubusercontent.com/u/88548999?v=4?s=100" width="100px;" alt="Atharva"/><br /><sub><b>Atharva</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=at-the-vr" title="Documentation">📖</a> <a href="#translation-at-the-vr" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Tamale1"><img src="https://avatars.githubusercontent.com/u/114075136?v=4?s=100" width="100px;" alt="Tamale1"/><br /><sub><b>Tamale1</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Tamale1" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Tamale1" title="Documentation">📖</a> <a href="#maintenance-Tamale1" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://portfolio-ijayhub.vercel.app/"><img src="https://avatars.githubusercontent.com/u/66119709?v=4?s=100" width="100px;" alt="Cent"/><br /><sub><b>Cent</b></sub></a><br /><a href="#a11y-ijayhub" title="Accessibility">️️️️♿️</a> <a href="#question-ijayhub" title="Answering Questions">💬</a> <a href="#blog-ijayhub" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ijayhub" title="Code">💻</a> <a href="#content-ijayhub" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ijayhub" title="Documentation">📖</a> <a href="#ideas-ijayhub" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ijayhub" title="Maintenance">🚧</a> <a href="#promotion-ijayhub" title="Promotion">📣</a> <a href="#research-ijayhub" title="Research">🔬</a> <a href="#talk-ijayhub" title="Talks">📢</a> <a href="#tutorial-ijayhub" title="Tutorials">✅</a> <a href="#video-ijayhub" title="Videos">📹</a></td>
     </tr>
   </tbody>
   <tfoot>
