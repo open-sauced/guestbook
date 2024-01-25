@@ -1605,9 +1605,10 @@
         "promotion",
         "research",
         "talk",
-        "tutorial",
-     ]
-   },
+        "tutorial"
+    ]
+  },
+    {
       "login": "Kaz-Smino",
       "name": "Kaz Smino",
       "avatar_url": "https://avatars.githubusercontent.com/u/43696401?v=4",
@@ -1645,7 +1646,7 @@
         "translation",
         "tutorial",
         "userTesting",
-         "video"
+        "video"
       ]
     }
   ],
