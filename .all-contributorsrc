@@ -1589,6 +1589,26 @@
       ]
     },
     {
+      "login": "ijayhub",
+      "name": "Cent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66119709?v=4",
+      "profile": "https://portfolio-ijayhub.vercel.app/",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "promotion",
+        "research",
+        "talk",
+        "tutorial"
+    ]
+  },
+    {
       "login": "Kaz-Smino",
       "name": "Kaz Smino",
       "avatar_url": "https://avatars.githubusercontent.com/u/43696401?v=4",
