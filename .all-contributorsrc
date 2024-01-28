@@ -1655,7 +1655,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/111010273?v=4",
       "profile": "https://github.com/OluwabukolaU",
       "contributions": [
-        "question"
+        "question",
+        "a11y",
+        "tutorial",
+        "userTesting"
       ]
     }
   ],
