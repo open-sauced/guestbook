@@ -2,24 +2,25 @@
 
 <!--
 Please do not leave this blank
-This PR adds <github-username> as a contributor.
+
 -->
+This PR adds OluwabukolaU as a contributor.
 
 ## What type of PR is this? (check all applicable)
 
-- [ ] 🤝 Add a contributor
+- [# ] 🤝 Add a contributor
 - [ ] 📝 Documentation Update
 
 ## Contributors checklist (check all applicable)
 
 ### I've read through the [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) section.
 
-- [ ] ✅ Yes
+- [#] ✅ Yes
 - [ ] ❌ Not yet
 
 ### How did you add yourself as a contributor?
 
-- [ ] 🤖 With CLI
+- [#] 🤖 With CLI
 - [ ] ⌨️ Manually
 
 #### If you added yourself manually, did you follow the [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill in the value?
@@ -28,19 +29,24 @@ This PR adds <github-username> as a contributor.
 - [ ] ❌ No
 
 ### Have you run `npm run contributors:generate` to generate your profile and the badge on the README?
-- [ ] ✅ Yes
+- [# ] ✅ Yes
 - [ ] ❌ No
 
 ## Added to documentation?
 
 - [ ] 📜 README.md
-- [ ] 🙅 no documentation needed
+- [# ] 🙅 no documentation needed
 
 ## Screenshot
+![Screenshot (7)](https://github.com/OluwabukolaU/guestbook/assets/111010273/10806625-8e72-4833-803b-084dc13c6699)
 
+    
 <!-- Please provide a screenshot of your profile being generated on the README. This ensures that you run the `npm run contributors:generate` command, as mentioned in the previous question, and makes it easier for maintainers to review PRs. All PRs without screenshots will be automatically rejected-->
 
+
+
 ## [optional] What GIF best describes this PR or how it makes you feel?
+It makes me feel excited learning how to do it.Thank you open sauced
 
 <!-- note: PRs with deleted sections will be marked invalid -->
 
