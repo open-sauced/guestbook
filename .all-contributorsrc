@@ -1606,8 +1606,8 @@
         "research",
         "talk",
         "tutorial"
-    ]
-  },
+      ]
+    },
     {
       "login": "Kaz-Smino",
       "name": "Kaz Smino",
@@ -1647,6 +1647,17 @@
         "tutorial",
         "userTesting",
         "video"
+      ]
+    },
+    {
+      "login": "nickaldwin",
+      "name": "nick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108027865?v=4",
+      "profile": "https://github.com/nickaldwin",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
       ]
     }
   ],
