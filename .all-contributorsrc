@@ -1659,7 +1659,16 @@
         "doc",
         "infra"
       ]
-    }
+    },
+    {
+      "login": "JulesRules65",
+      "name": "Julien",
+      "avatar_url": "https://github.com/JulesRules65.png",
+      "profile": "https://julienwuest.de",
+      "contributions": [
+        "doc"
+      ]
+   }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
