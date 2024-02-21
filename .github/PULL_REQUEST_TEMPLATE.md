@@ -36,7 +36,7 @@ This PR adds <github-username> as a contributor.
 - [ ] 📜 README.md
 - [ ] 🙅 no documentation needed
 
-## Screenshot (*Required for review)
+## Screenshot
 
 <!-- Please provide a screenshot of your profile being generated on the README. This ensures that you run the `npm run contributors:generate` command, as mentioned in the previous question, and makes it easier for maintainers to review PRs. All PRs without screenshots will be automatically rejected-->
 
