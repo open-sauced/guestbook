@@ -1650,6 +1650,7 @@
       ]
     },
     {
+ 
       "login": "OluwabukolaU",
       "name": "Sophia Umaru",
       "avatar_url": "https://avatars.githubusercontent.com/u/111010273?v=4",
@@ -1659,6 +1660,28 @@
         "a11y",
         "tutorial",
         "userTesting"
+
+      "login": "nickaldwin",
+      "name": "nick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108027865?v=4",
+      "profile": "https://github.com/nickaldwin",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
+      ]
+    },
+    {
+      "login": "Metratrj",
+      "name": "Johannes Grimm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111083448?v=4",
+      "profile": "https://github.com/Metratrj",
+      "contributions": [
+        "bug",
+        "code",
+        "infra",
+        "research",
+        "tool"
       ]
     }
   ],
