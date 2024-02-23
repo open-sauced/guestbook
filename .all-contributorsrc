@@ -1672,6 +1672,19 @@
         "research",
         "tool"
       ]
+    },
+    {
+      "login": "Added ManeDev",
+      "name": "Youssouph Mané",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111083448?v=4",
+      "profile": "https://github.com/youssoph-mane",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "research",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
