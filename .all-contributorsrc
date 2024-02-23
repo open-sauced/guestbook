@@ -1672,6 +1672,18 @@
         "research",
         "tool"
       ]
+    },
+    {
+      "login": "Pondy007",
+      "name": "Vivine Assokane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73773162?v=4",
+      "profile": "https://github.com/Pondy007",
+      "contributions": [
+        "bug",
+        "doc",
+        "projectManagement",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
