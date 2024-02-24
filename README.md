@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-109-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-110-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -188,6 +188,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nickaldwin"><img src="https://avatars.githubusercontent.com/u/108027865?v=4?s=100" width="100px;" alt="nick"/><br /><sub><b>nick</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=nickaldwin" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=nickaldwin" title="Documentation">📖</a> <a href="#infra-nickaldwin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Metratrj"><img src="https://avatars.githubusercontent.com/u/111083448?v=4?s=100" width="100px;" alt="Johannes Grimm"/><br /><sub><b>Johannes Grimm</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMetratrj" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Metratrj" title="Code">💻</a> <a href="#infra-Metratrj" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#research-Metratrj" title="Research">🔬</a> <a href="#tool-Metratrj" title="Tools">🔧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/youssoph-mane"><img src="https://avatars.githubusercontent.com/u/111083448?v=4?s=100" width="100px;" alt="Youssouph Mané"/><br /><sub><b>Youssouph Mané</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AAdded ManeDev" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Added ManeDev" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Added ManeDev" title="Documentation">📖</a> <a href="#research-Added ManeDev" title="Research">🔬</a> <a href="#tool-Added ManeDev" title="Tools">🔧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pondy007"><img src="https://avatars.githubusercontent.com/u/73773162?v=4?s=100" width="100px;" alt="Vivine Assokane"/><br /><sub><b>Vivine Assokane</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3APondy007" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Pondy007" title="Documentation">📖</a> <a href="#projectManagement-Pondy007" title="Project Management">📆</a> <a href="#translation-Pondy007" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>
