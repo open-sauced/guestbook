@@ -38,7 +38,7 @@ This PR adds <github-username> as a contributor.
 
 ## Screenshot (Required for PR Review)
 
-<!-- Please provide a screenshot of your profile being generated on the README. This ensures that you run the `npm run contributors:generate` command, as mentioned in the previous question, and makes it easier for maintainers to review PRs. All PRs without screenshots will be automatically rejected-->
+<!-- Please provide a screenshot of your profile being generated on the README. This ensures that you ran the `npm run contributors:generate` command, as mentioned in the previous question, which makes it easier for the maintainers to review PRs. All PRs without screenshots will be automatically rejected-->
 
 ## [optional] What GIF best describes this PR or how it makes you feel?
 
