@@ -1697,6 +1697,15 @@
         "projectManagement",
         "translation"
       ]
+    },
+    {
+      "login": "chrisVCH",
+      "name": "Chris Chen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15946576?v=4",
+      "profile": "https://github.com/chrisVCH",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
