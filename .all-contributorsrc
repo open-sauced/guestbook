@@ -1683,6 +1683,40 @@
         "research",
         "tool"
       ]
+    },
+    {
+      "login": "Added ManeDev",
+      "name": "Youssouph Mané",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111083448?v=4",
+      "profile": "https://github.com/youssoph-mane",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "research",
+        "tool"
+      ]
+    },
+    {
+      "login": "Pondy007",
+      "name": "Vivine Assokane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73773162?v=4",
+      "profile": "https://github.com/Pondy007",
+      "contributions": [
+        "bug",
+        "doc",
+        "projectManagement",
+        "translation"
+      ]
+    },
+    {
+      "login": "chrisVCH",
+      "name": "Chris Chen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15946576?v=4",
+      "profile": "https://github.com/chrisVCH",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
