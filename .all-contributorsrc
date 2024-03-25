@@ -1750,7 +1750,8 @@
         "bug",
         "code",
         "example",
-        "tutorial"
+        "tutorial",
+        "doc"
       ]
     }
   ],
