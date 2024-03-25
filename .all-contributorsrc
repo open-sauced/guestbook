@@ -1738,6 +1738,20 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "alberto-rj",
+      "name": "Alberto José",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160677568?v=4",
+      "profile": "https://github.com/alberto-rj",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "example",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
