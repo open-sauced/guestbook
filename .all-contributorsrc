@@ -1680,8 +1680,8 @@
       "contributions": [
         "doc"
       ]
-   },
-   {
+    },
+    {
       "login": "Metratrj",
       "name": "Johannes Grimm",
       "avatar_url": "https://avatars.githubusercontent.com/u/111083448?v=4",
@@ -1725,6 +1725,17 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/15946576?v=4",
       "profile": "https://github.com/chrisVCH",
       "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Haimantika",
+      "name": "haimantika mitra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32809211?v=4",
+      "profile": "https://github.com/Haimantika",
+      "contributions": [
+        "code",
+        "content",
         "doc"
       ]
     }

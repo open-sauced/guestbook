@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-113-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-114-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -194,6 +194,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/chrisVCH"><img src="https://avatars.githubusercontent.com/u/15946576?v=4?s=100" width="100px;" alt="Chris Chen"/><br /><sub><b>Chris Chen</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=chrisVCH" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Haimantika"><img src="https://avatars.githubusercontent.com/u/32809211?v=4?s=100" width="100px;" alt="haimantika mitra"/><br /><sub><b>haimantika mitra</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Haimantika" title="Code">💻</a> <a href="#content-Haimantika" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Haimantika" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
