@@ -1,5 +1,5 @@
-name: 🚀 Feature request
-description: Add contributors to guestbook 💡
+name: ➕ Add contributors
+description: Add contributors to guestbook
 title: "Feature:"
 labels: [💡 feature]
 body:
@@ -29,4 +29,4 @@ body:
       options:
         - label: I agree to follow this project's Getting Started instructions
           required: true
-      
+
