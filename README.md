@@ -1,35 +1,35 @@
 <div align="center">
   <br>
   <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 Guest Book 🍕</h1>
-  <strong>Welcome to OpenSauced's Guest Book Repository!</strong>
+  <h1>🍕 Guestbook 🍕</h1>
+  <strong>Welcome to OpenSauced's Guestbook Repository!</strong>
 </div>
 
 <br>
 
-# OpenSauced Guest Book
+# OpenSauced Guestbook
 
-This guest book is a place for people who have taken [OpenSauced](https://opensauced.pizza)'s [Intro to Open Source course](https://github.com/open-sauced/intro) to take their first steps into contributing to open source.
+This guestbook is a place for people who have taken [OpenSauced](https://app.opensauced.pizza/)'s [Intro to Open Source course](https://intro.opensauced.pizza/#/) to take their first steps into contributing to open source.
 
 ## Getting Started
 
-For complete instructions on how to add yourself to our guest book, please head to the "[Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical)" section in our Intro to Open Source course.
+For complete instructions on how to add yourself to our guestbook, please head to the "[Let's Get Practical](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=let39s-get-practical)" section in our Intro to Open Source course.
 
 ## Resolving Merge Conflicts
 
-If you encounter merge conflicts while contributing to this repository, read our Intro to Open Source course's "[Merge Conflicts in the Guest Book Repository](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=merge-conflicts-in-the-guest-book-repository)" section.
+If you encounter merge conflicts while contributing to this repository, read our Intro to Open Source course's "[Merge Conflicts in the Guestbook Repository](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=merge-conflicts-in-the-guestbook-repository)" section.
 
 ## What's Next?
 
-You can add this contribution to your [OpenSauced](https://opensauced.pizza) profile as [outlined in the course](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md).
+You can add this contribution to your [Highlight](https://app.opensauced.pizza/feed) at OpenSauced! Read our docs to learn more about [Highlight feature](https://docs.opensauced.pizza/features/highlights/).
 
-Hungry for more contributions? Check out our [pizza verse](https://github.com/open-sauced/pizza) repository and join us in celebrating pizza!🍕😄
+Hungry for more contributions? Check out our [pizza-verse](https://github.com/open-sauced/pizza-verse) repository and join us in celebrating pizza!🍕
 
 ## 🤝 Contributing
 
-All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow the [README](README.md) directions for contributing.
+All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow our [Contributing Guidelines](CONTRIBUTING.md) for contributing.
 
-- **Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guide](CONTRIBUTING.md).
+- **Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/CONTRIBUTING.md).
 
 - **Translations**: If you want to translate the [README](README.md) and other necessary parts of this repo, check out our [Translations Guidelines](i18n-guidelines.md).
 
