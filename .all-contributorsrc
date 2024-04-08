@@ -1762,6 +1762,25 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "SkipPharaoh",
+      "name": "Caniggia Thompson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92260713?v=4",
+      "profile": "https://github.com/SkipPharaoh",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "test",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
