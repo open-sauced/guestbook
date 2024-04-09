@@ -1769,12 +1769,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/120222712?v=4",
       "profile": "https://github.com/Ydigit",
       "contributions": [
-        "question",
         "bug",
-        "code",
-        "ideas",
-        "plugin",
-        "research"
+        "ideas"
       ]
     }
   ],
