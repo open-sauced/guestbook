@@ -1791,7 +1791,8 @@
         "test",
         "tutorial",
         "userTesting"
-    },
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
