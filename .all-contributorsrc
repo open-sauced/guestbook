@@ -1773,6 +1773,16 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "krm-shrftdnv",
+      "name": "Karim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42980681?v=4",
+      "profile": "https://github.com/krm-shrftdnv",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
