@@ -1773,7 +1773,7 @@
         "doc",
         "translation"
       ]
-    }, 
+    },
     {
       "login": "SkipPharaoh",
       "name": "Caniggia Thompson",
@@ -1791,6 +1791,17 @@
         "test",
         "tutorial",
         "userTesting"
+      ]
+    },
+    {
+      "login": "Woytsekj",
+      "name": "Jonathan Woytsek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76233345?v=4",
+      "profile": "https://github.com/Woytsekj",
+      "contributions": [
+        "code",
+        "data",
+        "doc"
       ]
     }
   ],
