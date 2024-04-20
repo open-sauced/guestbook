@@ -1,4 +1,5 @@
 <!-- Please fill in all areas in this PR form. Incomplete PRs will be marked invalid and may be closed. -->
+
 ## Description
 
 <!--
@@ -18,14 +19,15 @@ Please use this format link issue numbers: Closes #123
 More information: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
 -->
 
-## Contributors checklist
+## Contributors Checklist
 
-### I've read through the [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) section.
+### I've read through the [Getting Started](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=getting-started) section.
 
 - [ ] ✅ Yes
 - [ ] ❌ Not yet
 
 ### Have you run `npm run contributors:generate` to generate your profile and the badge on the README?
+
 - [ ] ✅ Yes
 - [ ] ❌ No
 
