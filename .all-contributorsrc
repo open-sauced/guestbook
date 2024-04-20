@@ -1803,6 +1803,22 @@
         "data",
         "doc"
       ]
+    },
+    {
+      "login": "AryanAwtar",
+      "name": "Aryan Raj ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67885970?v=4",
+      "profile": "https://github.com/AryanAwtar",
+      "contributions": [
+        "a11y",
+        "question",
+        "code",
+        "design",
+        "example",
+        "ideas",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
