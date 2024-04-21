@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-119-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-120-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -200,6 +200,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/safaanilatasoy"><img src="https://avatars.githubusercontent.com/u/61758061?v=4?s=100" width="100px;" alt="Safa Anıl ATASOY"/><br /><sub><b>Safa Anıl ATASOY</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=safaanilatasoy" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=safaanilatasoy" title="Documentation">📖</a> <a href="#translation-safaanilatasoy" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SkipPharaoh"><img src="https://avatars.githubusercontent.com/u/92260713?v=4?s=100" width="100px;" alt="Caniggia Thompson"/><br /><sub><b>Caniggia Thompson</b></sub></a><br /><a href="#question-SkipPharaoh" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ASkipPharaoh" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SkipPharaoh" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SkipPharaoh" title="Documentation">📖</a> <a href="#example-SkipPharaoh" title="Examples">💡</a> <a href="#ideas-SkipPharaoh" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-SkipPharaoh" title="Maintenance">🚧</a> <a href="#mentoring-SkipPharaoh" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SkipPharaoh" title="Tests">⚠️</a> <a href="#tutorial-SkipPharaoh" title="Tutorials">✅</a> <a href="#userTesting-SkipPharaoh" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Woytsekj"><img src="https://avatars.githubusercontent.com/u/76233345?v=4?s=100" width="100px;" alt="Jonathan Woytsek"/><br /><sub><b>Jonathan Woytsek</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Woytsekj" title="Code">💻</a> <a href="#data-Woytsekj" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Woytsekj" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lukepadiachy"><img src="https://avatars.githubusercontent.com/u/148848073?v=4?s=100" width="100px;" alt="🅿️adi"/><br /><sub><b>🅿️adi</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Alukepadiachy" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
