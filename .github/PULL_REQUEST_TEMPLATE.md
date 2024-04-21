@@ -1,3 +1,5 @@
+<!-- Please fill in all areas in this PR form. Incomplete PRs will be marked invalid and may be closed. -->
+
 ## Description
 
 <!--
@@ -10,24 +12,22 @@ This PR adds <github-username> as a contributor.
 - [ ] 🤝 Add a contributor
 - [ ] 📝 Documentation Update
 
-## Contributors checklist (check all applicable)
+## Related Issues
 
-### I've read through the [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) section.
+<!-- 
+Please use this format link issue numbers: Closes #123
+More information: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
+-->
+
+## Contributors Checklist
+
+### I've read through the [Getting Started](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=getting-started) section.
 
 - [ ] ✅ Yes
 - [ ] ❌ Not yet
 
-### How did you add yourself as a contributor?
-
-- [ ] 🤖 With CLI
-- [ ] ⌨️ Manually
-
-#### If you added yourself manually, did you follow the [emoji key and contribution types](https://allcontributors.org/docs/en/emoji-key) to fill in the value?
-
-- [ ] ✅ Yes
-- [ ] ❌ No
-
 ### Have you run `npm run contributors:generate` to generate your profile and the badge on the README?
+
 - [ ] ✅ Yes
 - [ ] ❌ No
 
