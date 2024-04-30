@@ -1823,6 +1823,21 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "JohnMwendwa",
+      "name": "John Mwendwa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72663882?v=4",
+      "profile": "https://johnmwendwa.vercel.app/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
