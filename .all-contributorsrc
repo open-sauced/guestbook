@@ -1823,6 +1823,15 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "SimonGideon",
+      "name": "Simon Gideon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61404403?v=4",
+      "profile": "https://simongideon.me/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
