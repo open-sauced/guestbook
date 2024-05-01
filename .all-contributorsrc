@@ -1823,6 +1823,34 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "madefromjames",
+      "name": "James Emmanuel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104380115?v=4",
+      "profile": "https://github.com/madefromjames",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "test",
+        "tool",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
