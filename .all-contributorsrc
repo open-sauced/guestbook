@@ -1823,6 +1823,33 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "Lor1138",
+      "name": "Laura OBrien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54803384?v=4",
+      "profile": "https://github.com/Lor1138",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "financial",
+        "infra",
+        "mentoring",
+        "plugin",
+        "security",
+        "talk",
+        "tool",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,

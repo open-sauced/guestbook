@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-121-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-122-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -204,6 +204,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lukepadiachy"><img src="https://avatars.githubusercontent.com/u/148848073?v=4?s=100" width="100px;" alt="🅿️adi"/><br /><sub><b>🅿️adi</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Alukepadiachy" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisCFunes"><img src="https://avatars.githubusercontent.com/u/79291775?v=4?s=100" width="100px;" alt="LuisCFunes"/><br /><sub><b>LuisCFunes</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ALuisCFunes" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=LuisCFunes" title="Code">💻</a> <a href="#translation-LuisCFunes" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lor1138"><img src="https://avatars.githubusercontent.com/u/54803384?v=4?s=100" width="100px;" alt="Laura OBrien"/><br /><sub><b>Laura OBrien</b></sub></a><br /><a href="#a11y-Lor1138" title="Accessibility">️️️️♿️</a> <a href="#question-Lor1138" title="Answering Questions">💬</a> <a href="#audio-Lor1138" title="Audio">🔊</a> <a href="#blog-Lor1138" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ALor1138" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lor1138" title="Code">💻</a> <a href="#content-Lor1138" title="Content">🖋</a> <a href="#data-Lor1138" title="Data">🔣</a> <a href="#design-Lor1138" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Lor1138" title="Documentation">📖</a> <a href="#example-Lor1138" title="Examples">💡</a> <a href="#financial-Lor1138" title="Financial">💵</a> <a href="#infra-Lor1138" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-Lor1138" title="Mentoring">🧑‍🏫</a> <a href="#plugin-Lor1138" title="Plugin/utility libraries">🔌</a> <a href="#security-Lor1138" title="Security">🛡️</a> <a href="#talk-Lor1138" title="Talks">📢</a> <a href="#tool-Lor1138" title="Tools">🔧</a> <a href="#video-Lor1138" title="Videos">📹</a></td>
     </tr>
   </tbody>
   <tfoot>
