@@ -1823,6 +1823,20 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "rohitkrsoni",
+      "name": "rohitkrsoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60655155?v=4",
+      "profile": "https://github.com/rohitkrsoni",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "maintenance",
+        "research",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
