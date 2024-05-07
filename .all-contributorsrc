@@ -1830,7 +1830,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/99228503?v=4",
       "profile": "https://github.com/Alex87464",
       "contributions": [
-        "question"
+        "question",
+        "code",
+        "example",
+        "review",
+        "userTesting"
       ]
     }
   ],
