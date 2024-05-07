@@ -1823,6 +1823,29 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "pChitral",
+      "name": "Chitral Patil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69043137?v=4",
+      "profile": "https://chitralpatil.propael.com/",
+      "contributions": [
+        "question",
+        "business",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "eventOrganizing",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "projectManagement",
+        "promotion",
+        "research",
+        "tutorial",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,

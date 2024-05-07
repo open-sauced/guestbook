@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-121-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-122-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -204,6 +204,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lukepadiachy"><img src="https://avatars.githubusercontent.com/u/148848073?v=4?s=100" width="100px;" alt="🅿️adi"/><br /><sub><b>🅿️adi</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Alukepadiachy" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisCFunes"><img src="https://avatars.githubusercontent.com/u/79291775?v=4?s=100" width="100px;" alt="LuisCFunes"/><br /><sub><b>LuisCFunes</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ALuisCFunes" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=LuisCFunes" title="Code">💻</a> <a href="#translation-LuisCFunes" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://chitralpatil.propael.com/"><img src="https://avatars.githubusercontent.com/u/69043137?v=4?s=100" width="100px;" alt="Chitral Patil"/><br /><sub><b>Chitral Patil</b></sub></a><br /><a href="#question-pChitral" title="Answering Questions">💬</a> <a href="#business-pChitral" title="Business development">💼</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pChitral" title="Code">💻</a> <a href="#content-pChitral" title="Content">🖋</a> <a href="#data-pChitral" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pChitral" title="Documentation">📖</a> <a href="#eventOrganizing-pChitral" title="Event Organizing">📋</a> <a href="#financial-pChitral" title="Financial">💵</a> <a href="#fundingFinding-pChitral" title="Funding Finding">🔍</a> <a href="#ideas-pChitral" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-pChitral" title="Project Management">📆</a> <a href="#promotion-pChitral" title="Promotion">📣</a> <a href="#research-pChitral" title="Research">🔬</a> <a href="#tutorial-pChitral" title="Tutorials">✅</a> <a href="#video-pChitral" title="Videos">📹</a></td>
     </tr>
   </tbody>
   <tfoot>
