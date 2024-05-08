@@ -1823,6 +1823,15 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "fb1n15",
+      "name": "Chandler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25667642?v=4",
+      "profile": "https://github.com/fb1n15",
+      "contributions": [
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
