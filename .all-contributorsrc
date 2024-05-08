@@ -1823,6 +1823,18 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "Vikingu-del",
+      "name": "Erik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65004236?v=4",
+      "profile": "https://github.com/Vikingu-del",
+      "contributions": [
+        "code",
+        "ideas",
+        "maintenance",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,

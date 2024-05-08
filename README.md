@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-121-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-122-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -204,6 +204,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lukepadiachy"><img src="https://avatars.githubusercontent.com/u/148848073?v=4?s=100" width="100px;" alt="🅿️adi"/><br /><sub><b>🅿️adi</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Alukepadiachy" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisCFunes"><img src="https://avatars.githubusercontent.com/u/79291775?v=4?s=100" width="100px;" alt="LuisCFunes"/><br /><sub><b>LuisCFunes</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ALuisCFunes" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=LuisCFunes" title="Code">💻</a> <a href="#translation-LuisCFunes" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Vikingu-del"><img src="https://avatars.githubusercontent.com/u/65004236?v=4?s=100" width="100px;" alt="Erik"/><br /><sub><b>Erik</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Vikingu-del" title="Code">💻</a> <a href="#ideas-Vikingu-del" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-Vikingu-del" title="Maintenance">🚧</a> <a href="#research-Vikingu-del" title="Research">🔬</a></td>
     </tr>
   </tbody>
   <tfoot>
