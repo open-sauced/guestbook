@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-122-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-123-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -205,6 +205,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lukepadiachy"><img src="https://avatars.githubusercontent.com/u/148848073?v=4?s=100" width="100px;" alt="🅿️adi"/><br /><sub><b>🅿️adi</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Alukepadiachy" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisCFunes"><img src="https://avatars.githubusercontent.com/u/79291775?v=4?s=100" width="100px;" alt="LuisCFunes"/><br /><sub><b>LuisCFunes</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ALuisCFunes" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=LuisCFunes" title="Code">💻</a> <a href="#translation-LuisCFunes" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://johnmwendwa.vercel.app/"><img src="https://avatars.githubusercontent.com/u/72663882?v=4?s=100" width="100px;" alt="John Mwendwa"/><br /><sub><b>John Mwendwa</b></sub></a><br /><a href="#question-JohnMwendwa" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AJohnMwendwa" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=JohnMwendwa" title="Code">💻</a> <a href="#content-JohnMwendwa" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=JohnMwendwa" title="Documentation">📖</a> <a href="#example-JohnMwendwa" title="Examples">💡</a> <a href="#ideas-JohnMwendwa" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://simongideon.me/"><img src="https://avatars.githubusercontent.com/u/61404403?v=4?s=100" width="100px;" alt="Simon Gideon"/><br /><sub><b>Simon Gideon</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SimonGideon" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
