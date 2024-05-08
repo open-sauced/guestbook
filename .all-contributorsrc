@@ -1823,6 +1823,20 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "xmclachlan",
+      "name": "X McLachlan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38235983?v=4",
+      "profile": "https://github.com/xmclachlan",
+      "contributions": [
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
