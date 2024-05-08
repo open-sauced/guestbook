@@ -1823,6 +1823,18 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "kilokomuli",
+      "name": "emma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87370159?v=4",
+      "profile": "https://github.com/kilokomuli",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
