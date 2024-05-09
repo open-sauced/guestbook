@@ -1966,6 +1966,22 @@
         "review",
         "userTesting"
       ]
+    },
+    {
+      "login": "Kaanan2000",
+      "name": "KAANAN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117253747?v=4",
+      "profile": "https://github.com/Kaanan2000",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "test",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
