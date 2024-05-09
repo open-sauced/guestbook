@@ -1846,6 +1846,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "paulrwade",
+      "name": "Paul Wade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147275171?v=4",
+      "profile": "https://github.com/paulrwade",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
