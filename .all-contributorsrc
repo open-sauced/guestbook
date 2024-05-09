@@ -1825,6 +1825,136 @@
       ]
     },
     {
+      "login": "JohnMwendwa",
+      "name": "John Mwendwa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72663882?v=4",
+      "profile": "https://johnmwendwa.vercel.app/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas"
+      ]
+    },
+    {
+      "login": "SimonGideon",
+      "name": "Simon Gideon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61404403?v=4",
+      "profile": "https://simongideon.me/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "michaella23",
+      "name": "Michaella Rodriguez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89760083?v=4",
+      "profile": "https://github.com/michaella23",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "mentoring",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "madefromjames",
+      "name": "James Emmanuel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104380115?v=4",
+      "profile": "https://github.com/madefromjames",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "test",
+        "tool",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "Lor1138",
+      "name": "Laura OBrien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54803384?v=4",
+      "profile": "https://github.com/Lor1138",
+      "contributions": [
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "financial",
+        "infra",
+        "mentoring",
+        "plugin",
+        "security",
+        "talk",
+        "tool",
+        "video"
+      ]
+    },
+    {
+      "login": "pChitral",
+      "name": "Chitral Patil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69043137?v=4",
+      "profile": "https://chitralpatil.propael.com/",
+      "contributions": [
+        "question",
+        "business",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "eventOrganizing",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "projectManagement",
+        "promotion",
+        "research",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "rohitkrsoni",
+      "name": "rohitkrsoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60655155?v=4",
+      "profile": "https://github.com/rohitkrsoni",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "maintenance",
+        "research",
+        "test"
+      ]
+    },
+    {
       "login": "Kaanan2000",
       "name": "KAANAN",
       "avatar_url": "https://avatars.githubusercontent.com/u/117253747?v=4",
