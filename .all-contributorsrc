@@ -2005,6 +2005,16 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "jiuyueshenhua",
+      "name": "CatCat Ice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109449284?v=4",
+      "profile": "https://github.com/jiuyueshenhua",
+      "contributions": [
+        "content",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
