@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-132-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-133-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -217,6 +217,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kaanan2000"><img src="https://avatars.githubusercontent.com/u/117253747?v=4?s=100" width="100px;" alt="KAANAN"/><br /><sub><b>KAANAN</b></sub></a><br /><a href="#question-Kaanan2000" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AKaanan2000" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Kaanan2000" title="Code">💻</a> <a href="#content-Kaanan2000" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Kaanan2000" title="Documentation">📖</a> <a href="#ideas-Kaanan2000" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Kaanan2000" title="Tests">⚠️</a> <a href="#tutorial-Kaanan2000" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kilokomuli"><img src="https://avatars.githubusercontent.com/u/87370159?v=4?s=100" width="100px;" alt="emma"/><br /><sub><b>emma</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Akilokomuli" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=kilokomuli" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=kilokomuli" title="Documentation">📖</a> <a href="#maintenance-kilokomuli" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/paulrwade"><img src="https://avatars.githubusercontent.com/u/147275171?v=4?s=100" width="100px;" alt="Paul Wade"/><br /><sub><b>Paul Wade</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=paulrwade" title="Code">💻</a> <a href="#content-paulrwade" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=paulrwade" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jiuyueshenhua"><img src="https://avatars.githubusercontent.com/u/109449284?v=4?s=100" width="100px;" alt="CatCat Ice"/><br /><sub><b>CatCat Ice</b></sub></a><br /><a href="#content-jiuyueshenhua" title="Content">🖋</a> <a href="#tutorial-jiuyueshenhua" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
