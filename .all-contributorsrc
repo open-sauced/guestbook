@@ -1839,12 +1839,31 @@
         "ideas"
       ]
     },
+    {
       "login": "SimonGideon",
       "name": "Simon Gideon",
       "avatar_url": "https://avatars.githubusercontent.com/u/61404403?v=4",
       "profile": "https://simongideon.me/",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "ManuelaFlores",
+      "name": "Manuela Flores",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31525603?v=4",
+      "profile": "https://github.com/ManuelaFlores",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "maintenance",
+        "plugin",
+        "test"
       ]
     }
   ],
