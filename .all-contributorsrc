@@ -2024,6 +2024,29 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "jiuyueshenhua",
+      "name": "CatCat Ice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109449284?v=4",
+      "profile": "https://github.com/jiuyueshenhua",
+      "contributions": [
+        "content",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "syke9p3",
+      "name": "Kenth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75114627?v=4",
+      "profile": "https://github.com/syke9p3",
+      "contributions": [
+        "design",
+        "example",
+        "ideas",
+        "mentoring",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
