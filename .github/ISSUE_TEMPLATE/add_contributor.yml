@@ -25,7 +25,7 @@ body:
     id: contribution
     attributes:
       label: Getting Started Instructions
-      description: Please read [Getting Started](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=getting-started) to add yourself as a contributor.
+      description: Please read [Getting Started](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=getting-started) to add yourself as a contributor.
       options:
         - label: I agree to follow this project's Getting Started instructions
           required: true
