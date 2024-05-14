@@ -13,7 +13,7 @@ This guestbook is a place for people who have taken [OpenSauced](https://app.ope
 
 ## Getting Started
 
-For complete instructions on how to add yourself to our guest book, please head to the "[Let's Get Practical](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=let39s-get-practical)" section in our Intro to Open Source course.
+For complete instructions on how to add yourself to our guestbook, please head to the "[Let's Get Practical](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=let39s-get-practical)" section in our Intro to Open Source course.
 
 ## Resolving Merge Conflicts
 
