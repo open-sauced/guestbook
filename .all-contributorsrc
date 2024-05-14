@@ -1832,7 +1832,7 @@
       "contributions": [
         "tutorial"
       ]
-},
+    },
     {
       "login": "JohnMwendwa",
       "name": "John Mwendwa",
@@ -2036,6 +2036,24 @@
         "ideas",
         "mentoring",
         "translation"
+      ]
+    },
+    {
+      "login": "ManuelaFlores",
+      "name": "Manuela Flores",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31525603?v=4",
+      "profile": "https://github.com/ManuelaFlores",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "maintenance",
+        "plugin",
+        "test"
       ]
     }
   ],
