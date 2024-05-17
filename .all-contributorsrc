@@ -2074,6 +2074,17 @@
         "plugin",
         "test"
       ]
+    },
+    {
+      "login": "saranyanambiarr",
+      "name": "Saranya Nambiar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64544937?v=4",
+      "profile": "https://linktr.ee/saranyanambiar",
+      "contributions": [
+        "question",
+        "bug",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
