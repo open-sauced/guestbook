@@ -2074,6 +2074,27 @@
         "plugin",
         "test"
       ]
+    },
+    {
+      "login": "asirialwis",
+      "name": "Asiri Alwis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122147253?v=4",
+      "profile": "https://github.com/asirialwis",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "projectManagement",
+        "research",
+        "review",
+        "talk",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
