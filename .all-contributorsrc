@@ -2076,6 +2076,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "login": "saranyanambiarr",
       "name": "Saranya Nambiar",
       "avatar_url": "https://avatars.githubusercontent.com/u/64544937?v=4",
@@ -2084,6 +2085,25 @@
         "question",
         "bug",
         "doc"
+=======
+      "login": "sunggeorge",
+      "name": "sunggeorge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6152989?v=4",
+      "profile": "https://github.com/sunggeorge",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+>>>>>>> bd950e7c8d96d5ed8f89c56f9098fb6b7bac0419
       ]
     }
   ],
