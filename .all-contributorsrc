@@ -2094,6 +2094,16 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "Aditya-Kumar-Sahu",
+      "name": "Aditya Kumar Sahu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99242571?v=4",
+      "profile": "https://github.com/Aditya-Kumar-Sahu",
+      "contributions": [
+        "question",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
