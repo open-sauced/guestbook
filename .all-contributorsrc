@@ -2076,6 +2076,7 @@
       ]
     },
     {
+
       "login": "asirialwis",
       "name": "Asiri Alwis",
       "avatar_url": "https://avatars.githubusercontent.com/u/122147253?v=4",
@@ -2094,6 +2095,25 @@
         "review",
         "talk",
         "translation"
+
+      "login": "sunggeorge",
+      "name": "sunggeorge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6152989?v=4",
+      "profile": "https://github.com/sunggeorge",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+
       ]
     }
   ],
