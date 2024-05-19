@@ -2095,7 +2095,7 @@
         "userTesting"
       ]
     },
-    
+
 {
       "login": "Aditya-Kumar-Sahu",
       "name": "Aditya Kumar Sahu",
@@ -2134,23 +2134,29 @@
         "translation",
         "tutorial",
         "userTesting",
-        "video"
+        "video" ]
 
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
-  "linkToUsage": true
-}
+},
 
+      {
 
-{
- 
-      "login": "CODINATA",
-      "name": "Mohamed Adam Ata",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115686926?v=4",
-      "profile": "https://github.com/CODINATA",
-      "contributions": [
-        "question",
-        "tutorial"]
+        "login": "CODINATA",
+        "name": "Mohamed Adam Ata",
+        "avatar_url": "https://avatars.githubusercontent.com/u/115686926?v=4",
+        "profile": "https://github.com/CODINATA",
+        "contributions": [
+          "question",
+          "tutorial"]
+        }]
       }
+
+
+
+
+
+
+
+
+
+
+
