@@ -2184,6 +2184,16 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "alekyluken",
+      "name": "alekyluken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133749709?v=4",
+      "profile": "https://github.com/alekyluken",
+      "contributions": [
+        "code",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
