@@ -2155,6 +2155,7 @@
         "code",
         "data"
       ]
+<<<<<<< HEAD
     },
     {
       "login": "chydeepak7",
@@ -2164,6 +2165,8 @@
       "contributions": [
         "bug"
       ]
+=======
+>>>>>>> parent of b4477d7 (docs: add @chydeepak7 as a contributor)
     }
   ],
   "contributorsPerLine": 7,
