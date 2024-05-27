@@ -1,0 +1,258 @@
+[33mcommit 6543e0a66fdd578c05dda0f589e904871c1703b2[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/add-DChitale[m[33m)[m
+Author: DChitale <chitaledhananjay70@gmail.com>
+Date:   Sat May 25 18:06:26 2024 +0530
+
+    docs: add @DChitale as a contributor
+
+[33mcommit 26c6e31825169d3ee317847a23997029b9f32cdc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mohamed Adam Ata <115686926+CODINATA@users.noreply.github.com>
+Date:   Sun May 19 19:20:11 2024 +0100
+
+    feat: Add @CODINATA as a contributor (#330)
+    
+    * docs: add @CODINATA as a contributor
+    
+    * .all-contributorsrc
+    
+    * .all-contributorsrc
+    
+    * resolve merge conflicts
+    
+    * resolve merge conflicts
+    
+    * resolve merge conflicts
+    
+    * resolve merge conflicts
+    
+    * fix: restore README
+    
+    * fix: add @codinata back to the .all-contributorsrc
+    
+    * fix: run generate command
+    
+    ---------
+    
+    Co-authored-by: Mohamed Adam Ata <ademata13@gmail.com>
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit 0758c700d0b49383731b8efc03541668106b679d[m
+Author: Aditya Kumar Sahu <99242571+Aditya-Kumar-Sahu@users.noreply.github.com>
+Date:   Sun May 19 11:49:05 2024 +0530
+
+    feat: Add @Aditya-Kumar-Sahu as a contributor (#328)
+    
+    * docs: add @Aditya-Kumar-Sahu as a contributor
+    
+    * docs: update @Aditya-Kumar-Sahu as a contributor
+
+[33mcommit 40cc873845b2ff74b9a89d0d06ddf1fcca180250[m
+Author: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+Date:   Sat May 18 18:51:49 2024 +0200
+
+    fix: intro course contributor action (#325)
+
+[33mcommit bd950e7c8d96d5ed8f89c56f9098fb6b7bac0419[m
+Author: sunggeorge <sunggeorge@gmail.com>
+Date:   Fri May 17 14:11:31 2024 -0600
+
+    docs: add @sunggeorge as a contributor (#318)
+
+[33mcommit 4d554c3092f35245bf6fbbd0148546a7ec3a6f3a[m
+Author: Elvis Otieno <125451537+the1Riddle@users.noreply.github.com>
+Date:   Tue May 14 20:30:21 2024 +0300
+
+    docs: updates to fix broken links (#315)
+    
+    * updating broken links
+    
+    * fix: term guestbook
+    
+    ---------
+    
+    Co-authored-by: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+
+[33mcommit a2bea22e5a80f3ecb9028fd9545ee5f5bef6a357[m
+Author: JohnKagunda <125447154+RafaelJohn9@users.noreply.github.com>
+Date:   Tue May 14 14:55:36 2024 +0300
+
+    feat: Add RafaelJohn9 as a contributor (#262)
+    
+    * docs: add @rafaeljohn9 as a contributor
+    
+    * fix: run generate command
+    
+    ---------
+    
+    Co-authored-by: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+    Co-authored-by: BekahHW <34313413+BekahHW@users.noreply.github.com>
+
+[33mcommit c05b5cde2600890e61fe2985e6a233b8faa95665[m
+Author: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+Date:   Tue May 14 13:54:39 2024 +0200
+
+    fix: update message of the PR_COMMENT in `intro_course_contributor.yml` (#314)
+    
+    fix(intro_course_contributor.yml): message in the PR_COMMENT
+
+[33mcommit 9f46c58c5d52b8110165e8b7479e4656932ee00b[m
+Author: Manuela Flores <31525603+ManuelaFlores@users.noreply.github.com>
+Date:   Tue May 14 01:43:10 2024 -0500
+
+    feat: add @ManuelaFlores as a contributor (#311)
+    
+    * docs: add @ManuelaFlores as a contributor
+    
+    * fix: re-run generate command
+    
+    ---------
+    
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit be091e6a79760bc14ef817a0804f716e60390cab[m
+Author: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+Date:   Mon May 13 15:55:42 2024 +0200
+
+    feat: add compliance workflow (#308)
+
+[33mcommit ec37d1755c2e6b2913cf713654debfe957c03646[m
+Author: Ahmet Raşit SAYLIK <95471422+arsaylik@users.noreply.github.com>
+Date:   Mon May 13 16:55:24 2024 +0300
+
+    docs: add @arsaylik as a contributor (#275)
+    
+    Co-authored-by: BekahHW <34313413+BekahHW@users.noreply.github.com>
+
+[33mcommit 1d3d346f343f0e00809514dd64536f29ef165e67[m
+Author: Kenth <75114627+syke9p3@users.noreply.github.com>
+Date:   Mon May 13 18:39:22 2024 +0800
+
+    feat: add @syke9p3 as a contributor (#306)
+    
+    docs: add @syke9p3 as a contributor
+    
+    Co-authored-by: Kenth Saya-ang <gargarkenth@gmail.com>
+
+[33mcommit 1fce8ba1b9e3370f00936ecf9757c9795b98b27f[m
+Author: Paul Wade <147275171+paulrwade@users.noreply.github.com>
+Date:   Fri May 10 13:51:15 2024 -0700
+
+    updated logo in guest book (#304)
+
+[33mcommit 5358a1051732ed79f7b1d4875ae727e122debb80[m
+Author: CatCat Ice <109449284+jiuyueshenhua@users.noreply.github.com>
+Date:   Fri May 10 21:44:12 2024 +0800
+
+    docs: add @jiuyueshenhua as a contributor (#303)
+    
+    Co-authored-by: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+
+[33mcommit a1b18084e255716691e0f5a03913f377650f7fff[m
+Author: prasad-hp <145915658+prasad-hp@users.noreply.github.com>
+Date:   Fri May 10 15:19:08 2024 +0530
+
+    Replaced the new URL in the place of old url in add_contributor file … (#301)
+    
+    * Replaced the new URL in the place of old url in add_contributor file at getting started section which leads to how to contribute to open source web page
+    
+    * fix: remove period after the link
+    
+    ---------
+    
+    Co-authored-by: Ayu Adiati <45172775+adiati98@users.noreply.github.com>
+
+[33mcommit f6b3f87247ad1d61ea92e1b5fe06799b6f6c9891[m
+Author: Paul Wade <147275171+paulrwade@users.noreply.github.com>
+Date:   Thu May 9 10:50:40 2024 -0700
+
+    docs: add @paulrwade as a contributor (#299)
+
+[33mcommit 0750e011c8536c4a6df8983e27c072ed53397d41[m
+Author: emma <87370159+kilokomuli@users.noreply.github.com>
+Date:   Thu May 9 14:28:19 2024 +0300
+
+    docs: add @kilokomuli as a contributor (#287)
+    
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit 0365f4c85737724b4164af0fb4f8c25dfece25e1[m
+Author: KAANAN <117253747+Kaanan2000@users.noreply.github.com>
+Date:   Thu May 9 16:50:25 2024 +0530
+
+    feat: Add @Kaanan2000 as a contributor (#294)
+    
+    * docs: add @Kaanan2000 as a contributor
+    
+    * Update README.md
+    
+    * Upadated Readme.md
+    
+    * Upadated readme.md
+
+[33mcommit e9511a7f1109cdc6be4d8a584820896b1d8a47ef[m
+Author: Alex Oliva <99228503+Alex87464@users.noreply.github.com>
+Date:   Thu May 9 07:27:56 2024 -0300
+
+    feat: Add Alex87464 as a contributor (#283)
+    
+    * docs: add @Alex87464 as a contributor
+    
+    * docs: update @Alex87464 as a contributor
+    
+    ---------
+    
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit 1cb9670562fd619e964699c9032693d59cc4765f[m
+Author: rohitkrsoni <60655155+rohitkrsoni@users.noreply.github.com>
+Date:   Thu May 9 19:48:15 2024 +0930
+
+    feat: Add @rohitkrsoni as a contributor (#279)
+    
+    docs: add @rohitkrsoni as a contributor
+    
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit 96995e9dd074c755315d40bdfd89879898bffd05[m
+Author: Chitral Patil <69043137+pChitral@users.noreply.github.com>
+Date:   Thu May 9 06:03:35 2024 -0400
+
+    feat: add @pChitral as a contributor (#280)
+    
+    docs: add @pChitral as a contributor
+    
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit 89e186e2da0db3a0705fc66b4c438281b548079d[m
+Author: Laura OBrien <lauraobdev@gmail.com>
+Date:   Thu May 9 05:53:30 2024 -0400
+
+    docs: add @Lor1138 as a contributor (#276)
+    
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit 3fa1a6ceb6f085eec2b23b0b6c5499c3d9fc7ab7[m
+Author: James Emmanuel <madefromjames@gmail.com>
+Date:   Thu May 9 10:42:26 2024 +0100
+
+    docs: add @madefromjames as a contributor (#270)
+    
+    Co-authored-by: Ayu Adiati <retno.ayu98@gmail.com>
+
+[33mcommit b7ef15d4e62f1066106c32ac6339496f772656d6[m
+Author: Michaella Rodriguez <89760083+michaella23@users.noreply.github.com>
+Date:   Thu May 9 03:33:54 2024 -0500
+
+    feat: Add @michaella23 as a contributor (#296)
+    
+    * Added missing `{` to line 1842
+    
+    * docs: add @michaella23 as a contributor
+
+[33mcommit 894f4ec4067b2dbf3960db70893d4d51cd12d7e1[m
+Author: John Mwendwa <dev.johnmwendwa@gmail.com>
+Date:   Wed May 8 22:24:08 2024 +0300
+
+    feat: add @JohnMwendwa as a contributor (#269)
+    
+    * docs:
