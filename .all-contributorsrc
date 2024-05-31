@@ -2215,6 +2215,15 @@
         "bug",
         "blog"
       ]
+    },
+    {
+      "login": "nidhijadhav",
+      "name": "Nidhi Jadhav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56791875?v=4",
+      "profile": "https://github.com/nidhijadhav",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
