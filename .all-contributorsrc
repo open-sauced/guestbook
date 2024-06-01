@@ -2215,6 +2215,27 @@
         "bug",
         "blog"
       ]
+    },
+    {
+      "login": "MohamedAliJmal",
+      "name": "Jmal Mohamed Ali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80892422?v=4",
+      "profile": "https://github.com/MohamedAliJmal",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "maintenance",
+        "review",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
