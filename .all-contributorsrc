@@ -2088,6 +2088,27 @@
       ]
     },
     {
+      "login": "asirialwis",
+      "name": "Asiri Alwis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122147253?v=4",
+      "profile": "https://github.com/asirialwis",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "projectManagement",
+        "research",
+        "review",
+        "talk",
+        "translation"
+      ]
+    },
+    {
       "login": "sunggeorge",
       "name": "sunggeorge",
       "avatar_url": "https://avatars.githubusercontent.com/u/6152989?v=4",
@@ -2214,6 +2235,16 @@
       "contributions": [
         "bug",
         "blog"
+      ]
+    },
+    {
+      "login": "choji-alexander",
+      "name": "Alexander Choji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66732047?v=4",
+      "profile": "https://github.com/choji-alexander",
+      "contributions": [
+        "question",
+        "bug"
       ]
     },
     {
