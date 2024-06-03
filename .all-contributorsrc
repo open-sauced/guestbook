@@ -1844,6 +1844,18 @@
       ]
     },
     {
+      "login": "Vikingu-del",
+      "name": "Erik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65004236?v=4",
+      "profile": "https://github.com/Vikingu-del",
+      "contributions": [
+        "code",
+        "ideas",
+        "maintenance",
+        "research"
+      ]
+    },
+    {
       "login": "arsaylik",
       "name": "Ahmet Raşit SAYLIK",
       "avatar_url": "https://avatars.githubusercontent.com/u/95471422?v=4",
@@ -2114,6 +2126,125 @@
         "tutorial",
         "userTesting"
 
+      ]
+    },
+    {
+      "login": "Aditya-Kumar-Sahu",
+      "name": "Aditya Kumar Sahu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99242571?v=4",
+      "profile": "https://github.com/Aditya-Kumar-Sahu",
+      "contributions": [
+        "question",
+        "code",
+        "a11y",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
+      ]
+    },
+    {
+      "login": "CODINATA",
+      "name": "Mohamed Adam Ata",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115686926?v=4",
+      "profile": "https://github.com/CODINATA",
+      "contributions": [
+        "question",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "DChitale",
+      "name": "Dhananjay Chitale",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142161975?v=4",
+      "profile": "https://github.com/DChitale",
+      "contributions": [
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting",
+        "video"
+      ]
+    },
+    {
+      "login": "alekyluken",
+      "name": "alekyluken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133749709?v=4",
+      "profile": "https://github.com/alekyluken",
+      "contributions": [
+        "code",
+        "data"
+      ]
+    },
+    {
+      "login": "chydeepak7",
+      "name": "Deepak Kumar Chaudhary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144728684?v=4",
+      "profile": "https://github.com/chydeepak7",
+      "contributions": [
+        "bug",
+        "blog"
+      ]
+    },
+    {
+      "login": "choji-alexander",
+      "name": "Alexander Choji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66732047?v=4",
+      "profile": "https://github.com/choji-alexander",
+      "contributions": [
+        "question",
+        "bug"
       ]
     }
   ],
