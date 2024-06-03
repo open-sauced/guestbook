@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-146-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-147-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -235,6 +235,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/alekyluken"><img src="https://avatars.githubusercontent.com/u/133749709?v=4?s=100" width="100px;" alt="alekyluken"/><br /><sub><b>alekyluken</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=alekyluken" title="Code">💻</a> <a href="#data-alekyluken" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/chydeepak7"><img src="https://avatars.githubusercontent.com/u/144728684?v=4?s=100" width="100px;" alt="Deepak Kumar Chaudhary"/><br /><sub><b>Deepak Kumar Chaudhary</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Achydeepak7" title="Bug reports">🐛</a> <a href="#blog-chydeepak7" title="Blogposts">📝</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/choji-alexander"><img src="https://avatars.githubusercontent.com/u/66732047?v=4?s=100" width="100px;" alt="Alexander Choji"/><br /><sub><b>Alexander Choji</b></sub></a><br /><a href="#question-choji-alexander" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Achoji-alexander" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MohamedAliJmal"><img src="https://avatars.githubusercontent.com/u/80892422?v=4?s=100" width="100px;" alt="Jmal Mohamed Ali"/><br /><sub><b>Jmal Mohamed Ali</b></sub></a><br /><a href="#a11y-MohamedAliJmal" title="Accessibility">️️️️♿️</a> <a href="#question-MohamedAliJmal" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMohamedAliJmal" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=MohamedAliJmal" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=MohamedAliJmal" title="Documentation">📖</a> <a href="#ideas-MohamedAliJmal" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-MohamedAliJmal" title="Maintenance">🚧</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3AMohamedAliJmal" title="Reviewed Pull Requests">👀</a> <a href="#talk-MohamedAliJmal" title="Talks">📢</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=MohamedAliJmal" title="Tests">⚠️</a> <a href="#tool-MohamedAliJmal" title="Tools">🔧</a> <a href="#translation-MohamedAliJmal" title="Translation">🌍</a> <a href="#tutorial-MohamedAliJmal" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
