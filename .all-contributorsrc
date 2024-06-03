@@ -2215,6 +2215,16 @@
         "bug",
         "blog"
       ]
+    },
+    {
+      "login": "choji-alexander",
+      "name": "Alexander Choji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66732047?v=4",
+      "profile": "https://github.com/choji-alexander",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
