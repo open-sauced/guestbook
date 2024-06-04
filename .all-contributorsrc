@@ -2267,6 +2267,15 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "overfero",
+      "name": "overfero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134525690?v=4",
+      "profile": "https://github.com/overfero",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
