@@ -2267,6 +2267,16 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "lrmulkayhee",
+      "name": "Lauren",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101945760?v=4",
+      "profile": "https://github.com/lrmulkayhee",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
