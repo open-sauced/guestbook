@@ -2277,6 +2277,20 @@
         "question",
         "code"
       ]
+    },
+    {
+      "login": "overfero",
+      "name": "overfero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134525690?v=4",
+      "profile": "https://github.com/overfero",
+      "contributions": [
+        "tutorial",
+        "question",
+        "code",
+        "content",
+        "ideas",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
