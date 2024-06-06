@@ -2267,6 +2267,16 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "Alok-Jadhao",
+      "name": "Alok Jadhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144699874?v=4",
+      "profile": "https://github.com/Alok-Jadhao",
+      "contributions": [
+        "question",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
