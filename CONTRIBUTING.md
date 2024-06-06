@@ -17,7 +17,7 @@ If you wish to work on an open issue, please comment on the issue with `.take` a
 
 If you are contributing to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
-In case you get stuck, please feel free to ask for help in the [Discord](https://discord.com/invite/U2peSNf23P) server or GitHub Discussions.
+In case you get stuck, please feel free to ask for help in the [Intro to Contributing discussion](https://github.com/orgs/open-sauced/discussions/34).
 
 ## Setup the Project Locally
 
