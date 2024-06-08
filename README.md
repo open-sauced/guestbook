@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-149-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-150-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -240,6 +240,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Alok-Jadhao"><img src="https://avatars.githubusercontent.com/u/144699874?v=4?s=100" width="100px;" alt="Alok Jadhao"/><br /><sub><b>Alok Jadhao</b></sub></a><br /><a href="#question-Alok-Jadhao" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Alok-Jadhao" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/overfero"><img src="https://avatars.githubusercontent.com/u/134525690?v=4?s=100" width="100px;" alt="overfero"/><br /><sub><b>overfero</b></sub></a><br /><a href="#tutorial-overfero" title="Tutorials">✅</a> <a href="#question-overfero" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=overfero" title="Code">💻</a> <a href="#content-overfero" title="Content">🖋</a> <a href="#ideas-overfero" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-overfero" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Harshdev10"><img src="https://avatars.githubusercontent.com/u/98008274?v=4?s=100" width="100px;" alt="HarshDev Tripathi"/><br /><sub><b>HarshDev Tripathi</b></sub></a><br /><a href="#question-Harshdev10" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AHarshdev10" title="Bug reports">🐛</a> <a href="#design-Harshdev10" title="Design">🎨</a></td>
     </tr>
   </tbody>
   <tfoot>

@@ -2291,6 +2291,17 @@
         "ideas",
         "research"
       ]
+    },
+    {
+      "login": "Harshdev10",
+      "name": "HarshDev Tripathi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98008274?v=4",
+      "profile": "https://github.com/Harshdev10",
+      "contributions": [
+        "question",
+        "bug",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
