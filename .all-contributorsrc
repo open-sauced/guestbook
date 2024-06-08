@@ -2300,7 +2300,17 @@
       "contributions": [
         "question",
         "bug",
-        "design"
+        "design",
+        "code",
+        "ideas",
+        "mentoring",
+        "platform",
+        "plugin",
+        "projectManagement",
+        "research",
+        "security",
+        "test",
+        "tool"
       ]
     }
   ],
