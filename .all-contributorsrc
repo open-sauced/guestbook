@@ -2312,6 +2312,16 @@
         "test",
         "tool"
       ]
+    },
+    {
+      "login": "IM-Suryakant-Kumar",
+      "name": "Suryakant Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66691162?v=4",
+      "profile": "https://suryakant-kumar.netlify.app/",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
