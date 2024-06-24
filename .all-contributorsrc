@@ -2322,6 +2322,15 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "hediyetapan",
+      "name": "hediyetapan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124393229?v=4",
+      "profile": "https://github.com/hediyetapan",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
