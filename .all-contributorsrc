@@ -2322,6 +2322,15 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "skottchen",
+      "name": "Scott Chen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96890985?v=4",
+      "profile": "https://github.com/skottchen",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
