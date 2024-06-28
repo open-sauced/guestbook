@@ -2331,6 +2331,34 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "enamcse",
+      "name": "Enamul Hassan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1696846?v=4",
+      "profile": "https://github.com/enamcse",
+      "contributions": [
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "fundingFinding",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "research",
+        "security",
+        "talk",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
