@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-152-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -243,6 +243,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Harshdev10"><img src="https://avatars.githubusercontent.com/u/98008274?v=4?s=100" width="100px;" alt="HarshDev Tripathi"/><br /><sub><b>HarshDev Tripathi</b></sub></a><br /><a href="#question-Harshdev10" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AHarshdev10" title="Bug reports">🐛</a> <a href="#design-Harshdev10" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Harshdev10" title="Code">💻</a> <a href="#ideas-Harshdev10" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-Harshdev10" title="Mentoring">🧑‍🏫</a> <a href="#platform-Harshdev10" title="Packaging/porting to new platform">📦</a> <a href="#plugin-Harshdev10" title="Plugin/utility libraries">🔌</a> <a href="#projectManagement-Harshdev10" title="Project Management">📆</a> <a href="#research-Harshdev10" title="Research">🔬</a> <a href="#security-Harshdev10" title="Security">🛡️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Harshdev10" title="Tests">⚠️</a> <a href="#tool-Harshdev10" title="Tools">🔧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://suryakant-kumar.netlify.app/"><img src="https://avatars.githubusercontent.com/u/66691162?v=4?s=100" width="100px;" alt="Suryakant Kumar"/><br /><sub><b>Suryakant Kumar</b></sub></a><br /><a href="#question-IM-Suryakant-Kumar" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AIM-Suryakant-Kumar" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/skottchen"><img src="https://avatars.githubusercontent.com/u/96890985?v=4?s=100" width="100px;" alt="Scott Chen"/><br /><sub><b>Scott Chen</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=skottchen" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YoungGunner14"><img src="https://avatars.githubusercontent.com/u/111215858?v=4?s=100" width="100px;" alt="YoungGunner14"/><br /><sub><b>YoungGunner14</b></sub></a><br /><a href="#promotion-YoungGunner14" title="Promotion">📣</a></td>
     </tr>
   </tbody>
   <tfoot>
