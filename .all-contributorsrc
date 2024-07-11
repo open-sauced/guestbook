@@ -2331,6 +2331,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "shubham-singh-748",
+      "name": "Shubham Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88304238?v=4",
+      "profile": "https://github.com/shubham-singh-748",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
