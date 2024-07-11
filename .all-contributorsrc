@@ -2331,6 +2331,19 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mrcentimetre",
+      "name": "Udana Nimsara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74942413?v=4",
+      "profile": "https://github.com/mrcentimetre",
+      "contributions": [
+        "question",
+        "code",
+        "eventOrganizing",
+        "example",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
