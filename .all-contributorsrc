@@ -2359,6 +2359,16 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "Kratosgado",
+      "name": "Prince Mbeah Essilfie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93322394?v=4",
+      "profile": "https://github.com/Kratosgado",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
