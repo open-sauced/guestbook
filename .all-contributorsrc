@@ -2359,6 +2359,17 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "sreeharsha-rav",
+      "name": "Sreeharsha Raveendra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23069128?v=4",
+      "profile": "https://sreeharsha.vercel.app/",
+      "contributions": [
+        "question",
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
