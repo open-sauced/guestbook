@@ -2359,6 +2359,24 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "ToniBirat7",
+      "name": "Birat Gautam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129147501?v=4",
+      "profile": "https://github.com/ToniBirat7",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "doc",
+        "maintenance",
+        "mentoring",
+        "research",
+        "review",
+        "tutorial",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
