@@ -9,6 +9,8 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
+
+  
   "contributors": [
     {
       "login": "tejasq",
