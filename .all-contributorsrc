@@ -2359,6 +2359,16 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "gitFerdo",
+      "name": "W A T Amasha Fernando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143680645?v=4",
+      "profile": "https://github.com/gitFerdo",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
