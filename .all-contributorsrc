@@ -2359,6 +2359,16 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "aysh34",
+      "name": "Ayesha Saleem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134167523?v=4",
+      "profile": "https://github.com/aysh34",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
