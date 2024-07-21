@@ -2359,6 +2359,15 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "Izuchii",
+      "name": "Izundu Chinonso Emmanuel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76496886?v=4",
+      "profile": "https://github.com/Izuchii",
+      "contributions": [
+        "question",
+        "bug"]
     }
   ],
   "contributorsPerLine": 7,
