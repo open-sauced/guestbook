@@ -2359,6 +2359,19 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "jurmy24",
+      "name": "Victor Oldensand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21913954?v=4",
+      "profile": "https://github.com/jurmy24",
+      "contributions": [
+        "bug",
+        "data",
+        "doc",
+        "ideas",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
