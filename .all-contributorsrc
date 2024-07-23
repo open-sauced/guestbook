@@ -2359,6 +2359,16 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "smoggydesire",
+      "name": "Borcila Vasile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121198710?v=4",
+      "profile": "https://github.com/smoggydesire",
+      "contributions": [
+        "bug",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
