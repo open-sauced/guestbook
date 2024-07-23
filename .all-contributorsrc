@@ -2359,6 +2359,15 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "khalid",
+      "name": "khalid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29549755?v=4",
+      "profile": "https://github.com/khalid",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
