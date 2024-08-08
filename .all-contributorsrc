@@ -2387,6 +2387,16 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "chufenghuang",
+      "name": "Chufeng Huang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30775012?v=4",
+      "profile": "https://github.com/chufenghuang",
+      "contributions": [
+        "content",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
