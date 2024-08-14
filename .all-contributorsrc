@@ -2387,6 +2387,16 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "Wisdom",
+      "name": "Wisdom - Product Experience Platform",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26641369?v=4",
+      "profile": "https://getwisdom.io/",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
