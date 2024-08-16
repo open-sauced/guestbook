@@ -2387,6 +2387,18 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "Alfred-Emmanuel",
+      "name": "Alfred Emmanuel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30597226?v=4",
+      "profile": "https://github.com/Alfred-Emmanuel",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
