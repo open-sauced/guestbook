@@ -2387,6 +2387,16 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "kristiingco",
+      "name": "Kristi Ingco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22206542?v=4",
+      "profile": "https://github.com/kristiingco",
+      "contributions": [
+        "bug",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
