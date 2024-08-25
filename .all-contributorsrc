@@ -2397,8 +2397,10 @@
         "code",
         "content",
         "doc",
-        "mobile",
-        "research"
+        "research",
+        "tutorial",
+        "ideas",
+        "userTesting"
       ]
     }
   ],

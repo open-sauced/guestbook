@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-155-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-156-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -248,6 +248,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rubin-r12"><img src="https://avatars.githubusercontent.com/u/13391264?v=4?s=100" width="100px;" alt="Rubin"/><br /><sub><b>Rubin</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=rubin-r12" title="Code">💻</a> <a href="#data-rubin-r12" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=rubin-r12" title="Documentation">📖</a> <a href="#mentoring-rubin-r12" title="Mentoring">🧑‍🏫</a> <a href="#promotion-rubin-r12" title="Promotion">📣</a> <a href="#research-rubin-r12" title="Research">🔬</a> <a href="#tutorial-rubin-r12" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hokagedemehin"><img src="https://avatars.githubusercontent.com/u/16826624?v=4?s=100" width="100px;" alt="Ibukun Demehin"/><br /><sub><b>Ibukun Demehin</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hokagedemehin" title="Code">💻</a> <a href="#content-hokagedemehin" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hokagedemehin" title="Documentation">📖</a> <a href="#research-hokagedemehin" title="Research">🔬</a> <a href="#tutorial-hokagedemehin" title="Tutorials">✅</a> <a href="#ideas-hokagedemehin" title="Ideas, Planning, & Feedback">🤔</a> <a href="#userTesting-hokagedemehin" title="User Testing">📓</a></td>
     </tr>
   </tbody>
   <tfoot>
