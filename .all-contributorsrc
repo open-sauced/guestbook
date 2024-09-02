@@ -2387,6 +2387,16 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "favourachara07",
+      "name": "Favour Achara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117769291?v=4",
+      "profile": "https://favour-achara.vercel.app/",
+      "contributions": [
+        "blog",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
