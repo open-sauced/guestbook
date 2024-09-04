@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-169-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-170-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -266,6 +266,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kristiingco"><img src="https://avatars.githubusercontent.com/u/22206542?v=4?s=100" width="100px;" alt="Kristi Ingco"/><br /><sub><b>Kristi Ingco</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Akristiingco" title="Bug reports">🐛</a> <a href="#userTesting-kristiingco" title="User Testing">📓</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/puneet-khatri"><img src="https://avatars.githubusercontent.com/u/119019771?v=4?s=100" width="100px;" alt="Puneet khatri"/><br /><sub><b>Puneet khatri</b></sub></a><br /><a href="#question-puneet-khatri" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Apuneet-khatri" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>

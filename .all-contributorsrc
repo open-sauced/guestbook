@@ -2564,6 +2564,16 @@
         "bug",
         "userTesting"
       ]
+    },
+    {
+      "login": "puneet-khatri",
+      "name": "Puneet khatri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119019771?v=4",
+      "profile": "https://github.com/puneet-khatri",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
