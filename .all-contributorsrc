@@ -2324,6 +2324,93 @@
       ]
     },
     {
+      "login": "skottchen",
+      "name": "Scott Chen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96890985?v=4",
+      "profile": "https://github.com/skottchen",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "enamcse",
+      "name": "Enamul Hassan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1696846?v=4",
+      "profile": "https://github.com/enamcse",
+      "contributions": [
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "fundingFinding",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "research",
+        "security",
+        "talk",
+        "tutorial",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "jurmy24",
+      "name": "Victor Oldensand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21913954?v=4",
+      "profile": "https://github.com/jurmy24",
+      "contributions": [
+        "bug",
+        "data",
+        "doc",
+        "ideas",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "rubin-r12",
+      "name": "Rubin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13391264?v=4",
+      "profile": "https://github.com/rubin-r12",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "mentoring",
+        "promotion",
+        "research",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ehsanullahhaidary",
+      "name": "Ehsanullah Haidary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74910020?v=4",
+      "profile": "https://ehsanullah.vercel.app/",
+      "contributions": [
+        "bug",
+        "code",
+        "design",
+        "doc"
+      ]
+    },
+    {
+      "login": "favourachara07",
+      "name": "Favour Achara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117769291?v=4",
+      "profile": "https://favour-achara.vercel.app/",
+      "contributions": [
+        "blog",
+        "ideas"
+      ]
+    },
+    {
       "login": "hediyetapan",
       "name": "hediyetapan",
       "avatar_url": "https://avatars.githubusercontent.com/u/124393229?v=4",
