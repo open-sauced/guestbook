@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-161-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-162-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -254,6 +254,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/badxcode"><img src="https://avatars.githubusercontent.com/u/80211467?v=4?s=100" width="100px;" alt="Jahid Imran"/><br /><sub><b>Jahid Imran</b></sub></a><br /><a href="#question-badxcode" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Abadxcode" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=badxcode" title="Code">💻</a> <a href="#data-badxcode" title="Data">🔣</a> <a href="#example-badxcode" title="Examples">💡</a> <a href="#research-badxcode" title="Research">🔬</a> <a href="#security-badxcode" title="Security">🛡️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=badxcode" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MarcellaHarr"><img src="https://avatars.githubusercontent.com/u/4366989?v=4?s=100" width="100px;" alt="Marcella Harris"/><br /><sub><b>Marcella Harris</b></sub></a><br /><a href="#content-MarcellaHarr" title="Content">🖋</a> <a href="#data-MarcellaHarr" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=MarcellaHarr" title="Documentation">📖</a> <a href="#ideas-MarcellaHarr" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-MarcellaHarr" title="Research">🔬</a> <a href="#userTesting-MarcellaHarr" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Alfred-Emmanuel"><img src="https://avatars.githubusercontent.com/u/30597226?v=4?s=100" width="100px;" alt="Alfred Emmanuel"/><br /><sub><b>Alfred Emmanuel</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AAlfred-Emmanuel" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Alfred-Emmanuel" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Alfred-Emmanuel" title="Documentation">📖</a> <a href="#maintenance-Alfred-Emmanuel" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Vamsi-344"><img src="https://avatars.githubusercontent.com/u/82080571?v=4?s=100" width="100px;" alt="Vamsi Krishna Sethu"/><br /><sub><b>Vamsi Krishna Sethu</b></sub></a><br /><a href="#a11y-Vamsi-344" title="Accessibility">️️️️♿️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Vamsi-344" title="Code">💻</a> <a href="#content-Vamsi-344" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Vamsi-344" title="Documentation">📖</a> <a href="#example-Vamsi-344" title="Examples">💡</a> <a href="#ideas-Vamsi-344" title="Ideas, Planning, & Feedback">🤔</a> <a href="#platform-Vamsi-344" title="Packaging/porting to new platform">📦</a> <a href="#research-Vamsi-344" title="Research">🔬</a> <a href="#tutorial-Vamsi-344" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
