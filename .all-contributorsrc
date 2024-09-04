@@ -2506,6 +2506,17 @@
         "doc",
         "security"
       ]
+    },
+    {
+      "login": "MayankChandratre1",
+      "name": "CHANDRATRE MAYANK MANDAR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147478788?v=4",
+      "profile": "https://github.com/MayankChandratre1",
+      "contributions": [
+        "bug",
+        "code",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
