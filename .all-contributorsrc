@@ -2387,6 +2387,18 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "ehsanullahhaidary",
+      "name": "Ehsanullah Haidary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74910020?v=4",
+      "profile": "https://ehsanullah.vercel.app/",
+      "contributions": [
+        "bug",
+        "code",
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
