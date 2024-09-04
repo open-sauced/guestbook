@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-168-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-169-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -263,6 +263,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shubham-singh-748"><img src="https://avatars.githubusercontent.com/u/88304238?v=4?s=100" width="100px;" alt="Shubham Kumar"/><br /><sub><b>Shubham Kumar</b></sub></a><br /><a href="#question-shubham-singh-748" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ashubham-singh-748" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/YoungGunner14"><img src="https://avatars.githubusercontent.com/u/111215858?v=4?s=100" width="100px;" alt="YoungGunner14"/><br /><sub><b>YoungGunner14</b></sub></a><br /><a href="#promotion-YoungGunner14" title="Promotion">📣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ToniBirat7"><img src="https://avatars.githubusercontent.com/u/129147501?v=4?s=100" width="100px;" alt="Birat Gautam"/><br /><sub><b>Birat Gautam</b></sub></a><br /><a href="#a11y-ToniBirat7" title="Accessibility">️️️️♿️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AToniBirat7" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ToniBirat7" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ToniBirat7" title="Documentation">📖</a> <a href="#maintenance-ToniBirat7" title="Maintenance">🚧</a> <a href="#mentoring-ToniBirat7" title="Mentoring">🧑‍🏫</a> <a href="#research-ToniBirat7" title="Research">🔬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3AToniBirat7" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-ToniBirat7" title="Tutorials">✅</a> <a href="#video-ToniBirat7" title="Videos">📹</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kristiingco"><img src="https://avatars.githubusercontent.com/u/22206542?v=4?s=100" width="100px;" alt="Kristi Ingco"/><br /><sub><b>Kristi Ingco</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Akristiingco" title="Bug reports">🐛</a> <a href="#userTesting-kristiingco" title="User Testing">📓</a></td>
     </tr>
   </tbody>
   <tfoot>
