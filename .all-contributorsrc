@@ -2477,6 +2477,21 @@
         "research",
         "tutorial"
       ]
+    },
+    {
+      "login": "hokagedemehin",
+      "name": "Ibukun Demehin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16826624?v=4",
+      "profile": "https://github.com/hokagedemehin",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "research",
+        "tutorial",
+        "ideas",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
