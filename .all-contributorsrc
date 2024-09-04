@@ -2434,6 +2434,20 @@
         "security",
         "test"
       ]
+    },
+    {
+      "login": "MarcellaHarr",
+      "name": "Marcella Harris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4366989?v=4",
+      "profile": "https://github.com/MarcellaHarr",
+      "contributions": [
+        "content",
+        "data",
+        "doc",
+        "ideas",
+        "research",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
