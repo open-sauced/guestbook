@@ -2418,6 +2418,22 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "badxcode",
+      "name": "Jahid Imran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80211467?v=4",
+      "profile": "https://github.com/badxcode",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "data",
+        "example",
+        "research",
+        "security",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,

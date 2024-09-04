@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-158-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-159-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -251,6 +251,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://ehsanullah.vercel.app/"><img src="https://avatars.githubusercontent.com/u/74910020?v=4?s=100" width="100px;" alt="Ehsanullah Haidary"/><br /><sub><b>Ehsanullah Haidary</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aehsanullahhaidary" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ehsanullahhaidary" title="Code">💻</a> <a href="#design-ehsanullahhaidary" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ehsanullahhaidary" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://favour-achara.vercel.app/"><img src="https://avatars.githubusercontent.com/u/117769291?v=4?s=100" width="100px;" alt="Favour Achara"/><br /><sub><b>Favour Achara</b></sub></a><br /><a href="#blog-favourachara07" title="Blogposts">📝</a> <a href="#ideas-favourachara07" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hediyetapan"><img src="https://avatars.githubusercontent.com/u/124393229?v=4?s=100" width="100px;" alt="hediyetapan"/><br /><sub><b>hediyetapan</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hediyetapan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/badxcode"><img src="https://avatars.githubusercontent.com/u/80211467?v=4?s=100" width="100px;" alt="Jahid Imran"/><br /><sub><b>Jahid Imran</b></sub></a><br /><a href="#question-badxcode" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Abadxcode" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=badxcode" title="Code">💻</a> <a href="#data-badxcode" title="Data">🔣</a> <a href="#example-badxcode" title="Examples">💡</a> <a href="#research-badxcode" title="Research">🔬</a> <a href="#security-badxcode" title="Security">🛡️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=badxcode" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>
