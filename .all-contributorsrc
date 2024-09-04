@@ -2492,6 +2492,20 @@
         "ideas",
         "userTesting"
       ]
+    },
+    {
+      "login": "Id8987",
+      "name": "Issakha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86847694?v=4",
+      "profile": "https://github.com/Id8987",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "security"
+      ]
     }
   ],
   "contributorsPerLine": 7,
