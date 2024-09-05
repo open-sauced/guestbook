@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-172-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-173-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -269,6 +269,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/puneet-khatri"><img src="https://avatars.githubusercontent.com/u/119019771?v=4?s=100" width="100px;" alt="Puneet khatri"/><br /><sub><b>Puneet khatri</b></sub></a><br /><a href="#question-puneet-khatri" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Apuneet-khatri" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Izuchii"><img src="https://avatars.githubusercontent.com/u/76496886?v=4?s=100" width="100px;" alt="Izundu Chinonso Emmanuel"/><br /><sub><b>Izundu Chinonso Emmanuel</b></sub></a><br /><a href="#content-Izuchii" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Izuchii" title="Tests">⚠️</a> <a href="#tutorial-Izuchii" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gitFerdo"><img src="https://avatars.githubusercontent.com/u/143680645?v=4?s=100" width="100px;" alt="W A T Amasha Fernando"/><br /><sub><b>W A T Amasha Fernando</b></sub></a><br /><a href="#question-gitFerdo" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AgitFerdo" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/fahimaljadid/"><img src="https://avatars.githubusercontent.com/u/74662856?v=4?s=100" width="100px;" alt="Fahim Al Jadid"/><br /><sub><b>Fahim Al Jadid</b></sub></a><br /><a href="#question-FahimJadid" title="Answering Questions">💬</a> <a href="#blog-FahimJadid" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AFahimJadid" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=FahimJadid" title="Code">💻</a> <a href="#content-FahimJadid" title="Content">🖋</a> <a href="#data-FahimJadid" title="Data">🔣</a> <a href="#design-FahimJadid" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=FahimJadid" title="Documentation">📖</a> <a href="#example-FahimJadid" title="Examples">💡</a> <a href="#userTesting-FahimJadid" title="User Testing">📓</a></td>
     </tr>
   </tbody>
   <tfoot>
