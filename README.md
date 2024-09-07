@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-173-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-174-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -270,6 +270,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Izuchii"><img src="https://avatars.githubusercontent.com/u/76496886?v=4?s=100" width="100px;" alt="Izundu Chinonso Emmanuel"/><br /><sub><b>Izundu Chinonso Emmanuel</b></sub></a><br /><a href="#content-Izuchii" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Izuchii" title="Tests">⚠️</a> <a href="#tutorial-Izuchii" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gitFerdo"><img src="https://avatars.githubusercontent.com/u/143680645?v=4?s=100" width="100px;" alt="W A T Amasha Fernando"/><br /><sub><b>W A T Amasha Fernando</b></sub></a><br /><a href="#question-gitFerdo" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AgitFerdo" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/terry"><img src="https://avatars.githubusercontent.com/u/32106?v=4?s=100" width="100px;" alt="terry"/><br /><sub><b>terry</b></sub></a><br /><a href="#question-terry" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aterry" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/stop1204"><img src="https://avatars.githubusercontent.com/u/5403800?v=4?s=100" width="100px;" alt="Terry.He"/><br /><sub><b>Terry.He</b></sub></a><br /><a href="#question-stop1204" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Astop1204" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=stop1204" title="Code">💻</a> <a href="#content-stop1204" title="Content">🖋</a> <a href="#design-stop1204" title="Design">🎨</a></td>
     </tr>
   </tbody>
   <tfoot>
