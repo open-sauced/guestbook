@@ -2595,6 +2595,19 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "gwslingerland",
+      "name": "G.W. Slingerland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181261797?v=4",
+      "profile": "https://github.com/gwslingerland",
+      "contributions": [
+        "code",
+        "data",
+        "financial",
+        "translation",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
