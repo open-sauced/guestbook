@@ -2595,6 +2595,15 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "anka-afk",
+      "name": "anka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110004162?v=4",
+      "profile": "https://github.com/anka-afk",
+      "contributions": [
+        "a11y"
+      ]
     }
   ],
   "contributorsPerLine": 7,
