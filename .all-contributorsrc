@@ -2360,7 +2360,7 @@
         "userTesting"
       ]
     },
-     { 
+    {
       "login": "mrcentimetre",
       "name": "Udana Nimsara",
       "avatar_url": "https://avatars.githubusercontent.com/u/74942413?v=4",
@@ -2370,9 +2370,12 @@
         "code",
         "eventOrganizing",
         "example",
-        "review"
+        "review",
+        "bug",
+        "translation",
+        "tutorial"
       ]
-     },
+    },
     {
       "login": "jurmy24",
       "name": "Victor Oldensand",
