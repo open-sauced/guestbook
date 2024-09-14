@@ -2642,6 +2642,15 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "shubhamchasing",
+      "name": "Shubham Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106425076?v=4",
+      "profile": "https://github.com/shubhamchasing",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-176-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-177-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -275,6 +275,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/CynthiaWahome"><img src="https://avatars.githubusercontent.com/u/160864573?v=4?s=100" width="100px;" alt="Cynthia"/><br /><sub><b>Cynthia</b></sub></a><br /><a href="#question-CynthiaWahome" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ACynthiaWahome" title="Bug reports">🐛</a> <a href="#content-CynthiaWahome" title="Content">🖋</a> <a href="#eventOrganizing-CynthiaWahome" title="Event Organizing">📋</a> <a href="#ideas-CynthiaWahome" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-CynthiaWahome" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shubhamchasing"><img src="https://avatars.githubusercontent.com/u/106425076?v=4?s=100" width="100px;" alt="Shubham Sharma"/><br /><sub><b>Shubham Sharma</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=shubhamchasing" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
