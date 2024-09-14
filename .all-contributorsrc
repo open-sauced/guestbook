@@ -2597,6 +2597,39 @@
       ]
     },
     {
+      "login": "jas1005",
+      "name": "Jacob Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47190660?v=4",
+      "profile": "https://github.com/jas1005",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "max-deathray",
+      "name": "McRae Petrey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5431769?v=4",
+      "profile": "https://github.com/max-deathray",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "stop1204",
+      "name": "Terry.He",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5403800?v=4",
+      "profile": "https://github.com/stop1204",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "design"
+      ]
+    },
+    {
       "login": "CynthiaWahome",
       "name": "Cynthia",
       "avatar_url": "https://avatars.githubusercontent.com/u/160864573?v=4",
