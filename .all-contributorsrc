@@ -2628,6 +2628,20 @@
         "content",
         "design"
       ]
+    },
+    {
+      "login": "CynthiaWahome",
+      "name": "Cynthia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160864573?v=4",
+      "profile": "https://github.com/CynthiaWahome",
+      "contributions": [
+        "question",
+        "bug",
+        "content",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
