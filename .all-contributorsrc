@@ -2615,6 +2615,19 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "stop1204",
+      "name": "Terry.He",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5403800?v=4",
+      "profile": "https://github.com/stop1204",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
