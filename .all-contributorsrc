@@ -2667,6 +2667,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "WybsonSantana",
+      "name": "Wybson Santana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83105564?v=4",
+      "profile": "https://www.linkedin.com/in/WybsonSantana/",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
