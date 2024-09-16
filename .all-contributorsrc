@@ -2374,6 +2374,22 @@
       ]
     },
     {
+      "login": "zairacodes",
+      "name": "Zaira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163322374?v=4",
+      "profile": "https://github.com/zairacodes",
+      "contributions": [
+        "a11y",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "review",
+        "translation",
+        "userTesting"
+      ]
+    },
+    {
       "login": "rubin-r12",
       "name": "Rubin",
       "avatar_url": "https://avatars.githubusercontent.com/u/13391264?v=4",
