@@ -2667,6 +2667,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Zier0Code",
+      "name": "Zier0Code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123611760?v=4",
+      "profile": "https://github.com/Zier0Code",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
