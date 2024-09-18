@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-178-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-179-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -277,6 +277,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/stop1204"><img src="https://avatars.githubusercontent.com/u/5403800?v=4?s=100" width="100px;" alt="Terry.He"/><br /><sub><b>Terry.He</b></sub></a><br /><a href="#question-stop1204" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Astop1204" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=stop1204" title="Code">💻</a> <a href="#content-stop1204" title="Content">🖋</a> <a href="#design-stop1204" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/CynthiaWahome"><img src="https://avatars.githubusercontent.com/u/160864573?v=4?s=100" width="100px;" alt="Cynthia"/><br /><sub><b>Cynthia</b></sub></a><br /><a href="#question-CynthiaWahome" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ACynthiaWahome" title="Bug reports">🐛</a> <a href="#content-CynthiaWahome" title="Content">🖋</a> <a href="#eventOrganizing-CynthiaWahome" title="Event Organizing">📋</a> <a href="#ideas-CynthiaWahome" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-CynthiaWahome" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shubhamchasing"><img src="https://avatars.githubusercontent.com/u/106425076?v=4?s=100" width="100px;" alt="Shubham Sharma"/><br /><sub><b>Shubham Sharma</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=shubhamchasing" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://michal-nithesh.github.io/"><img src="https://avatars.githubusercontent.com/u/151201789?v=4?s=100" width="100px;" alt="Michal Nithesh"/><br /><sub><b>Michal Nithesh</b></sub></a><br /><a href="#question-Michal-Nithesh" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Michal-Nithesh" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Michal-Nithesh" title="Documentation">📖</a> <a href="#eventOrganizing-Michal-Nithesh" title="Event Organizing">📋</a> <a href="#example-Michal-Nithesh" title="Examples">💡</a> <a href="#ideas-Michal-Nithesh" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
   <tfoot>
