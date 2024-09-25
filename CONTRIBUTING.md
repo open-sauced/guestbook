@@ -2,7 +2,7 @@
 
 This repository is part of our [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/). We recommend you to take and complete the course before you contribute to this repository.
 
-Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions below:
+Contributions are always welcome, no matter how large or small. Before you begin, please read our [Code of Conduct](https://opensauced.pizza/docs/contributing/code-of-conduct/) and follow the directions below:
 
 ## Recommended Communication Style
 
