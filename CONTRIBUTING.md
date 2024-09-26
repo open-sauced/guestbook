@@ -13,11 +13,10 @@ Contributions are always welcome, no matter how large or small. Before you begin
 
 ## Issues
 
-If you wish to work on an open issue, please comment on the issue with `.take` and it will be assigned to you. If an issue is not assigned, it is assumed to be open for anyone to work on. Please assign yourself to an issue before beginning work on it to avoid conflicts.
+- Issues with the `needs triage` label are unavailable until they are triaged and the label is removed. Feel free to check on the issue regularly if you want to work on it.
+- If you wish to work on an open issue, you can comment on it and tag `@open-sauced/docs`. Please refrain from working on an issue before it's assigned to you.
 
-If you are contributing to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/intro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
-
-In case you get stuck, please feel free to ask for help in the [Intro to Contributing discussion](https://github.com/orgs/open-sauced/discussions/34).
+In case you get stuck, feel free to ask for help in the [discussion](https://github.com/open-sauced/guestbook/discussions/categories/q-a).
 
 ## Getting Started
 
