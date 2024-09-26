@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-180-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-181-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -279,6 +279,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shubhamchasing"><img src="https://avatars.githubusercontent.com/u/106425076?v=4?s=100" width="100px;" alt="Shubham Sharma"/><br /><sub><b>Shubham Sharma</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=shubhamchasing" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/WybsonSantana/"><img src="https://avatars.githubusercontent.com/u/83105564?v=4?s=100" width="100px;" alt="Wybson Santana"/><br /><sub><b>Wybson Santana</b></sub></a><br /><a href="#tutorial-WybsonSantana" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zier0Code"><img src="https://avatars.githubusercontent.com/u/123611760?v=4?s=100" width="100px;" alt="Zier0Code"/><br /><sub><b>Zier0Code</b></sub></a><br /><a href="#question-Zier0Code" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AZier0Code" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/smoggydesire"><img src="https://avatars.githubusercontent.com/u/121198710?v=4?s=100" width="100px;" alt="Borcila Vasile"/><br /><sub><b>Borcila Vasile</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Asmoggydesire" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=smoggydesire" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
