@@ -2696,6 +2696,16 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "SoufianeJm",
+      "name": "Soufiane Joumal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53524105?v=4",
+      "profile": "https://joumalsoufiane.me/",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
