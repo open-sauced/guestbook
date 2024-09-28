@@ -2696,6 +2696,16 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "MehediMubin",
+      "name": "Md. Mehedi Hasan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53508562?v=4",
+      "profile": "https://github.com/MehediMubin",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
