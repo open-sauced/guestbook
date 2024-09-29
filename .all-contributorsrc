@@ -2706,6 +2706,19 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "KarmaVanshi",
+      "name": "Rakesh Kumar Das Kathabaniya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117932134?v=4",
+      "profile": "https://github.com/KarmaVanshi",
+      "contributions": [
+        "question",
+        "code",
+        "ideas",
+        "research",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
