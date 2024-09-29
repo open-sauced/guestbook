@@ -2696,6 +2696,19 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "MadAvidCoder",
+      "name": "David Ma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183250896?v=4",
+      "profile": "https://github.com/MadAvidCoder",
+      "contributions": [
+        "question",
+        "code",
+        "projectManagement",
+        "research",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
