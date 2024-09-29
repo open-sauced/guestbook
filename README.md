@@ -1,4 +1,4 @@
-cd<div align="center">
+<div align="center">
   <br>
   <img alt="OpenSauced" src="https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png">
   <h1>🍕 Guestbook 🍕</h1>
