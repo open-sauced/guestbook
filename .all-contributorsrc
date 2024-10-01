@@ -2696,6 +2696,22 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "ChinmayBagad",
+      "name": "Chinmay@234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117026366?v=4",
+      "profile": "https://github.com/ChinmayBagad",
+      "contributions": [
+        "code",
+        "financial",
+        "ideas",
+        "infra",
+        "promotion",
+        "talk",
+        "tutorial",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
