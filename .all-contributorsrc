@@ -2696,7 +2696,17 @@
         "bug",
         "code"
       ]
-    }
+    },    
+    {
+      "login": "uozcan12",
+      "name": "uozcan12",
+      "avatar_url": "https://avatars.githubusercontent.com/uozcan12",
+      "profile": "https://github.com/uozcan12",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
