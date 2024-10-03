@@ -36,7 +36,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-182-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-183-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -281,6 +281,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zier0Code"><img src="https://avatars.githubusercontent.com/u/123611760?v=4?s=100" width="100px;" alt="Zier0Code"/><br /><sub><b>Zier0Code</b></sub></a><br /><a href="#question-Zier0Code" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AZier0Code" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/smoggydesire"><img src="https://avatars.githubusercontent.com/u/121198710?v=4?s=100" width="100px;" alt="Borcila Vasile"/><br /><sub><b>Borcila Vasile</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Asmoggydesire" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=smoggydesire" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/allanoguis"><img src="https://avatars.githubusercontent.com/u/9820776?v=4?s=100" width="100px;" alt="///\).tkn"/><br /><sub><b>///\).tkn</b></sub></a><br /><a href="#question-allanoguis" title="Answering Questions">💬</a> <a href="#example-allanoguis" title="Examples">💡</a> <a href="#ideas-allanoguis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-allanoguis" title="Translation">🌍</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://pedaars.co.uk/"><img src="https://avatars.githubusercontent.com/u/11647950?v=4?s=100" width="100px;" alt="Aaron Pedwell"/><br /><sub><b>Aaron Pedwell</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pedaars" title="Documentation">📖</a> <a href="#example-pedaars" title="Examples">💡</a> <a href="#maintenance-pedaars" title="Maintenance">🚧</a> <a href="#tutorial-pedaars" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
