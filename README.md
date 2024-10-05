@@ -29,9 +29,7 @@ Hungry for more contributions? Check out our [pizza-verse](https://github.com/op
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow our [Contributing Guidelines](CONTRIBUTING.md) for contributing.
 
-- **Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md).
-
-- **Translations**: If you want to translate the [README](README.md) and other necessary parts of this repo, check out our [Translations Guidelines](i18n-guidelines.md).
+**Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md).
 
 ## All Contributors
 
