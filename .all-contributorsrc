@@ -2708,6 +2708,24 @@
         "ideas",
         "translation"
       ]
+    },
+    {
+      "login": "Harshh18",
+      "name": "Harsh Khandelwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100986926?v=4",
+      "profile": "https://harshh18.github.io/Portfolio-Website/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "maintenance",
+        "projectManagement",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
