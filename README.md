@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-187-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-188-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -286,6 +286,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://joumalsoufiane.me/"><img src="https://avatars.githubusercontent.com/u/53524105?v=4?s=100" width="100px;" alt="Soufiane Joumal"/><br /><sub><b>Soufiane Joumal</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SoufianeJm" title="Code">💻</a> <a href="#design-SoufianeJm" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MehediMubin"><img src="https://avatars.githubusercontent.com/u/53508562?v=4?s=100" width="100px;" alt="Md. Mehedi Hasan"/><br /><sub><b>Md. Mehedi Hasan</b></sub></a><br /><a href="#question-MehediMubin" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMehediMubin" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ekastn"><img src="https://avatars.githubusercontent.com/u/118880703?v=4?s=100" width="100px;" alt="eka"/><br /><sub><b>eka</b></sub></a><br /><a href="#question-ekastn" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aekastn" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://pedaars.co.uk/"><img src="https://avatars.githubusercontent.com/u/11647950?v=4?s=100" width="100px;" alt="Aaron Pedwell"/><br /><sub><b>Aaron Pedwell</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pedaars" title="Documentation">📖</a> <a href="#example-pedaars" title="Examples">💡</a> <a href="#maintenance-pedaars" title="Maintenance">🚧</a> <a href="#tutorial-pedaars" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
