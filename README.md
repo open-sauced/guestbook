@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-184-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-185-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -283,6 +283,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/allanoguis"><img src="https://avatars.githubusercontent.com/u/9820776?v=4?s=100" width="100px;" alt="///\).tkn"/><br /><sub><b>///\).tkn</b></sub></a><br /><a href="#question-allanoguis" title="Answering Questions">💬</a> <a href="#example-allanoguis" title="Examples">💡</a> <a href="#ideas-allanoguis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-allanoguis" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/franklinjpt"><img src="https://avatars.githubusercontent.com/u/61480925?v=4?s=100" width="100px;" alt="Franklin Pineda"/><br /><sub><b>Franklin Pineda</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Afranklinjpt" title="Bug reports">🐛</a> <a href="#translation-franklinjpt" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://joumalsoufiane.me/"><img src="https://avatars.githubusercontent.com/u/53524105?v=4?s=100" width="100px;" alt="Soufiane Joumal"/><br /><sub><b>Soufiane Joumal</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SoufianeJm" title="Code">💻</a> <a href="#design-SoufianeJm" title="Design">🎨</a></td>
     </tr>
   </tbody>
   <tfoot>
