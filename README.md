@@ -29,14 +29,12 @@ Hungry for more contributions? Check out our [pizza-verse](https://github.com/op
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow our [Contributing Guidelines](CONTRIBUTING.md) for contributing.
 
-- **Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md).
-
-- **Translations**: If you want to translate the [README](README.md) and other necessary parts of this repo, check out our [Translations Guidelines](i18n-guidelines.md).
+**Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md).
 
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-183-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-188-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -280,9 +278,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/WybsonSantana/"><img src="https://avatars.githubusercontent.com/u/83105564?v=4?s=100" width="100px;" alt="Wybson Santana"/><br /><sub><b>Wybson Santana</b></sub></a><br /><a href="#tutorial-WybsonSantana" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zier0Code"><img src="https://avatars.githubusercontent.com/u/123611760?v=4?s=100" width="100px;" alt="Zier0Code"/><br /><sub><b>Zier0Code</b></sub></a><br /><a href="#question-Zier0Code" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AZier0Code" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/smoggydesire"><img src="https://avatars.githubusercontent.com/u/121198710?v=4?s=100" width="100px;" alt="Borcila Vasile"/><br /><sub><b>Borcila Vasile</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Asmoggydesire" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=smoggydesire" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/allanoguis"><img src="https://avatars.githubusercontent.com/u/9820776?v=4?s=100" width="100px;" alt="///\).tkn"/><br /><sub><b>///\).tkn</b></sub></a><br /><a href="#question-allanoguis" title="Answering Questions">💬</a> <a href="#example-allanoguis" title="Examples">💡</a> <a href="#ideas-allanoguis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-allanoguis" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MadAvidCoder"><img src="https://avatars.githubusercontent.com/u/183250896?v=4?s=100" width="100px;" alt="David Ma"/><br /><sub><b>David Ma</b></sub></a><br /><a href="#question-MadAvidCoder" title="Answering Questions">💬</a> <a href="#userTesting-MadAvidCoder" title="User Testing">📓</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/allanoguis"><img src="https://avatars.githubusercontent.com/u/9820776?v=4?s=100" width="100px;" alt="///\).tkn"/><br /><sub><b>///\).tkn</b></sub></a><br /><a href="#question-allanoguis" title="Answering Questions">💬</a> <a href="#example-allanoguis" title="Examples">💡</a> <a href="#ideas-allanoguis" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-allanoguis" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/franklinjpt"><img src="https://avatars.githubusercontent.com/u/61480925?v=4?s=100" width="100px;" alt="Franklin Pineda"/><br /><sub><b>Franklin Pineda</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Afranklinjpt" title="Bug reports">🐛</a> <a href="#translation-franklinjpt" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://joumalsoufiane.me/"><img src="https://avatars.githubusercontent.com/u/53524105?v=4?s=100" width="100px;" alt="Soufiane Joumal"/><br /><sub><b>Soufiane Joumal</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SoufianeJm" title="Code">💻</a> <a href="#design-SoufianeJm" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MehediMubin"><img src="https://avatars.githubusercontent.com/u/53508562?v=4?s=100" width="100px;" alt="Md. Mehedi Hasan"/><br /><sub><b>Md. Mehedi Hasan</b></sub></a><br /><a href="#question-MehediMubin" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMehediMubin" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ekastn"><img src="https://avatars.githubusercontent.com/u/118880703?v=4?s=100" width="100px;" alt="eka"/><br /><sub><b>eka</b></sub></a><br /><a href="#question-ekastn" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aekastn" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://pedaars.co.uk/"><img src="https://avatars.githubusercontent.com/u/11647950?v=4?s=100" width="100px;" alt="Aaron Pedwell"/><br /><sub><b>Aaron Pedwell</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pedaars" title="Documentation">📖</a> <a href="#example-pedaars" title="Examples">💡</a> <a href="#maintenance-pedaars" title="Maintenance">🚧</a> <a href="#tutorial-pedaars" title="Tutorials">✅</a></td>
     </tr>
   </tbody>

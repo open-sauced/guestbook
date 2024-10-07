@@ -2698,6 +2698,16 @@
       ]
     },
     {
+      "login": "MadAvidCoder",
+      "name": "David Ma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183250896?v=4",
+      "profile": "https://github.com/MadAvidCoder",
+      "contributions": [
+        "question",
+        "userTesting"
+      ]
+    },
+    {
       "login": "allanoguis",
       "name": "///\\).tkn",
       "avatar_url": "https://avatars.githubusercontent.com/u/9820776?v=4",
@@ -2707,6 +2717,46 @@
         "example",
         "ideas",
         "translation"
+      ]
+    },
+    {
+      "login": "franklinjpt",
+      "name": "Franklin Pineda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61480925?v=4",
+      "profile": "https://github.com/franklinjpt",
+      "contributions": [
+        "bug",
+        "translation"
+      ]
+    },
+    {
+      "login": "SoufianeJm",
+      "name": "Soufiane Joumal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53524105?v=4",
+      "profile": "https://joumalsoufiane.me/",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "MehediMubin",
+      "name": "Md. Mehedi Hasan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53508562?v=4",
+      "profile": "https://github.com/MehediMubin",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "ekastn",
+      "name": "eka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118880703?v=4",
+      "profile": "https://github.com/ekastn",
+      "contributions": [
+        "question",
+        "bug"
       ]
     },
     {
