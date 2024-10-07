@@ -2718,6 +2718,16 @@
         "ideas",
         "translation"
       ]
+    },
+    {
+      "login": "franklinjpt",
+      "name": "Franklin Pineda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61480925?v=4",
+      "profile": "https://github.com/franklinjpt",
+      "contributions": [
+        "bug",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
