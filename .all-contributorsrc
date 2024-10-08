@@ -2789,6 +2789,18 @@
         "tutorial",
         "talk"
       ]
+    },
+    {
+      "login": "02zeda",
+      "name": "Zeth Danielsson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89939332?v=4",
+      "profile": "https://github.com/02zeda",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
