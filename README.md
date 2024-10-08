@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-189-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-190-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -288,6 +288,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ekastn"><img src="https://avatars.githubusercontent.com/u/118880703?v=4?s=100" width="100px;" alt="eka"/><br /><sub><b>eka</b></sub></a><br /><a href="#question-ekastn" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aekastn" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://pedaars.co.uk/"><img src="https://avatars.githubusercontent.com/u/11647950?v=4?s=100" width="100px;" alt="Aaron Pedwell"/><br /><sub><b>Aaron Pedwell</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=pedaars" title="Documentation">📖</a> <a href="#example-pedaars" title="Examples">💡</a> <a href="#maintenance-pedaars" title="Maintenance">🚧</a> <a href="#tutorial-pedaars" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://harshh18.github.io/Portfolio-Website/"><img src="https://avatars.githubusercontent.com/u/100986926?v=4?s=100" width="100px;" alt="Harsh Khandelwal"/><br /><sub><b>Harsh Khandelwal</b></sub></a><br /><a href="#question-Harshh18" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AHarshh18" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Harshh18" title="Code">💻</a> <a href="#content-Harshh18" title="Content">🖋</a> <a href="#data-Harshh18" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Harshh18" title="Documentation">📖</a> <a href="#maintenance-Harshh18" title="Maintenance">🚧</a> <a href="#projectManagement-Harshh18" title="Project Management">📆</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3AHarshh18" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-Harshh18" title="Tutorials">✅</a> <a href="#talk-Harshh18" title="Talks">📢</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/02zeda"><img src="https://avatars.githubusercontent.com/u/89939332?v=4?s=100" width="100px;" alt="Zeth Danielsson"/><br /><sub><b>Zeth Danielsson</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=02zeda" title="Code">💻</a> <a href="#ideas-02zeda" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-02zeda" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-02zeda" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>
