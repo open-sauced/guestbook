@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-190-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-191-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -291,6 +291,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/02zeda"><img src="https://avatars.githubusercontent.com/u/89939332?v=4?s=100" width="100px;" alt="Zeth Danielsson"/><br /><sub><b>Zeth Danielsson</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=02zeda" title="Code">💻</a> <a href="#ideas-02zeda" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-02zeda" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-02zeda" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ayamigah16"><img src="https://avatars.githubusercontent.com/u/122880578?v=4?s=100" width="100px;" alt="Abraham Ayamigah"/><br /><sub><b>Abraham Ayamigah</b></sub></a><br /><a href="#question-Ayamigah16" title="Answering Questions">💬</a> <a href="#audio-Ayamigah16" title="Audio">🔊</a> <a href="#blog-Ayamigah16" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AAyamigah16" title="Bug reports">🐛</a> <a href="#business-Ayamigah16" title="Business development">💼</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ayamigah16" title="Code">💻</a> <a href="#content-Ayamigah16" title="Content">🖋</a> <a href="#data-Ayamigah16" title="Data">🔣</a> <a href="#design-Ayamigah16" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ayamigah16" title="Documentation">📖</a> <a href="#eventOrganizing-Ayamigah16" title="Event Organizing">📋</a> <a href="#example-Ayamigah16" title="Examples">💡</a> <a href="#financial-Ayamigah16" title="Financial">💵</a> <a href="#fundingFinding-Ayamigah16" title="Funding Finding">🔍</a> <a href="#ideas-Ayamigah16" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Ayamigah16" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
   <tfoot>
