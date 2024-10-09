@@ -2801,6 +2801,30 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "Ayamigah16",
+      "name": "Abraham Ayamigah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122880578?v=4",
+      "profile": "https://github.com/Ayamigah16",
+      "contributions": [
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
