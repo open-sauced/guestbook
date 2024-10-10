@@ -291,6 +291,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/02zeda"><img src="https://avatars.githubusercontent.com/u/89939332?v=4?s=100" width="100px;" alt="Zeth Danielsson"/><br /><sub><b>Zeth Danielsson</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=02zeda" title="Code">💻</a> <a href="#ideas-02zeda" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-02zeda" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-02zeda" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pszymaniec"><img src="https://avatars.githubusercontent.com/u/95316871?v=4" width="100px;" alt="SamarMst"/><br /><sub><b>Samar Mestiri</b></sub></a><br /> <a href="https://github.com/SamarMst" title="Code">💻</a> <a href="https://github.com/SamarMst/guestbook" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
