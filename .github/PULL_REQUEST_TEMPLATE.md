@@ -1,10 +1,10 @@
 <!-- Please fill in all areas in this PR form. Incomplete PRs will be marked invalid and may be closed. -->
 
-## Description
+# Description
 
 <!--
-Please do not leave this blank
-This PR adds <github-username> as a contributor.
+Please do not leave this blank. Add your description **below** this line and **outside** of the comment tags.
+For example: This PR adds <your-github-username> as a contributor.
 -->
 
 ## What type of PR is this? (check all applicable)
@@ -15,13 +15,17 @@ This PR adds <github-username> as a contributor.
 ## Related Issues
 
 <!-- 
-Please use this format link issue numbers: Closes #123
-More information: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
+Add your related issue **below** this line and **outside** of the comment tags.
+
+Please use this format to link your issue: Closes #XXX.
+Change "XXX" to your issue number that you can find next to your issue's title.
+
+More information about linking issues: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
 -->
 
 ## Contributors Checklist
 
-### I've read through the [Getting Started](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=getting-started) section.
+### I've read through the [Getting Started](https://intro.opensauced.pizza/#/intro-to-oss/how-to-contribute-to-open-source?id=getting-started) section
 
 - [ ] ✅ Yes
 - [ ] ❌ Not yet
