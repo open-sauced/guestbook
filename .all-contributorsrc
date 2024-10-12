@@ -2811,6 +2811,18 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "SamarMst",
+      "name": "Samar_Mestiri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95316871?v=4",
+      "profile": "https://github.com/SamarMst",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "eventOrganizing"
+      ]
     }
   ],
   "contributorsPerLine": 7,
