@@ -7,6 +7,10 @@ Please do not leave this blank
 This PR adds <github-username> as a contributor.
 -->
 
+⚠️ **Important: Add your PR description outside of these comment tags.**
+
+For example: "This PR adds `your-github-username` as a contributor."
+
 ## What type of PR is this? (check all applicable)
 
 - [ ] 🤝 Add a contributor
@@ -18,6 +22,10 @@ This PR adds <github-username> as a contributor.
 Please use this format link issue numbers: Closes #123
 More information: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
 -->
+
+⚠️ **Important: Add your related issue number outside of these comment tags.**
+
+Please use the correct issue number from your pull request, not the example. Use this format to link your issue: Closes #XXX (replace XXX with your issue number).
 
 ## Contributors Checklist
 
