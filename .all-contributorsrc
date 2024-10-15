@@ -2801,6 +2801,15 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "koja-amir",
+      "name": "koja-amir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164602598?v=4",
+      "profile": "https://github.com/koja-amir",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
