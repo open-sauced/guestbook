@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-191-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-192-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -292,6 +292,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/02zeda"><img src="https://avatars.githubusercontent.com/u/89939332?v=4?s=100" width="100px;" alt="Zeth Danielsson"/><br /><sub><b>Zeth Danielsson</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=02zeda" title="Code">💻</a> <a href="#ideas-02zeda" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-02zeda" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-02zeda" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/koja-amir"><img src="https://avatars.githubusercontent.com/u/164602598?v=4?s=100" width="100px;" alt="koja-amir"/><br /><sub><b>koja-amir</b></sub></a><br /><a href="#data-koja-amir" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mrutunjay-kinagi"><img src="https://avatars.githubusercontent.com/u/29768091?v=4?s=100" width="100px;" alt="Mrutunjay Kinagi"/><br /><sub><b>Mrutunjay Kinagi</b></sub></a><br /><a href="#blog-mrutunjay-kinagi" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=mrutunjay-kinagi" title="Code">💻</a> <a href="#data-mrutunjay-kinagi" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=mrutunjay-kinagi" title="Documentation">📖</a> <a href="#mentoring-mrutunjay-kinagi" title="Mentoring">🧑‍🏫</a> <a href="#plugin-mrutunjay-kinagi" title="Plugin/utility libraries">🔌</a> <a href="#projectManagement-mrutunjay-kinagi" title="Project Management">📆</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Amrutunjay-kinagi" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
   <tfoot>
