@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-191-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-192-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -292,6 +292,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/02zeda"><img src="https://avatars.githubusercontent.com/u/89939332?v=4?s=100" width="100px;" alt="Zeth Danielsson"/><br /><sub><b>Zeth Danielsson</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=02zeda" title="Code">💻</a> <a href="#ideas-02zeda" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-02zeda" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-02zeda" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/koja-amir"><img src="https://avatars.githubusercontent.com/u/164602598?v=4?s=100" width="100px;" alt="koja-amir"/><br /><sub><b>koja-amir</b></sub></a><br /><a href="#data-koja-amir" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SamarMst"><img src="https://avatars.githubusercontent.com/u/95316871?v=4?s=100" width="100px;" alt="Samar_Mestiri"/><br /><sub><b>Samar_Mestiri</b></sub></a><br /><a href="#question-SamarMst" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SamarMst" title="Code">💻</a> <a href="#data-SamarMst" title="Data">🔣</a> <a href="#eventOrganizing-SamarMst" title="Event Organizing">📋</a> <a href="#ideas-SamarMst" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
   <tfoot>
