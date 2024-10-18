@@ -2810,6 +2810,19 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "SamarMst",
+      "name": "Samar_Mestiri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95316871?v=4",
+      "profile": "https://github.com/SamarMst",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "eventOrganizing",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
