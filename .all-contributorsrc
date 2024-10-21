@@ -2810,6 +2810,22 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "mrutunjay-kinagi",
+      "name": "Mrutunjay Kinagi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29768091?v=4",
+      "profile": "https://github.com/mrutunjay-kinagi",
+      "contributions": [
+        "blog",
+        "code",
+        "data",
+        "doc",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
