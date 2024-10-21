@@ -2841,6 +2841,16 @@
         "test",
         "tool"
       ]
+    },
+    {
+      "login": "shristirwt",
+      "name": "Shristi Rawat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161150398?v=4",
+      "profile": "https://github.com/shristirwt",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
