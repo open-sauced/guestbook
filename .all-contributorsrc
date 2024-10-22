@@ -2841,6 +2841,20 @@
         "test",
         "tool"
       ]
+    },
+    {
+      "login": "Brijeshthummar02",
+      "name": "Brijeshthummar02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178184249?v=4",
+      "profile": "https://github.com/Brijeshthummar02",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "security",
+        "test",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
