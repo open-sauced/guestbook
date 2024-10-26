@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img alt="OpenSauced" src="https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png">
+  <img alt="OpenSauced" src="https://github.com/open-sauced/assets/raw/main/logos/logo-on-dark.png">
   <h1>🍕 Guestbook 🍕</h1>
   <strong>Welcome to OpenSauced's Guestbook Repository!</strong>
 </div>
@@ -21,7 +21,7 @@ If you encounter merge conflicts while contributing to this repository, read our
 
 ## What's Next?
 
-You can add this contribution to your [Highlight](https://app.opensauced.pizza/feed) at OpenSauced! Read our docs to learn more about [Highlight feature](https://docs.opensauced.pizza/features/highlights/).
+You can add this contribution to your [Highlight](https://app.opensauced.pizza/feed) at OpenSauced! Read our docs to learn more about the [Highlight feature](https://docs.opensauced.pizza/features/highlights/).
 
 Hungry for more contributions? Check out our [pizza-verse](https://github.com/open-sauced/pizza-verse) repository and join us in celebrating pizza!🍕
 
@@ -29,7 +29,7 @@ Hungry for more contributions? Check out our [pizza-verse](https://github.com/op
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please follow our [Contributing Guidelines](CONTRIBUTING.md) for contributing.
 
-**Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue at our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md).
+**Course improvement**: If you are interested in improving OpenSauced's Intro to Open Source course, please create an issue in our [intro repository](https://github.com/open-sauced/intro) and refer to the [Contributing Guidelines](https://github.com/open-sauced/intro/blob/main/contributing/CONTRIBUTING.md).
 
 ## All Contributors
 
@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
+
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://tej.as/"><img src="https://github.com/tejasq.png?s=100" width="100px;" alt="Tejas Kumar"/><br /><sub><b>Tejas Kumar</b></sub></a><br /></td>
