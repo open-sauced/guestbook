@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-195-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-196-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -296,6 +296,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Firdous2307"><img src="https://avatars.githubusercontent.com/u/124298708?v=4?s=100" width="100px;" alt="Firdous2307"/><br /><sub><b>Firdous2307</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Firdous2307" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Firdous2307" title="Documentation">📖</a> <a href="#infra-Firdous2307" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-Firdous2307" title="Maintenance">🚧</a> <a href="#security-Firdous2307" title="Security">🛡️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Firdous2307" title="Tests">⚠️</a> <a href="#tool-Firdous2307" title="Tools">🔧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SamarMst"><img src="https://avatars.githubusercontent.com/u/95316871?v=4?s=100" width="100px;" alt="Samar_Mestiri"/><br /><sub><b>Samar_Mestiri</b></sub></a><br /><a href="#question-SamarMst" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=SamarMst" title="Code">💻</a> <a href="#data-SamarMst" title="Data">🔣</a> <a href="#eventOrganizing-SamarMst" title="Event Organizing">📋</a> <a href="#ideas-SamarMst" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shristirwt"><img src="https://avatars.githubusercontent.com/u/161150398?v=4?s=100" width="100px;" alt="Shristi Rawat"/><br /><sub><b>Shristi Rawat</b></sub></a><br /><a href="#question-shristirwt" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ashristirwt" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=shristirwt" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gaffarabdul"><img src="https://avatars.githubusercontent.com/u/23133775?v=4?s=100" width="100px;" alt="Gaffar"/><br /><sub><b>Gaffar</b></sub></a><br /><a href="#question-gaffarabdul" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Agaffarabdul" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>

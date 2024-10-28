@@ -2865,6 +2865,16 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "gaffarabdul",
+      "name": "Gaffar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23133775?v=4",
+      "profile": "https://github.com/gaffarabdul",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
