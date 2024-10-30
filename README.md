@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-198-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-199-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -301,6 +301,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sridhar-geek"><img src="https://avatars.githubusercontent.com/u/128767402?v=4?s=100" width="100px;" alt="Sridhar Moturu"/><br /><sub><b>Sridhar Moturu</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=sridhar-geek" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ayamigah16"><img src="https://avatars.githubusercontent.com/u/122880578?v=4?s=100" width="100px;" alt="Abraham Ayamigah"/><br /><sub><b>Abraham Ayamigah</b></sub></a><br /><a href="#question-Ayamigah16" title="Answering Questions">💬</a> <a href="#audio-Ayamigah16" title="Audio">🔊</a> <a href="#blog-Ayamigah16" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AAyamigah16" title="Bug reports">🐛</a> <a href="#business-Ayamigah16" title="Business development">💼</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ayamigah16" title="Code">💻</a> <a href="#content-Ayamigah16" title="Content">🖋</a> <a href="#data-Ayamigah16" title="Data">🔣</a> <a href="#design-Ayamigah16" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Ayamigah16" title="Documentation">📖</a> <a href="#eventOrganizing-Ayamigah16" title="Event Organizing">📋</a> <a href="#example-Ayamigah16" title="Examples">💡</a> <a href="#financial-Ayamigah16" title="Financial">💵</a> <a href="#fundingFinding-Ayamigah16" title="Funding Finding">🔍</a> <a href="#ideas-Ayamigah16" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Ayamigah16" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amateurManu"><img src="https://avatars.githubusercontent.com/u/123824236?v=4?s=100" width="100px;" alt="Emmanuel Odero"/><br /><sub><b>Emmanuel Odero</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AamateurManu" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=amateurManu" title="Code">💻</a> <a href="#data-amateurManu" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=amateurManu" title="Documentation">📖</a> <a href="#infra-amateurManu" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-amateurManu" title="Maintenance">🚧</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=amateurManu" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
   <tfoot>
