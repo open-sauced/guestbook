@@ -2951,6 +2951,17 @@
         "example",
         "userTesting"
       ]
+    },
+    {
+      "login": "kolapowariz",
+      "name": "Kolapo Wariz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82901980?v=4",
+      "profile": "https://github.com/kolapowariz",
+      "contributions": [
+        "example",
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
