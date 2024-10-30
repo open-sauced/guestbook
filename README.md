@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-202-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-203-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -305,6 +305,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wisdombe"><img src="https://avatars.githubusercontent.com/u/159001736?v=4?s=100" width="100px;" alt="wisdom oladipupo"/><br /><sub><b>wisdom oladipupo</b></sub></a><br /><a href="#question-wisdombe" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Awisdombe" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/fahimaljadid/"><img src="https://avatars.githubusercontent.com/u/74662856?v=4?s=100" width="100px;" alt="Fahim Al Jadid"/><br /><sub><b>Fahim Al Jadid</b></sub></a><br /><a href="#question-FahimJadid" title="Answering Questions">💬</a> <a href="#blog-FahimJadid" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AFahimJadid" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=FahimJadid" title="Code">💻</a> <a href="#content-FahimJadid" title="Content">🖋</a> <a href="#data-FahimJadid" title="Data">🔣</a> <a href="#design-FahimJadid" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=FahimJadid" title="Documentation">📖</a> <a href="#example-FahimJadid" title="Examples">💡</a> <a href="#userTesting-FahimJadid" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kolapowariz"><img src="https://avatars.githubusercontent.com/u/82901980?v=4?s=100" width="100px;" alt="Kolapo Wariz"/><br /><sub><b>Kolapo Wariz</b></sub></a><br /><a href="#example-kolapowariz" title="Examples">💡</a> <a href="#question-kolapowariz" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Akolapowariz" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/anka-afk"><img src="https://avatars.githubusercontent.com/u/110004162?v=4?s=100" width="100px;" alt="anka"/><br /><sub><b>anka</b></sub></a><br /><a href="#a11y-anka-afk" title="Accessibility">️️️️♿️</a></td>
     </tr>
   </tbody>
   <tfoot>
