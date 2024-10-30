@@ -2923,6 +2923,16 @@
         "maintenance",
         "test"
       ]
+    },
+    {
+      "login": "wisdombe",
+      "name": "wisdom oladipupo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159001736?v=4",
+      "profile": "https://github.com/wisdombe",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
