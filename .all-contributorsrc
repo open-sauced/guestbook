@@ -2971,6 +2971,17 @@
       "contributions": [
         "a11y"
       ]
+    },
+    {
+      "login": "hferguson",
+      "name": "Hugh Ferguson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16059219?v=4",
+      "profile": "https://github.com/hferguson",
+      "contributions": [
+        "a11y",
+        "question",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
