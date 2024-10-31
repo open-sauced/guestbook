@@ -3008,6 +3008,17 @@
         "tutorial",
         "video"
       ]
+    },
+    {
+      "login": "satyam0827",
+      "name": "Satyam Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113125998?v=4",
+      "profile": "https://github.com/satyam0827",
+      "contributions": [
+        "a11y",
+        "question",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
