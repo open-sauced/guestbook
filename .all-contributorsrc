@@ -2910,6 +2910,79 @@
       ]
     },
     {
+      "login": "amateurManu",
+      "name": "Emmanuel Odero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123824236?v=4",
+      "profile": "https://github.com/amateurManu",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "infra",
+        "maintenance",
+        "test"
+      ]
+    },
+    {
+      "login": "wisdombe",
+      "name": "wisdom oladipupo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159001736?v=4",
+      "profile": "https://github.com/wisdombe",
+      "contributions": [
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "FahimJadid",
+      "name": "Fahim Al Jadid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74662856?v=4",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "kolapowariz",
+      "name": "Kolapo Wariz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82901980?v=4",
+      "profile": "https://github.com/kolapowariz",
+      "contributions": [
+        "example",
+        "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "anka-afk",
+      "name": "anka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110004162?v=4",
+      "profile": "https://github.com/anka-afk",
+      "contributions": [
+        "a11y"
+      ]
+    },
+    {
+      "login": "hferguson",
+      "name": "Hugh Ferguson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16059219?v=4",
+      "profile": "https://github.com/hferguson",
+      "contributions": [
+        "a11y",
+        "question",
+        "tutorial"
+      ]
+    },
+    {
       "login": "asheinT",
       "name": "Ashen Thilakarathna",
       "avatar_url": "https://avatars.githubusercontent.com/u/134621843?v=4",
