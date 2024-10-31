@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-204-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-205-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -309,6 +309,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hferguson"><img src="https://avatars.githubusercontent.com/u/16059219?v=4?s=100" width="100px;" alt="Hugh Ferguson"/><br /><sub><b>Hugh Ferguson</b></sub></a><br /><a href="#a11y-hferguson" title="Accessibility">️️️️♿️</a> <a href="#question-hferguson" title="Answering Questions">💬</a> <a href="#tutorial-hferguson" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/asheinT"><img src="https://avatars.githubusercontent.com/u/134621843?v=4?s=100" width="100px;" alt="Ashen Thilakarathna"/><br /><sub><b>Ashen Thilakarathna</b></sub></a><br /><a href="#question-asheinT" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AasheinT" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>

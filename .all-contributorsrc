@@ -2982,6 +2982,16 @@
         "question",
         "tutorial"
       ]
+    },
+    {
+      "login": "asheinT",
+      "name": "Ashen Thilakarathna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134621843?v=4",
+      "profile": "https://github.com/asheinT",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
