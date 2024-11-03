@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-207-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-208-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -312,6 +312,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/asheinT"><img src="https://avatars.githubusercontent.com/u/134621843?v=4?s=100" width="100px;" alt="Ashen Thilakarathna"/><br /><sub><b>Ashen Thilakarathna</b></sub></a><br /><a href="#question-asheinT" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AasheinT" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ChinmayBagad"><img src="https://avatars.githubusercontent.com/u/117026366?v=4?s=100" width="100px;" alt="Chinmay@234"/><br /><sub><b>Chinmay@234</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ChinmayBagad" title="Code">💻</a> <a href="#financial-ChinmayBagad" title="Financial">💵</a> <a href="#ideas-ChinmayBagad" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-ChinmayBagad" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#promotion-ChinmayBagad" title="Promotion">📣</a> <a href="#talk-ChinmayBagad" title="Talks">📢</a> <a href="#tutorial-ChinmayBagad" title="Tutorials">✅</a> <a href="#video-ChinmayBagad" title="Videos">📹</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/satyam0827"><img src="https://avatars.githubusercontent.com/u/113125998?v=4?s=100" width="100px;" alt="Satyam Kumar"/><br /><sub><b>Satyam Kumar</b></sub></a><br /><a href="#a11y-satyam0827" title="Accessibility">️️️️♿️</a> <a href="#question-satyam0827" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=satyam0827" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tkim602"><img src="https://avatars.githubusercontent.com/u/157748120?v=4?s=100" width="100px;" alt="TaeHo Kim"/><br /><sub><b>TaeHo Kim</b></sub></a><br /><a href="#question-tkim602" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Atkim602" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=tkim602" title="Tests">⚠️</a> <a href="#translation-tkim602" title="Translation">🌍</a> <a href="#userTesting-tkim602" title="User Testing">📓</a></td>
     </tr>
   </tbody>
   <tfoot>
