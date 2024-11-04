@@ -3019,6 +3019,30 @@
         "question",
         "code"
       ]
+    },
+    {
+      "login": "mohanamisra",
+      "name": "Mohana Misra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91205171?v=4",
+      "profile": "https://github.com/mohanamisra",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "research",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
