@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-208-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-209-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -314,7 +314,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/satyam0827"><img src="https://avatars.githubusercontent.com/u/113125998?v=4?s=100" width="100px;" alt="Satyam Kumar"/><br /><sub><b>Satyam Kumar</b></sub></a><br /><a href="#a11y-satyam0827" title="Accessibility">️️️️♿️</a> <a href="#question-satyam0827" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=satyam0827" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://oss.fyi/nhim-uit"><img src="https://avatars.githubusercontent.com/u/165756103?v=4?s=100" width="100px;" alt="Hoang Nhi, Mai"/><br /><sub><b>Hoang Nhi, Mai</b></sub></a><br /><a href="#question-nhim-uit" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Anhim-uit" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mohanamisra"><img src="https://avatars.githubusercontent.com/u/91205171?v=4?s=100" width="100px;" alt="Mohana Misra"/><br /><sub><b>Mohana Misra</b></sub></a><br /><a href="#a11y-mohanamisra" title="Accessibility">️️️️♿️</a> <a href="#question-mohanamisra" title="Answering Questions">💬</a> <a href="#blog-mohanamisra" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amohanamisra" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=mohanamisra" title="Code">💻</a> <a href="#content-mohanamisra" title="Content">🖋</a> <a href="#data-mohanamisra" title="Data">🔣</a> <a href="#design-mohanamisra" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=mohanamisra" title="Documentation">📖</a> <a href="#eventOrganizing-mohanamisra" title="Event Organizing">📋</a> <a href="#ideas-mohanamisra" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-mohanamisra" title="Maintenance">🚧</a> <a href="#projectManagement-mohanamisra" title="Project Management">📆</a> <a href="#research-mohanamisra" title="Research">🔬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Amohanamisra" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-mohanamisra" title="Tutorials">✅</a></td>
-
+      <td align="center" valign="top" width="14.28%"><a href="https://lorenzjdr.dev/"><img src="https://avatars.githubusercontent.com/u/124335421?v=4?s=100" width="100px;" alt="Lorenz De Robles"/><br /><sub><b>Lorenz De Robles</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=lorenzjdr" title="Code">💻</a> <a href="#tutorial-lorenzjdr" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
