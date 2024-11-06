@@ -3053,6 +3053,18 @@
         "code",
         "tutorial"
       ]
+    },
+    {
+      "login": "livlaurel",
+      "name": "Olivia Laurel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123695131?v=4",
+      "profile": "https://github.com/livlaurel",
+      "contributions": [
+        "question",
+        "code",
+        "design",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
