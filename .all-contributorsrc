@@ -3069,7 +3069,8 @@
         "maintenance",
         "projectManagement",
         "research",
-        "tool"
+        "tool",
+        "platform"
       ]
     }
   ],
