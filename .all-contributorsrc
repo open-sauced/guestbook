@@ -3053,6 +3053,25 @@
         "code",
         "tutorial"
       ]
+    },
+    {
+      "login": "josep-b",
+      "name": "Josep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71572489?v=4",
+      "profile": "https://github.com/josep-b",
+      "contributions": [
+        "bug",
+        "ideas",
+        "code",
+        "data",
+        "doc",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "research",
+        "tool",
+        "platform"
+      ]
     }
   ],
   "contributorsPerLine": 7,
