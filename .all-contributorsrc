@@ -3061,7 +3061,15 @@
       "profile": "https://github.com/josep-b",
       "contributions": [
         "bug",
-        "ideas"
+        "ideas",
+        "code",
+        "data",
+        "doc",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "research",
+        "tool"
       ]
     }
   ],
