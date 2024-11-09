@@ -3053,6 +3053,16 @@
         "code",
         "tutorial"
       ]
+    },
+    {
+      "login": "josep-b",
+      "name": "Josep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71572489?v=4",
+      "profile": "https://github.com/josep-b",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
