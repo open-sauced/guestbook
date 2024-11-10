@@ -3021,17 +3021,6 @@
       ]
     },
     {
-
-      "login": "nhim-uit",
-      "name": "Hoang Nhi, Mai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/165756103?v=4",
-      "profile": "https://oss.fyi/nhim-uit",
-      "contributions": [
-        "question",
-        "bug"
-      ]
-    },
-    {
       "login": "mohanamisra",
       "name": "Mohana Misra",
       "avatar_url": "https://avatars.githubusercontent.com/u/91205171?v=4",
@@ -3063,6 +3052,17 @@
       "contributions": [
         "code",
         "tutorial"
+      ]
+    },
+    {
+
+      "login": "nhim-uit",
+      "name": "Hoang Nhi, Mai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165756103?v=4",
+      "profile": "https://oss.fyi/nhim-uit",
+      "contributions": [
+        "question",
+        "bug"
       ]
     }
   ],
