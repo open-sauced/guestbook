@@ -3055,14 +3055,25 @@
       ]
     },
     {
-
       "login": "nhim-uit",
       "name": "Hoang Nhi, Mai",
       "avatar_url": "https://avatars.githubusercontent.com/u/165756103?v=4",
       "profile": "https://oss.fyi/nhim-uit",
       "contributions": [
         "question",
-        "bug"
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "projectManagement",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
       ]
     }
   ],
