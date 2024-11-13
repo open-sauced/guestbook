@@ -3068,10 +3068,26 @@
       ]
     },
     {
+      "login": "mrcentimetre",
+      "name": "Udana Nimsara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74942413?v=4",
+      "profile": "https://github.com/mrcentimetre",
+      "contributions": [
+        "question",
+        "code",
+        "eventOrganizing",
+        "example",
+        "review",
+        "bug",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
       "login": "nhim-uit",
-      "name": "Hoang Nhi, Mai",
+      "name": "H. Nhi (Alex)",
       "avatar_url": "https://avatars.githubusercontent.com/u/165756103?v=4",
-      "profile": "https://oss.fyi/nhim-uit",
+      "profile": "https://app.opensauced.pizza/u/nhim-uit",
       "contributions": [
         "question",
         "bug",
@@ -3089,22 +3105,6 @@
         "userTesting"
       ]
     },
-    {
-      "login": "mrcentimetre",
-      "name": "Udana Nimsara",
-      "avatar_url": "https://avatars.githubusercontent.com/u/74942413?v=4",
-      "profile": "https://github.com/mrcentimetre",
-      "contributions": [
-        "question",
-        "code",
-        "eventOrganizing",
-        "example",
-        "review",
-        "bug",
-        "translation",
-        "tutorial"
-      ]
-    }
   ],
   "contributorsPerLine": 7,
   "linkToUsage": true
