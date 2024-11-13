@@ -3104,6 +3104,17 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "sank8-2",
+      "name": "Sanketh Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61641814?v=4",
+      "profile": "https://github.com/sank8-2",
+      "contributions": [
+        "question",
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
