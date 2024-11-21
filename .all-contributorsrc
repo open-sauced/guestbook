@@ -3104,6 +3104,18 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "hurshore",
+      "name": "Jahtofunmi Osho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56561245?v=4",
+      "profile": "https://tofunmiosho.netlify.app/",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
