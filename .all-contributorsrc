@@ -3104,6 +3104,16 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "sasori-morningstar",
+      "name": "Ilyes Medjedoub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116976342?v=4",
+      "profile": "https://sasori-morningstar.vercel.app/",
+      "contributions": [
+        "ideas",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
