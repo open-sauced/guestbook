@@ -3104,6 +3104,15 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "dehanli",
+      "name": "Dehan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98049224?v=4",
+      "profile": "https://github.com/dehanli",
+      "contributions": [
+        "a11y"
+      ]
     }
   ],
   "contributorsPerLine": 7,
