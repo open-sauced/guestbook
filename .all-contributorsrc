@@ -3104,6 +3104,18 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "aspects19",
+      "name": "Jeffarson Amenya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133534815?v=4",
+      "profile": "https://github.com/aspects19",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
