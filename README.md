@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-212-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-213-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -319,6 +319,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://oss.fyi/nhim-uit"><img src="https://avatars.githubusercontent.com/u/165756103?v=4?s=100" width="100px;" alt="Hoang Nhi, Mai"/><br /><sub><b>Hoang Nhi, Mai</b></sub></a><br /><a href="#question-nhim-uit" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Anhim-uit" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=nhim-uit" title="Code">💻</a> <a href="#design-nhim-uit" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=nhim-uit" title="Documentation">📖</a> <a href="#example-nhim-uit" title="Examples">💡</a> <a href="#ideas-nhim-uit" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-nhim-uit" title="Project Management">📆</a> <a href="#talk-nhim-uit" title="Talks">📢</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=nhim-uit" title="Tests">⚠️</a> <a href="#tool-nhim-uit" title="Tools">🔧</a> <a href="#translation-nhim-uit" title="Translation">🌍</a> <a href="#tutorial-nhim-uit" title="Tutorials">✅</a> <a href="#userTesting-nhim-uit" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mrcentimetre"><img src="https://avatars.githubusercontent.com/u/74942413?v=4?s=100" width="100px;" alt="Udana Nimsara"/><br /><sub><b>Udana Nimsara</b></sub></a><br /><a href="#question-mrcentimetre" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=mrcentimetre" title="Code">💻</a> <a href="#eventOrganizing-mrcentimetre" title="Event Organizing">📋</a> <a href="#example-mrcentimetre" title="Examples">💡</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Amrcentimetre" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amrcentimetre" title="Bug reports">🐛</a> <a href="#translation-mrcentimetre" title="Translation">🌍</a> <a href="#tutorial-mrcentimetre" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shin1ma"><img src="https://avatars.githubusercontent.com/u/106842119?v=4?s=100" width="100px;" alt="Ruben amadei"/><br /><sub><b>Ruben amadei</b></sub></a><br /><a href="#question-Shin1ma" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Shin1ma" title="Documentation">📖</a> <a href="#translation-Shin1ma" title="Translation">🌍</a></td>
     </tr>
   </tbody>
   <tfoot>

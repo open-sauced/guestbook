@@ -3104,6 +3104,17 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "Shin1ma",
+      "name": "Ruben amadei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106842119?v=4",
+      "profile": "https://github.com/Shin1ma",
+      "contributions": [
+        "question",
+        "doc",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
