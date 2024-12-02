@@ -3104,6 +3104,26 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "ivngzmn",
+      "name": "Ivan Guzman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15111222?v=4",
+      "profile": "https://github.com/ivngzmn",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "review",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
