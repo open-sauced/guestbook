@@ -3159,6 +3159,16 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "luciano665",
+      "name": "Luciano M.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132591575?v=4",
+      "profile": "https://lucianoportofliowebiste.com/",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
