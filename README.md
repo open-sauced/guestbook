@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-214-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-215-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -321,6 +321,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mrcentimetre"><img src="https://avatars.githubusercontent.com/u/74942413?v=4?s=100" width="100px;" alt="Udana Nimsara"/><br /><sub><b>Udana Nimsara</b></sub></a><br /><a href="#question-mrcentimetre" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=mrcentimetre" title="Code">💻</a> <a href="#eventOrganizing-mrcentimetre" title="Event Organizing">📋</a> <a href="#example-mrcentimetre" title="Examples">💡</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Amrcentimetre" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amrcentimetre" title="Bug reports">🐛</a> <a href="#translation-mrcentimetre" title="Translation">🌍</a> <a href="#tutorial-mrcentimetre" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/livlaurel"><img src="https://avatars.githubusercontent.com/u/123695131?v=4?s=100" width="100px;" alt="Olivia Laurel"/><br /><sub><b>Olivia Laurel</b></sub></a><br /><a href="#question-livlaurel" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=livlaurel" title="Code">💻</a> <a href="#design-livlaurel" title="Design">🎨</a> <a href="#userTesting-livlaurel" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sank8-2"><img src="https://avatars.githubusercontent.com/u/61641814?v=4?s=100" width="100px;" alt="Sanketh Kumar"/><br /><sub><b>Sanketh Kumar</b></sub></a><br /><a href="#question-sank8-2" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=sank8-2" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=sank8-2" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dehanli"><img src="https://avatars.githubusercontent.com/u/98049224?v=4?s=100" width="100px;" alt="Dehan"/><br /><sub><b>Dehan</b></sub></a><br /><a href="#a11y-dehanli" title="Accessibility">️️️️♿️</a></td>
     </tr>
   </tbody>
   <tfoot>
