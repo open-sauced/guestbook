@@ -3106,6 +3106,50 @@
       ]
     },
     {
+      "login": "livlaurel",
+      "name": "Olivia Laurel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123695131?v=4",
+      "profile": "https://github.com/livlaurel",
+      "contributions": [
+        "question",
+        "code",
+        "design",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "sank8-2",
+      "name": "Sanketh Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61641814?v=4",
+      "profile": "https://github.com/sank8-2",
+      "contributions": [
+        "question",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "dehanli",
+      "name": "Dehan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98049224?v=4",
+      "profile": "https://github.com/dehanli",
+      "contributions": [
+        "a11y"
+      ]
+    },
+    {
+      "login": "hurshore",
+      "name": "Jahtofunmi Osho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56561245?v=4",
+      "profile": "https://tofunmiosho.netlify.app/",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "example"
+      ]
+    },
+    {
       "login": "Shin1ma",
       "name": "Ruben amadei",
       "avatar_url": "https://avatars.githubusercontent.com/u/106842119?v=4",
