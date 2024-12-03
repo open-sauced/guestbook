@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-217-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-218-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -324,6 +324,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dehanli"><img src="https://avatars.githubusercontent.com/u/98049224?v=4?s=100" width="100px;" alt="Dehan"/><br /><sub><b>Dehan</b></sub></a><br /><a href="#a11y-dehanli" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://tofunmiosho.netlify.app/"><img src="https://avatars.githubusercontent.com/u/56561245?v=4?s=100" width="100px;" alt="Jahtofunmi Osho"/><br /><sub><b>Jahtofunmi Osho</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ahurshore" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hurshore" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hurshore" title="Documentation">📖</a> <a href="#example-hurshore" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shin1ma"><img src="https://avatars.githubusercontent.com/u/106842119?v=4?s=100" width="100px;" alt="Ruben amadei"/><br /><sub><b>Ruben amadei</b></sub></a><br /><a href="#question-Shin1ma" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Shin1ma" title="Documentation">📖</a> <a href="#translation-Shin1ma" title="Translation">🌍</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://lucianoportofliowebiste.com/"><img src="https://avatars.githubusercontent.com/u/132591575?v=4?s=100" width="100px;" alt="Luciano M."/><br /><sub><b>Luciano M.</b></sub></a><br /><a href="#question-luciano665" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aluciano665" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=luciano665" title="Code">💻</a> <a href="#data-luciano665" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=luciano665" title="Documentation">📖</a> <a href="#example-luciano665" title="Examples">💡</a> <a href="#ideas-luciano665" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-luciano665" title="Mentoring">🧑‍🏫</a> <a href="#plugin-luciano665" title="Plugin/utility libraries">🔌</a> <a href="#projectManagement-luciano665" title="Project Management">📆</a> <a href="#research-luciano665" title="Research">🔬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Aluciano665" title="Reviewed Pull Requests">👀</a> <a href="#security-luciano665" title="Security">🛡️</a> <a href="#talk-luciano665" title="Talks">📢</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=luciano665" title="Tests">⚠️</a> <a href="#tool-luciano665" title="Tools">🔧</a> <a href="#tutorial-luciano665" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
   <tfoot>
