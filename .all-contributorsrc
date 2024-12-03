@@ -3167,7 +3167,22 @@
       "profile": "https://lucianoportofliowebiste.com/",
       "contributions": [
         "question",
-        "bug"
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "tutorial"
       ]
     }
   ],
