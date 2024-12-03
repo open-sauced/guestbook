@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-215-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-216-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -322,6 +322,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/livlaurel"><img src="https://avatars.githubusercontent.com/u/123695131?v=4?s=100" width="100px;" alt="Olivia Laurel"/><br /><sub><b>Olivia Laurel</b></sub></a><br /><a href="#question-livlaurel" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=livlaurel" title="Code">💻</a> <a href="#design-livlaurel" title="Design">🎨</a> <a href="#userTesting-livlaurel" title="User Testing">📓</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sank8-2"><img src="https://avatars.githubusercontent.com/u/61641814?v=4?s=100" width="100px;" alt="Sanketh Kumar"/><br /><sub><b>Sanketh Kumar</b></sub></a><br /><a href="#question-sank8-2" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=sank8-2" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=sank8-2" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dehanli"><img src="https://avatars.githubusercontent.com/u/98049224?v=4?s=100" width="100px;" alt="Dehan"/><br /><sub><b>Dehan</b></sub></a><br /><a href="#a11y-dehanli" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://tofunmiosho.netlify.app/"><img src="https://avatars.githubusercontent.com/u/56561245?v=4?s=100" width="100px;" alt="Jahtofunmi Osho"/><br /><sub><b>Jahtofunmi Osho</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ahurshore" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hurshore" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=hurshore" title="Documentation">📖</a> <a href="#example-hurshore" title="Examples">💡</a></td>
     </tr>
   </tbody>
   <tfoot>
