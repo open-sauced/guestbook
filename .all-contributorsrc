@@ -3159,6 +3159,19 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "SusanGithaigaN",
+      "name": "Susan Githaiga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117893498?v=4",
+      "profile": "https://github.com/SusanGithaigaN",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
