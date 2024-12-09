@@ -3159,6 +3159,19 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "adaniel105",
+      "name": "adaniel105",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91155263?v=4",
+      "profile": "https://github.com/adaniel105",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "plugin",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
