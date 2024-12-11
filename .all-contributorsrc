@@ -3169,6 +3169,22 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "safiullah",
+      "name": "Safiullah Shahrukh Qazi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2892121?v=4",
+      "profile": "https://github.com/safiullah",
+      "contributions": [
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-218-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-219-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -327,6 +327,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/alice"><img src="https://avatars.githubusercontent.com/u/95208?v=4?s=100" width="100px;" alt="Alice"/><br /><sub><b>Alice</b></sub></a><br /><a href="#question-alice" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aalice" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/safiullah"><img src="https://avatars.githubusercontent.com/u/2892121?v=4?s=100" width="100px;" alt="Safiullah Shahrukh Qazi"/><br /><sub><b>Safiullah Shahrukh Qazi</b></sub></a><br /><a href="#blog-safiullah" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Asafiullah" title="Bug reports">🐛</a> <a href="#business-safiullah" title="Business development">💼</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=safiullah" title="Code">💻</a> <a href="#content-safiullah" title="Content">🖋</a> <a href="#data-safiullah" title="Data">🔣</a> <a href="#design-safiullah" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=safiullah" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
