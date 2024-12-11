@@ -3185,6 +3185,19 @@
         "design",
         "doc"
       ]
+    },
+    {
+      "login": "safi5890",
+      "name": "Safiullah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109414497?v=4",
+      "profile": "https://github.com/safi5890",
+      "contributions": [
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
