@@ -3159,6 +3159,20 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "livcia",
+      "name": "Oliwia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90615339?v=4",
+      "profile": "https://github.com/livcia",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "research",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
