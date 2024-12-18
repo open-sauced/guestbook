@@ -3260,6 +3260,19 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "tkim602",
+      "name": "TaeHo Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157748120?v=4",
+      "profile": "https://github.com/tkim602",
+      "contributions": [
+        "question",
+        "bug",
+        "test",
+        "translation",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
