@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-218-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-219-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -327,6 +327,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aspects19"><img src="https://avatars.githubusercontent.com/u/133534815?v=4?s=100" width="100px;" alt="Jeffarson Amenya"/><br /><sub><b>Jeffarson Amenya</b></sub></a><br /><a href="#question-aspects19" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aspects19" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aspects19" title="Documentation">📖</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Aaspects19" title="Reviewed Pull Requests">👀</a> <a href="#blog-aspects19" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aaspects19" title="Bug reports">🐛</a> <a href="#business-aspects19" title="Business development">💼</a> <a href="#design-aspects19" title="Design">🎨</a> <a href="#ideas-aspects19" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-aspects19" title="Maintenance">🚧</a> <a href="#talk-aspects19" title="Talks">📢</a> <a href="#translation-aspects19" title="Translation">🌍</a> <a href="#tutorial-aspects19" title="Tutorials">✅</a> <a href="#video-aspects19" title="Videos">📹</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andymartinez1"><img src="https://avatars.githubusercontent.com/u/49960406?v=4?s=100" width="100px;" alt="Andrew Martinez"/><br /><sub><b>Andrew Martinez</b></sub></a><br /><a href="#question-andymartinez1" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=andymartinez1" title="Code">💻</a> <a href="#data-andymartinez1" title="Data">🔣</a> <a href="#projectManagement-andymartinez1" title="Project Management">📆</a> <a href="#promotion-andymartinez1" title="Promotion">📣</a> <a href="#research-andymartinez1" title="Research">🔬</a> <a href="#talk-andymartinez1" title="Talks">📢</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=andymartinez1" title="Tests">⚠️</a> <a href="#tool-andymartinez1" title="Tools">🔧</a> <a href="#userTesting-andymartinez1" title="User Testing">📓</a></td>
     </tr>
   </tbody>
   <tfoot>
