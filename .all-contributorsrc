@@ -3161,6 +3161,84 @@
       ]
     },
     {
+      "login": "aspects19",
+      "name": "Jeffarson Amenya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133534815?v=4",
+      "profile": "https://github.com/aspects19",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "review",
+        "blog",
+        "bug",
+        "business",
+        "design",
+        "ideas",
+        "maintenance",
+        "talk",
+        "translation",
+        "tutorial",
+        "video"
+      ]
+    },
+    {
+      "login": "andymartinez1",
+      "name": "Andrew Martinez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49960406?v=4",
+      "profile": "https://github.com/andymartinez1",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "projectManagement",
+        "promotion",
+        "research",
+        "talk",
+        "test",
+        "tool",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "luciano665",
+      "name": "Luciano M.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132591575?v=4",
+      "profile": "https://lucianoportofliowebiste.com/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "adaniel105",
+      "name": "adaniel105",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91155263?v=4",
+      "profile": "https://github.com/adaniel105",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "plugin",
+        "research"
+      ]
+    },
+    {
       "login": "stephmukami",
       "name": "Mukami",
       "avatar_url": "https://avatars.githubusercontent.com/u/78403465?v=4",
