@@ -3021,6 +3021,247 @@
       ]
     },
     {
+      "login": "mohanamisra",
+      "name": "Mohana Misra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91205171?v=4",
+      "profile": "https://github.com/mohanamisra",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "research",
+        "review",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "lorenzjdr",
+      "name": "Lorenz De Robles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124335421?v=4",
+      "profile": "https://lorenzjdr.dev/",
+      "contributions": [
+        "code",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "liaxoo",
+      "name": "Liaxo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57733867?v=4",
+      "profile": "https://github.com/liaxoo",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "infra",
+        "video"
+      ]
+    },
+    {
+      "login": "nhim-uit",
+      "name": "Hoang Nhi, Mai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165756103?v=4",
+      "profile": "https://oss.fyi/nhim-uit",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "projectManagement",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "mrcentimetre",
+      "name": "Udana Nimsara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74942413?v=4",
+      "profile": "https://github.com/mrcentimetre",
+      "contributions": [
+        "question",
+        "code",
+        "eventOrganizing",
+        "example",
+        "review",
+        "bug",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "livlaurel",
+      "name": "Olivia Laurel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123695131?v=4",
+      "profile": "https://github.com/livlaurel",
+      "contributions": [
+        "question",
+        "code",
+        "design",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "sank8-2",
+      "name": "Sanketh Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61641814?v=4",
+      "profile": "https://github.com/sank8-2",
+      "contributions": [
+        "question",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "dehanli",
+      "name": "Dehan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98049224?v=4",
+      "profile": "https://github.com/dehanli",
+      "contributions": [
+        "a11y"
+      ]
+    },
+    {
+      "login": "hurshore",
+      "name": "Jahtofunmi Osho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56561245?v=4",
+      "profile": "https://tofunmiosho.netlify.app/",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "Shin1ma",
+      "name": "Ruben amadei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106842119?v=4",
+      "profile": "https://github.com/Shin1ma",
+      "contributions": [
+        "question",
+        "doc",
+        "translation"
+      ]
+    },
+    {
+      "login": "aspects19",
+      "name": "Jeffarson Amenya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133534815?v=4",
+      "profile": "https://github.com/aspects19",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "review",
+        "blog",
+        "bug",
+        "business",
+        "design",
+        "ideas",
+        "maintenance",
+        "talk",
+        "translation",
+        "tutorial",
+        "video"
+      ]
+    },
+    {
+      "login": "andymartinez1",
+      "name": "Andrew Martinez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49960406?v=4",
+      "profile": "https://github.com/andymartinez1",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "projectManagement",
+        "promotion",
+        "research",
+        "talk",
+        "test",
+        "tool",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "luciano665",
+      "name": "Luciano M.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132591575?v=4",
+      "profile": "https://lucianoportofliowebiste.com/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "adaniel105",
+      "name": "adaniel105",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91155263?v=4",
+      "profile": "https://github.com/adaniel105",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "plugin",
+        "research"
+      ]
+    },
+    {
+      "login": "stephmukami",
+      "name": "Mukami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78403465?v=4",
+      "profile": "https://github.com/stephmukami",
+      "contributions": [
+        "code",
+        "data"
+      ]
+    },
+    {
+      "login": "SusanGithaigaN",
+      "name": "Susan Githaiga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117893498?v=4",
+      "profile": "https://github.com/SusanGithaigaN",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "doc"
+      ]
+    },
+    {
       "login": "tkim602",
       "name": "TaeHo Kim",
       "avatar_url": "https://avatars.githubusercontent.com/u/157748120?v=4",
