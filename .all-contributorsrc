@@ -3199,6 +3199,31 @@
         "tool",
         "userTesting"
       ]
+    },
+    {
+      "login": "luciano665",
+      "name": "Luciano M.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132591575?v=4",
+      "profile": "https://lucianoportofliowebiste.com/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
