@@ -3237,6 +3237,16 @@
         "plugin",
         "research"
       ]
+    },
+    {
+      "login": "stephmukami",
+      "name": "Mukami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78403465?v=4",
+      "profile": "https://github.com/stephmukami",
+      "contributions": [
+        "code",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
