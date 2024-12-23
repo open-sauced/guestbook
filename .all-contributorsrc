@@ -3273,6 +3273,15 @@
         "translation",
         "userTesting"
       ]
+    },
+    {
+      "login": "divin3circle",
+      "name": "Sylus Abel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119014867?v=4",
+      "profile": "https://venusgaming.me/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
