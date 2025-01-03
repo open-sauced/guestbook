@@ -336,7 +336,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://ankitahuja.com/about"><img src="https://avatars.githubusercontent.com/u/61857?v=4?s=100" width="100px;" alt="Ankit Ahuja"/><br /><sub><b>Ankit Ahuja</b></sub></a><br /><a href="#question-ankit" title="Answering Questions">💬</a> <a href="#video-ankit" title="Videos">📹</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://ankitjha.live/"><img src="https://avatars.githubusercontent.com/u/107815079?v=4?s=100" width="100px;" alt="Ankit Kumar Jha"/><br /><sub><b>Ankit Kumar Jha</b></sub></a><br /><a href="#a11y-Ankit8848" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ankitjha.live/"><img src="https://avatars.githubusercontent.com/u/107815079?v=4?s=100" width="100px;" alt="Ankit Kumar Jha"/><br /><sub><b>Ankit Kumar Jha</b></sub></a><br /><a href="#a11y-Ankit8848" title="Accessibility">️️️️♿️</a> <a href="#question-Ankit8848" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
   <tfoot>
