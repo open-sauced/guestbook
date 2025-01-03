@@ -3283,6 +3283,15 @@
         "question",
         "video"
       ]
+    },
+    {
+      "login": "Ankit8848",
+      "name": "Ankit Kumar Jha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107815079?v=4",
+      "profile": "https://ankitjha.live/",
+      "contributions": [
+        "a11y"
+      ]
     }
   ],
   "contributorsPerLine": 7,
