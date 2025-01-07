@@ -3273,6 +3273,16 @@
         "translation",
         "userTesting"
       ]
+    },
+    {
+      "login": "Luca1905",
+      "name": "Luca Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71080491?v=4",
+      "profile": "https://github.com/Luca1905",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
