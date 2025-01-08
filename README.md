@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-226-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-227-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -337,6 +337,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://sasori-morningstar.vercel.app/"><img src="https://avatars.githubusercontent.com/u/116976342?v=4?s=100" width="100px;" alt="Ilyes Medjedoub"/><br /><sub><b>Ilyes Medjedoub</b></sub></a><br /><a href="#ideas-sasori-morningstar" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tutorial-sasori-morningstar" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ivngzmn"><img src="https://avatars.githubusercontent.com/u/15111222?v=4?s=100" width="100px;" alt="Ivan Guzman"/><br /><sub><b>Ivan Guzman</b></sub></a><br /><a href="#question-ivngzmn" title="Answering Questions">💬</a> <a href="#blog-ivngzmn" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aivngzmn" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ivngzmn" title="Code">💻</a> <a href="#content-ivngzmn" title="Content">🖋</a> <a href="#design-ivngzmn" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ivngzmn" title="Documentation">📖</a> <a href="#ideas-ivngzmn" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ivngzmn" title="Maintenance">🚧</a> <a href="#mentoring-ivngzmn" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Aivngzmn" title="Reviewed Pull Requests">👀</a> <a href="#translation-ivngzmn" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pyogi27"><img src="https://avatars.githubusercontent.com/u/74909570?v=4?s=100" width="100px;" alt="Patel Yogi Chetanbhai"/><br /><sub><b>Patel Yogi Chetanbhai</b></sub></a><br /><a href="#question-pyogi27" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
   <tfoot>
