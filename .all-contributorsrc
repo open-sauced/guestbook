@@ -3275,6 +3275,36 @@
       ]
     },
     {
+      "login": "sasori-morningstar",
+      "name": "Ilyes Medjedoub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116976342?v=4",
+      "profile": "https://sasori-morningstar.vercel.app/",
+      "contributions": [
+        "ideas",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ivngzmn",
+      "name": "Ivan Guzman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15111222?v=4",
+      "profile": "https://github.com/ivngzmn",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "review",
+        "translation"
+      ]
+    },
+    {
       "login": "pyogi27",
       "name": "Patel Yogi Chetanbhai",
       "avatar_url": "https://avatars.githubusercontent.com/u/74909570?v=4",
