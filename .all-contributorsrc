@@ -3388,6 +3388,21 @@
         "a11y",
         "question"
       ]
+    },
+    {
+      "login": "RayX81194",
+      "name": "ray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111891431?v=4",
+      "profile": "https://github.com/RayX81194",
+      "contributions": [
+        "question",
+        "audio",
+        "code",
+        "design",
+        "ideas",
+        "talk",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
