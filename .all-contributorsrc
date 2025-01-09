@@ -3346,6 +3346,28 @@
         "translation",
         "userTesting"
       ]
+    },
+    {
+      "login": "errantpianist",
+      "name": "errantpianist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104738718?v=4",
+      "profile": "https://github.com/errantpianist",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "mentoring",
+        "research",
+        "review",
+        "test",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
