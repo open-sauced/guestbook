@@ -3275,6 +3275,79 @@
       ]
     },
     {
+      "login": "sasori-morningstar",
+      "name": "Ilyes Medjedoub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116976342?v=4",
+      "profile": "https://sasori-morningstar.vercel.app/",
+      "contributions": [
+        "ideas",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ivngzmn",
+      "name": "Ivan Guzman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15111222?v=4",
+      "profile": "https://github.com/ivngzmn",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "design",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "review",
+        "translation"
+      ]
+    },
+    {
+      "login": "pyogi27",
+      "name": "Patel Yogi Chetanbhai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74909570?v=4",
+      "profile": "https://github.com/pyogi27",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "divin3circle",
+      "name": "Sylus Abel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119014867?v=4",
+      "profile": "https://venusgaming.me/",
+      "contributions": [
+        "code",
+        "question",
+        "bug",
+        "design",
+        "maintenance",
+        "research",
+        "review",
+        "test",
+        "translation",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "diegodemiranda",
+      "name": "Diego de Miranda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97299663?v=4",
+      "profile": "https://www.behance.net/diegodemirandadesign",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "design",
+        "doc",
+        "ideas",
+        "translation",
+        "userTesting"
+      ]
+    },
+    {
       "login": "errantpianist",
       "name": "errantpianist",
       "avatar_url": "https://avatars.githubusercontent.com/u/104738718?v=4",
