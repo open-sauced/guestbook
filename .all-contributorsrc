@@ -3330,6 +3330,22 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "diegodemiranda",
+      "name": "Diego de Miranda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97299663?v=4",
+      "profile": "https://www.behance.net/diegodemirandadesign",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "design",
+        "doc",
+        "ideas",
+        "translation",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
