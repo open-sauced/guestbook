@@ -3425,6 +3425,17 @@
         "infra",
         "security"
       ]
+    },
+    {
+      "login": "madevanni",
+      "name": "Madevanni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229204?v=4",
+      "profile": "https://github.com/madevanni",
+      "contributions": [
+        "question",
+        "bug",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
