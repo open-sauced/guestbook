@@ -3425,6 +3425,16 @@
         "infra",
         "security"
       ]
+    },
+    {
+      "login": "jcrosser",
+      "name": "Jacob Crosser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45647525?v=4",
+      "profile": "https://github.com/jcrosser",
+      "contributions": [
+        "code",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
