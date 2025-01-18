@@ -3425,6 +3425,20 @@
         "infra",
         "security"
       ]
+    },
+    {
+      "login": "Aftar-Ahmad-Sami",
+      "name": "Aftar Ahmad Sami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82672770?v=4",
+      "profile": "https://github.com/Aftar-Ahmad-Sami",
+      "contributions": [
+        "code",
+        "data",
+        "ideas",
+        "infra",
+        "research",
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
