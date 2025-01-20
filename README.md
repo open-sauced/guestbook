@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-238-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-239-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -351,6 +351,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrodyWills"><img src="https://avatars.githubusercontent.com/u/10367244?v=4?s=100" width="100px;" alt="Brody"/><br /><sub><b>Brody</b></sub></a><br /><a href="#question-BrodyWills" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ABrodyWills" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/daivydking"><img src="https://avatars.githubusercontent.com/u/99464402?v=4?s=100" width="100px;" alt="David Chuku"/><br /><sub><b>David Chuku</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Adaivydking" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/irisxvii"><img src="https://avatars.githubusercontent.com/u/140954119?v=4?s=100" width="100px;" alt="iris mariah kurien"/><br /><sub><b>iris mariah kurien</b></sub></a><br /><a href="#content-irisxvii" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aftar-Ahmad-Sami"><img src="https://avatars.githubusercontent.com/u/82672770?v=4?s=100" width="100px;" alt="Aftar Ahmad Sami"/><br /><sub><b>Aftar Ahmad Sami</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Aftar-Ahmad-Sami" title="Code">💻</a> <a href="#data-Aftar-Ahmad-Sami" title="Data">🔣</a> <a href="#ideas-Aftar-Ahmad-Sami" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Aftar-Ahmad-Sami" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#research-Aftar-Ahmad-Sami" title="Research">🔬</a> <a href="#tool-Aftar-Ahmad-Sami" title="Tools">🔧</a></td>
     </tr>
   </tbody>
   <tfoot>
