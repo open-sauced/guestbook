@@ -3435,6 +3435,15 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "daivydking",
+      "name": "David Chuku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99464402?v=4",
+      "profile": "https://github.com/daivydking",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
