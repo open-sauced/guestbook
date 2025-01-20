@@ -3491,6 +3491,16 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "Quartel",
+      "name": "Tobi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109023705?v=4",
+      "profile": "https://github.com/Quartel",
+      "contributions": [
+        "doc",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
