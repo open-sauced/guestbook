@@ -3501,6 +3501,16 @@
         "doc",
         "example"
       ]
+    },
+    {
+      "login": "Rijan-Joshi",
+      "name": "Rijan Shrestha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157405880?v=4",
+      "profile": "https://github.com/Rijan-Joshi",
+      "contributions": [
+        "userTesting",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
