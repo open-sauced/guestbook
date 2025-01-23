@@ -3510,6 +3510,18 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "NeverGray",
+      "name": "Justin M Edenbaum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62964314?v=4",
+      "profile": "https://github.com/NeverGray",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
