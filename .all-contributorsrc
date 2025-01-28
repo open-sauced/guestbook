@@ -3519,7 +3519,9 @@
       "contributions": [
         "bug",
         "doc",
-        "example"
+        "example",
+        "code",
+        "design"
       ]
     }
   ],
