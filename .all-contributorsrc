@@ -3510,6 +3510,17 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "Muskan-Seth03",
+      "name": "Muskan Seth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145761008?v=4",
+      "profile": "https://github.com/Muskan-Seth03",
+      "contributions": [
+        "bug",
+        "doc",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
