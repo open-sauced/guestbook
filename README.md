@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-243-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-244-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -358,6 +358,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://manojtharindu11.github.io/Personal_portfolio_website/"><img src="https://avatars.githubusercontent.com/u/114139836?v=4?s=100" width="100px;" alt="Manoj Thilakarathna"/><br /><sub><b>Manoj Thilakarathna</b></sub></a><br /><a href="#question-manojtharindu11" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=manojtharindu11" title="Code">💻</a> <a href="#data-manojtharindu11" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=manojtharindu11" title="Documentation">📖</a> <a href="#ideas-manojtharindu11" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Quartel"><img src="https://avatars.githubusercontent.com/u/109023705?v=4?s=100" width="100px;" alt="Tobi"/><br /><sub><b>Tobi</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Quartel" title="Documentation">📖</a> <a href="#example-Quartel" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mbadrawy1"><img src="https://avatars.githubusercontent.com/u/48758519?v=4?s=100" width="100px;" alt="Mohamad Badrawy"/><br /><sub><b>Mohamad Badrawy</b></sub></a><br /><a href="#question-mbadrawy1" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/darksoul-7"><img src="https://avatars.githubusercontent.com/u/110017411?v=4?s=100" width="100px;" alt="Aniket Singh"/><br /><sub><b>Aniket Singh</b></sub></a><br /><a href="#question-darksoul-7" title="Answering Questions">💬</a> <a href="#blog-darksoul-7" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=darksoul-7" title="Code">💻</a> <a href="#content-darksoul-7" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=darksoul-7" title="Documentation">📖</a> <a href="#ideas-darksoul-7" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-darksoul-7" title="Research">🔬</a> <a href="#talk-darksoul-7" title="Talks">📢</a></td>
     </tr>
   </tbody>
   <tfoot>
