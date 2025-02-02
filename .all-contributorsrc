@@ -3510,6 +3510,15 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "rhizvo",
+      "name": "Rhizvo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60247282?v=4",
+      "profile": "https://github.com/rhizvo",
+      "contributions": [
+        "promotion"
+      ]
     }
   ],
   "contributorsPerLine": 7,
