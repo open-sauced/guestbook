@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-247-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-248-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -364,6 +364,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Muskan-Seth03"><img src="https://avatars.githubusercontent.com/u/145761008?v=4?s=100" width="100px;" alt="Muskan Seth"/><br /><sub><b>Muskan Seth</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMuskan-Seth03" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Muskan-Seth03" title="Documentation">📖</a> <a href="#example-Muskan-Seth03" title="Examples">💡</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Muskan-Seth03" title="Code">💻</a> <a href="#design-Muskan-Seth03" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shafayat666"><img src="https://avatars.githubusercontent.com/u/83755944?v=4?s=100" width="100px;" alt="MD. SHAFAYAT MAHIN"/><br /><sub><b>MD. SHAFAYAT MAHIN</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ashafayat666" title="Bug reports">🐛</a> <a href="#business-shafayat666" title="Business development">💼</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=shafayat666" title="Code">💻</a> <a href="#ideas-shafayat666" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-shafayat666" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-shafayat666" title="Maintenance">🚧</a> <a href="#mentoring-shafayat666" title="Mentoring">🧑‍🏫</a> <a href="#plugin-shafayat666" title="Plugin/utility libraries">🔌</a> <a href="#projectManagement-shafayat666" title="Project Management">📆</a> <a href="#tool-shafayat666" title="Tools">🔧</a> <a href="#tutorial-shafayat666" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NeverGray"><img src="https://avatars.githubusercontent.com/u/62964314?v=4?s=100" width="100px;" alt="Justin M Edenbaum"/><br /><sub><b>Justin M Edenbaum</b></sub></a><br /><a href="#question-NeverGray" title="Answering Questions">💬</a> <a href="#blog-NeverGray" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=NeverGray" title="Code">💻</a> <a href="#video-NeverGray" title="Videos">📹</a></td>
     </tr>
   </tbody>
   <tfoot>
