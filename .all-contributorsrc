@@ -3542,6 +3542,25 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "shafayat666",
+      "name": "MD. SHAFAYAT MAHIN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83755944?v=4",
+      "profile": "https://github.com/shafayat666",
+      "contributions": [
+        "bug",
+        "business",
+        "code",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
