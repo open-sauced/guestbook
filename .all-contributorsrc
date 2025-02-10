@@ -3593,6 +3593,16 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "muou000",
+      "name": "muou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77525792?v=4",
+      "profile": "https://github.com/muou000",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
