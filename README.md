@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-251-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-252-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -368,6 +368,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rhizvo"><img src="https://avatars.githubusercontent.com/u/60247282?v=4?s=100" width="100px;" alt="Rhizvo"/><br /><sub><b>Rhizvo</b></sub></a><br /><a href="#promotion-rhizvo" title="Promotion">📣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArchILLtect"><img src="https://avatars.githubusercontent.com/u/140122527?v=4?s=100" width="100px;" alt="Nick Hanson Sr"/><br /><sub><b>Nick Hanson Sr</b></sub></a><br /><a href="#question-ArchILLtect" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AArchILLtect" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=ArchILLtect" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/muou000"><img src="https://avatars.githubusercontent.com/u/77525792?v=4?s=100" width="100px;" alt="muou"/><br /><sub><b>muou</b></sub></a><br /><a href="#question-muou000" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amuou000" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://muzammilloya-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/73660510?v=4?s=100" width="100px;" alt="Muhammad Muzammil Loya"/><br /><sub><b>Muhammad Muzammil Loya</b></sub></a><br /><a href="#question-Muzammil-cyber" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AMuzammil-cyber" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
