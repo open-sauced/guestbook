@@ -3615,6 +3615,16 @@
         "research",
         "translation"
       ]
+    },
+    {
+      "login": "hritikyadav07",
+      "name": "Hritik Yadav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144812620?v=4",
+      "profile": "https://github.com/hritikyadav07",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
