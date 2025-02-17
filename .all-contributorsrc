@@ -3603,6 +3603,18 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "shampost",
+      "name": "Cristian Campos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26845137?v=4",
+      "profile": "https://github.com/shampost",
+      "contributions": [
+        "data",
+        "design",
+        "research",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
