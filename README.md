@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-253-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-254-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -372,6 +372,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hritikyadav07"><img src="https://avatars.githubusercontent.com/u/144812620?v=4?s=100" width="100px;" alt="Hritik Yadav"/><br /><sub><b>Hritik Yadav</b></sub></a><br /><a href="#question-hritikyadav07" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ahritikyadav07" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tejasbargujepatil"><img src="https://avatars.githubusercontent.com/u/114840943?v=4?s=100" width="100px;" alt="Barguje Tejas Sanjay"/><br /><sub><b>Barguje Tejas Sanjay</b></sub></a><br /><a href="#question-tejasbargujepatil" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Atejasbargujepatil" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=tejasbargujepatil" title="Code">💻</a> <a href="#financial-tejasbargujepatil" title="Financial">💵</a> <a href="#fundingFinding-tejasbargujepatil" title="Funding Finding">🔍</a> <a href="#mentoring-tejasbargujepatil" title="Mentoring">🧑‍🏫</a> <a href="#research-tejasbargujepatil" title="Research">🔬</a> <a href="#security-tejasbargujepatil" title="Security">🛡️</a></td>
     </tr>
   </tbody>
   <tfoot>

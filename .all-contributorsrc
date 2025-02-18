@@ -3625,6 +3625,22 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "tejasbargujepatil",
+      "name": "Barguje Tejas Sanjay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114840943?v=4",
+      "profile": "https://github.com/tejasbargujepatil",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "financial",
+        "fundingFinding",
+        "mentoring",
+        "research",
+        "security"
+      ]
     }
   ],
   "contributorsPerLine": 7,
