@@ -3625,6 +3625,28 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "AngelMancilla",
+      "name": "Angel Mancilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105815006?v=4",
+      "profile": "https://www.linkedin.com/in/angelmancillaca",
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "fundingFinding",
+        "ideas",
+        "maintenance",
+        "research",
+        "security",
+        "test",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
