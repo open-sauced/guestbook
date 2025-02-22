@@ -3647,6 +3647,17 @@
         "translation",
         "tutorial"
       ]
+    },
+    {
+      "login": "vianneyyovo",
+      "name": "Vianney Yovo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79197812?v=4",
+      "profile": "https://fsrobotics.co.uk/",
+      "contributions": [
+        "business",
+        "code",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
