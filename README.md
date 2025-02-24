@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-255-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-256-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -374,6 +374,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hritikyadav07"><img src="https://avatars.githubusercontent.com/u/144812620?v=4?s=100" width="100px;" alt="Hritik Yadav"/><br /><sub><b>Hritik Yadav</b></sub></a><br /><a href="#question-hritikyadav07" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Ahritikyadav07" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/angelmancillaca"><img src="https://avatars.githubusercontent.com/u/105815006?v=4?s=100" width="100px;" alt="Angel Mancilla"/><br /><sub><b>Angel Mancilla</b></sub></a><br /><a href="#a11y-AngelMancilla" title="Accessibility">️️️️♿️</a> <a href="#blog-AngelMancilla" title="Blogposts">📝</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AAngelMancilla" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=AngelMancilla" title="Code">💻</a> <a href="#content-AngelMancilla" title="Content">🖋</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=AngelMancilla" title="Documentation">📖</a> <a href="#fundingFinding-AngelMancilla" title="Funding Finding">🔍</a> <a href="#ideas-AngelMancilla" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-AngelMancilla" title="Maintenance">🚧</a> <a href="#research-AngelMancilla" title="Research">🔬</a> <a href="#security-AngelMancilla" title="Security">🛡️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=AngelMancilla" title="Tests">⚠️</a> <a href="#translation-AngelMancilla" title="Translation">🌍</a> <a href="#tutorial-AngelMancilla" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ebubecodes"><img src="https://avatars.githubusercontent.com/u/123279755?v=4?s=100" width="100px;" alt="Ebube Ochemba"/><br /><sub><b>Ebube Ochemba</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aebubecodes" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://g.dev/vianneyyovo"><img src="https://avatars.githubusercontent.com/u/79197812?v=4?s=100" width="100px;" alt="Vianney Yovo"/><br /><sub><b>Vianney Yovo</b></sub></a><br /><a href="#business-vianneyyovo" title="Business development">💼</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=vianneyyovo" title="Code">💻</a> <a href="#data-vianneyyovo" title="Data">🔣</a></td>
     </tr>
   </tbody>
   <tfoot>
