@@ -3656,6 +3656,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "vivienogoun",
+      "name": "vivienogoun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171609013?v=4",
+      "profile": "https://github.com/vivienogoun",
+      "contributions": [
+        "content",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
