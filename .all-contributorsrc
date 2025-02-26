@@ -3658,6 +3658,24 @@
       ]
     },
     {
+      "login": "janzengo",
+      "name": "Janzen Go",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30427833?v=4",
+      "profile": "https://github.com/janzengo",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "promotion",
+        "test",
+        "tool",
+        "translation"
+      ]
+    },
+    {
       "login": "vianneyyovo",
       "name": "Vianney Yovo",
       "avatar_url": "https://avatars.githubusercontent.com/u/79197812?v=4",
