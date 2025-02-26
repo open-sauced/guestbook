@@ -3673,7 +3673,18 @@
         "test",
         "tool",
         "translation"
-        ]
+      ]
+    },
+    {
+      "login": "vianneyyovo",
+      "name": "Vianney Yovo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79197812?v=4",
+      "profile": "https://g.dev/vianneyyovo",
+      "contributions": [
+        "business",
+        "code",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
