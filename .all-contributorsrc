@@ -3685,6 +3685,26 @@
         "code",
         "data"
       ]
+    },
+    {
+      "login": "pedropalmav",
+      "name": "Pedro Palma Villanueva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80769811?v=4",
+      "profile": "https://github.com/pedropalmav",
+      "contributions": [
+        "bug",
+        "business",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "plugin",
+        "projectManagement",
+        "review",
+        "test",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
