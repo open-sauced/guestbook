@@ -3714,6 +3714,17 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "aerg04",
+      "name": "Andres Rangel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122407849?v=4",
+      "profile": "https://github.com/aerg04",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
