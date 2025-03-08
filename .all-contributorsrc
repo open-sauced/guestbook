@@ -3714,6 +3714,21 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "robert",
+      "name": "Rob Heaton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1565857?v=4",
+      "profile": "https://robertheaton.com/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "maintenance",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
