@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-260-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-261-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -381,6 +381,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://robertheaton.com/"><img src="https://avatars.githubusercontent.com/u/1565857?v=4?s=100" width="100px;" alt="Rob Heaton"/><br /><sub><b>Rob Heaton</b></sub></a><br /><a href="#question-robert" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Arobert" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=robert" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=robert" title="Documentation">📖</a> <a href="#ideas-robert" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-robert" title="Maintenance">🚧</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=robert" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/voaidesr"><img src="https://avatars.githubusercontent.com/u/134785947?v=4?s=100" width="100px;" alt="Voaides Negustor Robert"/><br /><sub><b>Voaides Negustor Robert</b></sub></a><br /><a href="#question-voaidesr" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=voaidesr" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=voaidesr" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>

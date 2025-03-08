@@ -3729,6 +3729,17 @@
         "maintenance",
         "test"
       ]
+    },
+    {
+      "login": "voaidesr",
+      "name": "Voaides Negustor Robert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134785947?v=4",
+      "profile": "https://github.com/voaidesr",
+      "contributions": [
+        "question",
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
