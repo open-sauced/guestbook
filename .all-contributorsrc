@@ -3714,6 +3714,31 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "crow50",
+      "name": "Ernest Baker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15437063?v=4",
+      "profile": "https://github.com/crow50",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "plugin",
+        "review",
+        "security",
+        "test",
+        "tool",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
