@@ -3714,6 +3714,20 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "Spcxx",
+      "name": "Spc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28925424?v=4",
+      "profile": "https://github.com/Spcxx",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
