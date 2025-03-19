@@ -3753,6 +3753,16 @@
         "tool",
         "tutorial"
       ]
+    },
+    {
+      "login": "arvidtorbjoernsen",
+      "name": "Arvid Torbjørnsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47952684?v=4",
+      "profile": "https://github.com/arvidtorbjoernsen",
+      "contributions": [
+        "question",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
