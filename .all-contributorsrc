@@ -3779,7 +3779,14 @@
       "profile": "https://github.com/TanishqV5",
       "contributions": [
         "question",
-        "bug"
+        "bug",
+        "a11y",
+        "code",
+        "design",
+        "doc",
+        "infra",
+        "maintenance",
+        "plugin"
       ]
     }
   ],
