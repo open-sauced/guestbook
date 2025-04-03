@@ -3812,6 +3812,15 @@
         "review",
         "security"
       ]
+    },
+    {
+      "login": "ValLee4",
+      "name": "ValLee4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160675803?v=4",
+      "profile": "https://github.com/ValLee4",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
