@@ -3780,6 +3780,20 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "matheus0214",
+      "name": "Matheus Gomes Dias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41971792?v=4",
+      "profile": "https://github.com/matheus0214",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "mentoring",
+        "test",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
