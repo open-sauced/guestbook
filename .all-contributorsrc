@@ -3780,6 +3780,19 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "samuelard7",
+      "name": "Richard Samuel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98638849?v=4",
+      "profile": "https://github.com/samuelard7",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
