@@ -3780,6 +3780,34 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "Justin-WebDev",
+      "name": "Turdle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64434732?v=4",
+      "profile": "https://github.com/Justin-WebDev",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "test",
+        "tool",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
