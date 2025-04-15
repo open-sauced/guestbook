@@ -3793,6 +3793,19 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "QUxPTA",
+      "name": "QUxPTA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125445356?v=4",
+      "profile": "https://github.com/QUxPTA",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "content",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
