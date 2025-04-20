@@ -3800,7 +3800,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5052769?v=4",
       "profile": "https://github.com/sademban",
       "contributions": [
-        "question"
+        "question",
+        "bug"
       ]
     }
   ],
