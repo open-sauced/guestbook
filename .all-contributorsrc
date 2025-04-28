@@ -3793,6 +3793,21 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "Alz3bi",
+      "name": "Mohammed Alzoubi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17903675?v=4",
+      "profile": "https://github.com/Alz3bi",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "data",
+        "design",
+        "ideas",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
