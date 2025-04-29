@@ -3862,6 +3862,16 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "Muzammil-cyber",
+      "name": "Muhammad Muzammil Loya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73660510?v=4",
+      "profile": "https://muzammilloya-portfolio.vercel.app/",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
