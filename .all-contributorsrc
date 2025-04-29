@@ -3852,6 +3852,16 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "doraemon2200",
+      "name": "doraemon2200",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106516578?v=4",
+      "profile": "https://github.com/doraemon2200",
+      "contributions": [
+        "code",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
