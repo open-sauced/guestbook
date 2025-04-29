@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-274-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-275-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -399,6 +399,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/voaidesr"><img src="https://avatars.githubusercontent.com/u/134785947?v=4?s=100" width="100px;" alt="Voaides Negustor Robert"/><br /><sub><b>Voaides Negustor Robert</b></sub></a><br /><a href="#question-voaidesr" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=voaidesr" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=voaidesr" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TanishqV5"><img src="https://avatars.githubusercontent.com/u/150074880?v=4?s=100" width="100px;" alt="Tanishq Vaishnav"/><br /><sub><b>Tanishq Vaishnav</b></sub></a><br /><a href="#question-TanishqV5" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ATanishqV5" title="Bug reports">🐛</a> <a href="#a11y-TanishqV5" title="Accessibility">️️️️♿️</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=TanishqV5" title="Code">💻</a> <a href="#design-TanishqV5" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=TanishqV5" title="Documentation">📖</a> <a href="#infra-TanishqV5" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-TanishqV5" title="Maintenance">🚧</a> <a href="#plugin-TanishqV5" title="Plugin/utility libraries">🔌</a></td>
     </tr>
   </tbody>
   <tfoot>

@@ -3908,6 +3908,23 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "TanishqV5",
+      "name": "Tanishq Vaishnav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150074880?v=4",
+      "profile": "https://github.com/TanishqV5",
+      "contributions": [
+        "question",
+        "bug",
+        "a11y",
+        "code",
+        "design",
+        "doc",
+        "infra",
+        "maintenance",
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7,
