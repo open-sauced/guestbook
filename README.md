@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-268-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-269-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -391,6 +391,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/QUxPTA"><img src="https://avatars.githubusercontent.com/u/125445356?v=4?s=100" width="100px;" alt="QUxPTA"/><br /><sub><b>QUxPTA</b></sub></a><br /><a href="#question-QUxPTA" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AQUxPTA" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=QUxPTA" title="Code">💻</a> <a href="#content-QUxPTA" title="Content">🖋</a> <a href="#maintenance-QUxPTA" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lmdingi"><img src="https://avatars.githubusercontent.com/u/67228004?v=4?s=100" width="100px;" alt="Luxolo Mdingi"/><br /><sub><b>Luxolo Mdingi</b></sub></a><br /><a href="#question-Lmdingi" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3ALmdingi" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/madevanni"><img src="https://avatars.githubusercontent.com/u/229204?v=4?s=100" width="100px;" alt="Madevanni"/><br /><sub><b>Madevanni</b></sub></a><br /><a href="#question-madevanni" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Amadevanni" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=madevanni" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
