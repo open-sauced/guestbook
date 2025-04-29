@@ -3831,6 +3831,16 @@
         "content",
         "maintenance"
       ]
+    },
+    {
+      "login": "Lmdingi",
+      "name": "Luxolo Mdingi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67228004?v=4",
+      "profile": "https://github.com/Lmdingi",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
