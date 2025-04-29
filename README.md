@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-265-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-266-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -386,6 +386,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ValLee4"><img src="https://avatars.githubusercontent.com/u/160675803?v=4?s=100" width="100px;" alt="ValLee4"/><br /><sub><b>ValLee4</b></sub></a><br /><a href="#tutorial-ValLee4" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/samuelard7"><img src="https://avatars.githubusercontent.com/u/98638849?v=4?s=100" width="100px;" alt="Richard Samuel"/><br /><sub><b>Richard Samuel</b></sub></a><br /><a href="#question-samuelard7" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=samuelard7" title="Code">💻</a> <a href="#data-samuelard7" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=samuelard7" title="Documentation">📖</a> <a href="#ideas-samuelard7" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Alz3bi"><img src="https://avatars.githubusercontent.com/u/17903675?v=4?s=100" width="100px;" alt="Mohammed Alzoubi"/><br /><sub><b>Mohammed Alzoubi</b></sub></a><br /><a href="#question-Alz3bi" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3AAlz3bi" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=Alz3bi" title="Code">💻</a> <a href="#data-Alz3bi" title="Data">🔣</a> <a href="#design-Alz3bi" title="Design">🎨</a> <a href="#ideas-Alz3bi" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-Alz3bi" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sademban"><img src="https://avatars.githubusercontent.com/u/5052769?v=4?s=100" width="100px;" alt="0xn0b174"/><br /><sub><b>0xn0b174</b></sub></a><br /><a href="#question-sademban" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Asademban" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
