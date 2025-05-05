@@ -3936,6 +3936,17 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "porteristhechampion",
+      "name": "Porter Taylor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153149095?v=4",
+      "profile": "https://github.com/porteristhechampion",
+      "contributions": [
+        "bug",
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
