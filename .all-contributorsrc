@@ -3936,6 +3936,18 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "Hellkryptonium",
+      "name": "Mohd Harish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163094451?v=4",
+      "profile": "https://github.com/Hellkryptonium",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
