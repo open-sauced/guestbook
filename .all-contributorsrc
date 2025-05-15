@@ -3936,6 +3936,16 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "Guruscod",
+      "name": "Gideon Fiadowu Norkplim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184475927?v=4",
+      "profile": "https://github.com/Guruscod",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
