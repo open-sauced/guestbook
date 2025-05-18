@@ -3947,6 +3947,17 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "TheOphige",
+      "name": "Theophilus Ige",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43274618?v=4",
+      "profile": "https://github.com/TheOphige",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
