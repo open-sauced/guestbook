@@ -3947,6 +3947,20 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "drazerd",
+      "name": "drazerd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77742651?v=4",
+      "profile": "https://github.com/drazerd",
+      "contributions": [
+        "question",
+        "bug",
+        "design",
+        "doc",
+        "maintenance",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
