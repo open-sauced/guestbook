@@ -1,4 +1,4 @@
-# Contributing to the Guestbook Repository
+# Contributing Guidelines
 
 This repository is part of the [Intro to Open Source course](https://opensauced.pizza/learn/intro-to-oss/). We recommend you to take and complete the course before you contribute to this repository.
 
