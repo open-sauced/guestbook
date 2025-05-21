@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-278-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-279-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -403,6 +403,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aerg04"><img src="https://avatars.githubusercontent.com/u/122407849?v=4?s=100" width="100px;" alt="Andres Rangel"/><br /><sub><b>Andres Rangel</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aerg04" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=aerg04" title="Documentation">📖</a> <a href="#maintenance-aerg04" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/porteristhechampion"><img src="https://avatars.githubusercontent.com/u/153149095?v=4?s=100" width="100px;" alt="Porter Taylor"/><br /><sub><b>Porter Taylor</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Aporteristhechampion" title="Bug reports">🐛</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=porteristhechampion" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=porteristhechampion" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/drazerd"><img src="https://avatars.githubusercontent.com/u/77742651?v=4?s=100" width="100px;" alt="drazerd"/><br /><sub><b>drazerd</b></sub></a><br /><a href="#question-drazerd" title="Answering Questions">💬</a> <a href="https://github.com/TejasQ/opensauced-guestbook/issues?q=author%3Adrazerd" title="Bug reports">🐛</a> <a href="#design-drazerd" title="Design">🎨</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=drazerd" title="Documentation">📖</a> <a href="#maintenance-drazerd" title="Maintenance">🚧</a> <a href="https://github.com/TejasQ/opensauced-guestbook/pulls?q=is%3Apr+reviewed-by%3Adrazerd" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/topSimpa"><img src="https://avatars.githubusercontent.com/u/92194010?v=4?s=100" width="100px;" alt="Simpa"/><br /><sub><b>Simpa</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=topSimpa" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
