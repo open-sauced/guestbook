@@ -3961,6 +3961,15 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "topSimpa",
+      "name": "Simpa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92194010?v=4",
+      "profile": "https://github.com/topSimpa",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
