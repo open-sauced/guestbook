@@ -3938,14 +3938,51 @@
       ]
     },
     {
-      "login": "frustateduser",
-      "name": "KOUSTUBH BADSHAH",
-      "avatar_url": "https://avatars.githubusercontent.com/u/137117503?v=4",
-      "profile": "https://frustateduser.github.io/koustubh.github.io/",
-      "contributions": [
-        "question",
-        "bug",
-        "a11y"
+{
+  "login": "frustateduser",
+  "name": "KOUSTUBH BADSHAH",
+  "avatar_url": "https://avatars.githubusercontent.com/u/137117503?v=4",
+  "profile": "https://frustateduser.github.io/koustubh.github.io/",
+  "contributions": [
+    "question",
+    "bug",
+    "a11y"
+  ]
+},
+{
+  "login": "porteristhechampion",
+  "name": "Porter Taylor",
+  "avatar_url": "https://avatars.githubusercontent.com/u/153149095?v=4",
+  "profile": "https://github.com/porteristhechampion",
+  "contributions": [
+    "bug",
+    "code",
+    "doc"
+  ]
+},
+{
+  "login": "drazerd",
+  "name": "drazerd",
+  "avatar_url": "https://avatars.githubusercontent.com/u/77742651?v=4",
+  "profile": "https://github.com/drazerd",
+  "contributions": [
+    "question",
+    "bug",
+    "design",
+    "doc",
+    "maintenance",
+    "review"
+  ]
+},
+{
+  "login": "topSimpa",
+  "name": "Simpa",
+  "avatar_url": "https://avatars.githubusercontent.com/u/92194010?v=4",
+  "profile": "https://github.com/topSimpa",
+  "contributions": [
+    "code"
+  ]
+}
       ]
     }
   ],
