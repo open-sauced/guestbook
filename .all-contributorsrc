@@ -3938,6 +3938,17 @@
       ]
     },
     {
+      "login": "frustateduser",
+      "name": "KOUSTUBH BADSHAH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137117503?v=4",
+      "profile": "https://frustateduser.github.io/koustubh.github.io/",
+      "contributions": [
+        "question",
+        "bug",
+        "a11y"
+      ]
+    },
+    {
       "login": "porteristhechampion",
       "name": "Porter Taylor",
       "avatar_url": "https://avatars.githubusercontent.com/u/153149095?v=4",
@@ -3969,6 +3980,70 @@
       "profile": "https://github.com/topSimpa",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "TomasDarquier",
+      "name": "Tomas Darquier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85067215?v=4",
+      "profile": "https://blog.tomasdarquier.com/",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "doc",
+        "infra"
+      ]
+    },
+    {
+      "login": "matheus0214",
+      "name": "Matheus Gomes Dias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41971792?v=4",
+      "profile": "https://github.com/matheus0214",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "mentoring",
+        "test",
+        "translation"
+      ]
+    },
+    {
+      "login": "JingjieGao",
+      "name": "Jingjie Gao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196408425?v=4",
+      "profile": "https://github.com/JingjieGao",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "Justin-WebDev",
+      "name": "Turdle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64434732?v=4",
+      "profile": "https://github.com/Justin-WebDev",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "promotion",
+        "research",
+        "review",
+        "test",
+        "tool",
+        "tutorial",
+        "userTesting"
       ]
     }
   ],
