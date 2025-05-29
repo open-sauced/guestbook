@@ -3981,6 +3981,19 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "TomasDarquier",
+      "name": "Tomas Darquier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85067215?v=4",
+      "profile": "https://blog.tomasdarquier.com/",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "doc",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
