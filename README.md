@@ -34,7 +34,7 @@ All contributors are required to abide by our [Code of Conduct](https://github.c
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-282-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-283-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ✨ Contributors
@@ -409,6 +409,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://blog.tomasdarquier.com/"><img src="https://avatars.githubusercontent.com/u/85067215?v=4?s=100" width="100px;" alt="Tomas Darquier"/><br /><sub><b>Tomas Darquier</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=TomasDarquier" title="Code">💻</a> <a href="#content-TomasDarquier" title="Content">🖋</a> <a href="#data-TomasDarquier" title="Data">🔣</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=TomasDarquier" title="Documentation">📖</a> <a href="#infra-TomasDarquier" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/matheus0214"><img src="https://avatars.githubusercontent.com/u/41971792?v=4?s=100" width="100px;" alt="Matheus Gomes Dias"/><br /><sub><b>Matheus Gomes Dias</b></sub></a><br /><a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=matheus0214" title="Code">💻</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=matheus0214" title="Documentation">📖</a> <a href="#maintenance-matheus0214" title="Maintenance">🚧</a> <a href="#mentoring-matheus0214" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/TejasQ/opensauced-guestbook/commits?author=matheus0214" title="Tests">⚠️</a> <a href="#translation-matheus0214" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JingjieGao"><img src="https://avatars.githubusercontent.com/u/196408425?v=4?s=100" width="100px;" alt="Jingjie Gao"/><br /><sub><b>Jingjie Gao</b></sub></a><br /><a href="#question-JingjieGao" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
   <tfoot>
