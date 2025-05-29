@@ -56,8 +56,8 @@ More information about link issue: https://docs.github.com/en/issues/tracking-yo
   commits if your PR already received reviews or comments.
 
   Before submitting a Pull Request, please ensure you've done the following:
-  - 📖 Read the Open Sauced Contributing Guide: https://github.com/open-sauced/.github/blob/main/CONTRIBUTING.md.
-  - 📖 Read the Open Sauced Code of Conduct: https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md.
+  - 📖 Read the Contributing Guide: https://github.com/Virtual-Coffee/guestbook/blob/main/CONTRIBUTING.md.
+  - 📖 Read the Code of Conduct: https://virtualcoffee.io/code-of-conduct.
   - 👷‍♀️ Create small PRs. In most cases, this will be possible.
   - 📝 Use descriptive commit messages.
   - 📗 Update any related documentation and include any relevant screenshots.
