@@ -4045,6 +4045,16 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "edwinkuruvila",
+      "name": "Edwin Kuruvila",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72676609?v=4",
+      "profile": "https://github.com/edwinkuruvila",
+      "contributions": [
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
