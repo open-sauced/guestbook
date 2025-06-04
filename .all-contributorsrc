@@ -4055,6 +4055,17 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "Ufidtech",
+      "name": "Danjuma Ibrahim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180030586?v=4",
+      "profile": "https://github.com/Ufidtech",
+      "contributions": [
+        "a11y",
+        "question",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
