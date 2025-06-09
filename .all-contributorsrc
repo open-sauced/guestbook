@@ -4055,6 +4055,20 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "mathncode-sid",
+      "name": "Sidney Baraka Muriuki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168301526?v=4",
+      "profile": "https://math-n-code-sid.netlify.app/",
+      "contributions": [
+        "question",
+        "blog",
+        "code",
+        "data",
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
