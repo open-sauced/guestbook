@@ -4065,6 +4065,29 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "darlopvil",
+      "name": "darlopvil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60988792?v=4",
+      "profile": "https://github.com/darlopvil",
+      "contributions": [
+        "question",
+        "blog",
+        "bug",
+        "code",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "research",
+        "security",
+        "test",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
